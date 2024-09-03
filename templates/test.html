@@ -43,6 +43,7 @@
             </div> <br>
             <div class="container border rounded p-2">
                 <div class="grid row-gap-3">
+                    <p>Mutaxasislik</p>
                     {% for spec_question in spec_questions %}
                         <div class="p-2 g-col-12">
                             <p class="fs-4">{{ forloop.counter }}. {{ spec_question.content|safe }}</p>
@@ -62,6 +63,78 @@
                                 <div>
                                     <input class="form-check-input" required type="radio" name="spec_answer_{{ spec_question.pk }}" id="spec_answer_{{ spec_question.pk }}_d" value="d{{spec_question.correct}}">
                                     <label for="spec_answer_{{ spec_question.pk }}_d">{{ spec_question.answer_d }}</label>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                    <p>Pedagogika texnologiyalari</p>
+                    {% for ped_question in ped_questions %}
+                        <div class="p-2 g-col-12">
+                            <p class="fs-4">{{ forloop.counter }}. {{ ped_question.content|safe }}</p>
+                            <div class="px-5">
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ ped_question.pk }}" id="spec_answer_{{ ped_question.pk }}_a" value="a{{ped_question.correct}}">
+                                    <label for="spec_answer_{{ ped_question.pk }}_a">{{ ped_question.answer_a }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ ped_question.pk }}" id="spec_answer_{{ ped_question.pk }}_b" value="b{{ped_question.correct}}">
+                                    <label for="spec_answer_{{ ped_question.pk }}_b">{{ ped_question.answer_b }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ ped_question.pk }}" id="spec_answer_{{ ped_question.pk }}_c" value="c{{ped_question.correct}}">
+                                    <label for="spec_answer_{{ ped_question.pk }}_c">{{ ped_question.answer_c }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ ped_question.pk }}" id="spec_answer_{{ ped_question.pk }}_d" value="d{{ped_question.correct}}">
+                                    <label for="spec_answer_{{ ped_question.pk }}_d">{{ ped_question.answer_d }}</label>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                    <p>IT</p>
+                    {% for it_question in it_questions %}
+                        <div class="p-2 g-col-12">
+                            <p class="fs-4">{{ forloop.counter }}. {{ it_question.content|safe }}</p>
+                            <div class="px-5">
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ it_question.pk }}" id="spec_answer_{{ it_question.pk }}_a" value="a{{it_question.correct}}">
+                                    <label for="spec_answer_{{ it_question.pk }}_a">{{ it_question.answer_a }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ it_question.pk }}" id="spec_answer_{{ it_question.pk }}_b" value="b{{it_question.correct}}">
+                                    <label for="spec_answer_{{ it_question.pk }}_b">{{ it_question.answer_b }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ it_question.pk }}" id="spec_answer_{{ it_question.pk }}_c" value="c{{it_question.correct}}">
+                                    <label for="spec_answer_{{ it_question.pk }}_c">{{ it_question.answer_c }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ it_question.pk }}" id="spec_answer_{{ it_question.pk }}_d" value="d{{it_question.correct}}">
+                                    <label for="spec_answer_{{ it_question.pk }}_d">{{ it_question.answer_d }}</label>
+                                </div>
+                            </div>
+                        </div>
+                    {% endfor %}
+                    <p>Xorijiy til</p>
+                    {% for lang_question in lang_questions %}
+                        <div class="p-2 g-col-12">
+                            <p class="fs-4">{{ forloop.counter }}. {{ lang_question.content|safe }}</p>
+                            <div class="px-5">
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ lang_question.pk }}" id="spec_answer_{{ lang_question.pk }}_a" value="a{{lang_question.correct}}">
+                                    <label for="spec_answer_{{ lang_question.pk }}_a">{{ lang_question.answer_a }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ lang_question.pk }}" id="spec_answer_{{ lang_question.pk }}_b" value="b{{lang_question.correct}}">
+                                    <label for="spec_answer_{{ lang_question.pk }}_b">{{ lang_question.answer_b }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ lang_question.pk }}" id="spec_answer_{{ lang_question.pk }}_c" value="c{{lang_question.correct}}">
+                                    <label for="spec_answer_{{ lang_question.pk }}_c">{{ lang_question.answer_c }}</label>
+                                </div>
+                                <div>
+                                    <input class="form-check-input" required type="radio" name="spec_answer_{{ lang_question.pk }}" id="spec_answer_{{ lang_question.pk }}_d" value="d{{lang_question.correct}}">
+                                    <label for="spec_answer_{{ lang_question.pk }}_d">{{ lang_question.answer_d }}</label>
                                 </div>
                             </div>
                         </div>

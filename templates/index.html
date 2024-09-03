@@ -74,6 +74,13 @@
                             {% for spec in specs %}
                                 <option value="{{ spec.id }}">{{ spec }}</option>
                             {% endfor %}
+                        </select> <br>
+                        <label for="spec">Til</label>
+                        <select required name="lang" id="lang" class="form-select">
+                            <option value="">Tanlang</option>
+                            {% for lang in langs %}
+                                <option value="{{ lang.id }}">{{ lang }}</option>
+                            {% endfor %}
                         </select>
                     </div>
                     <div class="modal-footer">

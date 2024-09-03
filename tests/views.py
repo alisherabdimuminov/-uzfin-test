@@ -12,11 +12,12 @@ def home(request: HttpRequest):
         return redirect("login")
     user = request.user
     tests = Test.objects.filter(user=user)
-    specs = Specialist.objects.all()
-    print(tests)
+    specs = Specialist.objects.filter(is_additional=False)
+    langs = Specialist.objects.filter(name__icontains="Xorijiy til", is_additional=True)
     return render(request, "index.html", {
         "tests": tests,
         "specs": specs,
+        "langs": langs,
     })
 
 
@@ -24,7 +25,9 @@ def test(request: HttpRequest, pk: int):
     if request.user.is_anonymous:
         return redirect("login")
     spec_pk = request.GET.get("spec")
+    lang_pk = request.GET.get("lang")
     test_obj = get_object_or_404(Test, pk=pk)
+    lang_obj = get_object_or_404(Specialist, pk=pk)
 
     if test_obj.end_date:
         if test_obj.end_date < timezone.now():
@@ -41,18 +44,21 @@ def test(request: HttpRequest, pk: int):
         test_obj.end_date = test_obj.start_date + timedelta(minutes=test_obj.duration)
         test_obj.save()
 
-    ped_spec = Specialist.objects.filter(name="Pedagogika", lang=test_obj.spec.lang).first()
-    it_spec = Specialist.objects.filter(name="IT", lang=test_obj.spec.lang).first()
+    ped_spec = Specialist.objects.filter(name="Pedagogika texnologiyalari", is_additional=True).first()
+    it_spec = Specialist.objects.filter(name="IT", lang=test_obj.spec.lang, is_additional=True).first()
 
-    spec_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")
-    ped_questions_obj = Question.objects.filter(specialist=ped_spec).order_by("?")
-    it_questions_obj = Question.objects.filter(specialist=it_spec).order_by("?")
-    lang_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")
+    spec_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")[:30]
+    ped_questions_obj = Question.objects.filter(specialist=ped_spec).order_by("?")[:10]
+    it_questions_obj = Question.objects.filter(specialist=it_spec).order_by("?")[:5]
+    lang_questions_obj = Question.objects.filter(specialist=lang_obj).order_by("?")[:5]
 
     return render(request, "test.html", {
         "test": test_obj,
         "spec": test_obj.spec,
         "spec_questions": spec_questions_obj,
+        "ped_questions": ped_questions_obj,
+        "it_questions": it_questions_obj,
+        "lang_questions": lang_questions_obj,
     })
 
 

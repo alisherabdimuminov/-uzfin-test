@@ -39,6 +39,7 @@ def langer(lang_code: str):
 class Specialist(models.Model):
     name = models.CharField(max_length=100)
     lang = models.CharField(max_length=20, choices=LANGUAGE)
+    is_additional = models.BooleanField(default=False)
 
     def __str__(self):
         return f"{self.name} ({langer(self.lang)})"
