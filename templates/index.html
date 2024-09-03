@@ -54,41 +54,11 @@
                                 {% endif %}
                             </td>
                         </tr>
+
+                        
                     {% endfor %}
                 </tbody>
             </table>
-        </div>
-
-        <!-- Ask modal -->
-        <div class="modal fade" id="ask" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-hidden="true">
-            <div class="modal-dialog modal-dialog-centered">
-                <div class="modal-content">
-                    <div class="modal-header">
-                        <p class="modal-title">Tanlang</p>
-                        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    </div>
-                    <div class="modal-body">
-                        <label for="spec">Mutaxasislik</label>
-                        <select required name="mutaxasislik" id="spec" class="form-select">
-                            <option value="">Tanlang</option>
-                            {% for spec in specs %}
-                                <option value="{{ spec.id }}">{{ spec }}</option>
-                            {% endfor %}
-                        </select> <br>
-                        <label for="spec">Til</label>
-                        <select required name="lang" id="lang" class="form-select">
-                            <option value="">Tanlang</option>
-                            {% for lang in langs %}
-                                <option value="{{ lang.id }}">{{ lang }}</option>
-                            {% endfor %}
-                        </select>
-                    </div>
-                    <div class="modal-footer">
-                        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Yopish</button>
-                        <button type="button" onclick="goToTest()" class="btn btn-primary">Boshlash</button>                
-                    </div>
-                </div>
-            </div>
         </div>
 
         <script>
@@ -97,11 +67,11 @@
             }
         </script>
         <script>
-            const goToTest = () => {
+            const goToTest = (test) => {
                 let spec = document.getElementById("spec");
 
                 if (spec.value !== "") {
-                    window.location.href = window.location.href + `test/1/?spec=${spec.value}`;
+                    window.location.href = window.location.href + `test/${test}/?spec=${spec.value}`;
                 } else {
 
                 }

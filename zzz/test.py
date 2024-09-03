@@ -7,7 +7,7 @@ def templ(file: str, correct: str = "*", spec: int = 1):
         text = file.read().strip().split("\n\n")
     i = 1
     for question in text:
-        c = "a"
+        cor = "a"
         question = question.split("\n")
         a = question.pop(-4).strip()
         b = question.pop(-3).strip()
@@ -25,13 +25,13 @@ def templ(file: str, correct: str = "*", spec: int = 1):
         d = answers[3]
 
         if a[0] == correct:
-            c = "a"
+            cor = "a"
         elif b[0] == correct:
-            c = "b"
+            cor = "b"
         elif c[0] == correct:
-            c = "c"
+            cor = "c"
         else:
-            c = "d"
+            cor = "d"
     
         a = a.replace(correct, "", 1).strip()
         b = b.replace(correct, "", 1).strip()
@@ -43,23 +43,24 @@ def templ(file: str, correct: str = "*", spec: int = 1):
         print("b)", b)
         print("c)", c)
         print("d)", d)
-        print()
         i += 1
 
         data = {
-            "spec": 7,
+            "spec": spec,
             "content": content,
             "answer_a": a,
             "answer_b": b,
             "answer_c": c,
             "answer_d": d,
-            "correct": correct
+            "correct": cor
         }
         url = "https://test.uzfi.uz/create/question/"
         res = requests.post(url=url, data=data)
         print(res.text)
+        print()
 
-# templ("bio", "*", )
+
+templ("tilsh", "*", 4)
 
 def cu(url: str = "https://test.uzfi.uz/create/user/"):
     with open("users.txt", "r") as f:
@@ -84,7 +85,7 @@ def cu(url: str = "https://test.uzfi.uz/create/user/"):
         res = requests.post(url=url, data=data)
         print(res.text)
 
-cu()
+# cu()
 
 # import requests
 
