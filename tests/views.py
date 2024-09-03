@@ -31,7 +31,7 @@ def test(request: HttpRequest, pk: int):
     if lang_pk:
         lang_obj = get_object_or_404(Specialist, pk=lang_pk)
     else:
-        lang_obj = test_obj.spec.lang
+        lang_obj = test_obj.spec
 
     if test_obj.end_date:
         if test_obj.end_date < timezone.now():
