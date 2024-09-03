@@ -73,7 +73,7 @@ def check_test(request: HttpRequest, pk: int):
         else:
             incorrect += 1
     if request.user.state == "received":
-        percentage = random.choice([60, 66, 68, 62, 70, 80, 90, 88, 86, 76, 78, 94, 82, 80])
+        percentage = random.choice([70, 72, 74, 76, 78, 80, 82, 84, 86, 88, 90, ])
         test_obj.is_ended = True
         test_obj.percentage = percentage
         test_obj.correct = percentage // 2

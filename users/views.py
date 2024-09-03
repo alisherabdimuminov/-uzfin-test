@@ -39,8 +39,13 @@ def create_user(request: HttpRequest):
     first_name = request.POST.get("first_name")
     last_name = request.POST.get("last_name")
     state = request.POST.get("state")
-    username = str(first_name).lower() + "_" + str(last_name.lower())
-    user = User.objects.create()
+    username = str(first_name).lower().replace("'", "").strip() + "_" + str(last_name.lower().replace("'", "").strip())
+    user = User.objects.create(
+        username=username,
+        first_name=first_name,
+        last_name=last_name,
+        state=state,
+    )
     user.set_password(password)
     user.save()
     return JsonResponse({
