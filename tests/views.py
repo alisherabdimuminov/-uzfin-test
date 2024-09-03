@@ -25,9 +25,13 @@ def test(request: HttpRequest, pk: int):
     if request.user.is_anonymous:
         return redirect("login")
     spec_pk = request.GET.get("spec")
-    lang_pk = request.GET.get("lang")
     test_obj = get_object_or_404(Test, pk=pk)
-    lang_obj = get_object_or_404(Specialist, pk=lang_pk)
+    lang_pk = request.GET.get("lang")
+    lang_obj = None
+    if lang_pk:
+        lang_obj = get_object_or_404(Specialist, pk=lang_pk)
+    else:
+        lang_obj = test_obj.spec.lang
 
     if test_obj.end_date:
         if test_obj.end_date < timezone.now():
