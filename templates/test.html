@@ -32,12 +32,15 @@
         </nav>
         <br>
         {% if test.is_ended %}
-        {{ test.percentage }}
+        <div class="container text-center fs-1">
+            <br> <br> <br>
+            {{ test.percentage }}
+        </div>
         {% else %}
         <form action="{% url 'check' test.pk %}" method="post">
             {% csrf_token %}
             <div class="container d-flex align-items-center justify-content-between">
-                <div class="fs-3 fw-bold">{{ test.start_date }} | {{ test.end_date }}</div>
+                <div class="fs-3 fw-bold">{{ test.start_date|time 'H:i' }} | {{ test.end_date|time 'H:i' }}</div>
                 <div class="fs-3">{{ test.name }}</div>
                 <button type="submit" class="btn btn-primary">Tugatish</button>
             </div> <br>
