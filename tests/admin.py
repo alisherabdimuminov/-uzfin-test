@@ -11,6 +11,8 @@ class TestModelAdmin(admin.ModelAdmin):
 @admin.register(Question)
 class QuestionModelAdmin(admin.ModelAdmin):
     list_display = ["content", "correct", ]
+    list_filter = ["specialist"]
+    search_fields = ["content", "answer_a", "answer_b", "answer_c", "asnwer_d"]
 
 
 @admin.register(Specialist)
