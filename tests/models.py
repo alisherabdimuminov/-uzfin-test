@@ -1,4 +1,5 @@
 from django.db import models
+from ckeditor_uploader.fields import RichTextUploadingField
 
 from users.models import User
 
@@ -45,11 +46,11 @@ class Specialist(models.Model):
 
 class Question(models.Model):
     specialist = models.ForeignKey(Specialist, on_delete=models.CASCADE, null=True, blank=True)
-    content = models.TextField()
-    answer_a = models.TextField()
-    answer_b = models.TextField()
-    answer_c = models.TextField()
-    answer_d = models.TextField()
+    content = RichTextUploadingField()
+    answer_a = RichTextUploadingField()
+    answer_b = RichTextUploadingField()
+    answer_c = RichTextUploadingField()
+    answer_d = RichTextUploadingField()
     correct = models.CharField(max_length=2, choices=ANSWER)
 
     def __str__(self):
