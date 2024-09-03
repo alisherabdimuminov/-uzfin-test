@@ -42,7 +42,7 @@
             <div class="container d-flex align-items-center justify-content-between">
                 {% if test.start_date and test.end_date %}
                 <div class="fs-3 fw-bold">
-                    {{ test.start_date|date 'H' }} | {{ test.end_date|date 'H' }}
+                    {{ test.start_date|date:'H:m' }} | {{ test.end_date|date:'H:m' }}
                 </div>
                 {% endif %}
                 <div class="fs-3">{{ test.name }}</div>
