@@ -1,0 +1,1238 @@
+Web sayt bu...
+* bir qancha vebsahifalarning mantiqiy birlashmasi
+o’zining unikal adresiga ega bo’lgan xujjatdir
+unga multimediali xujjatlar boshqa xujjatlarga gipermurojaatlar kiradi
+u ma’lumotlar bazalari va multimediali ma’lumotlarni birbiriga moslashtiradi
+
+www –
+*bu kliyentserver texnologiyasi asosida tashkil etilgan, keng tarqalgan Internet xizmatidir bu veb sahifalar yaratish texnologiyasidir
+unda sahifalar va veb saytlar saqlanadi
+bir qancha veb sahifalar mantiqiy birlashmasidir
+veb sahifalar yaratish texnologiyasidir
+
+Websahifa bu
+* yagona adresga ega bo’lgan, (brauzer yordamida) ochish va ko’rish imkoniyatiga ega bo’lgan xujjatdir
+tarmoqqa ulangan kompyuterda, kliyentga belgilangan umumiy vazifalarni bajarish uchun foydalaniluvchi sahifadir kliyentserver arxitekturasi asosidagi, keng tarqalgan Internetning axborot xizmati
+keng tarqalgan Internet xizmati
+to’g’ri javob ko’rsatilmagan
+
+Yagona adresga ega va (brauzer yordamida) ochish, o’qish imkoniyatiga ega bo’lgan xujjat...
+* websahifa
+web sayt
+elektron magazin
+webserver
+
+World Wide Web deganda nimani tushunamiz?
+* Xalqaro o‘rgimchak  to’ri xalqaro pochta tarmogi. 
+Xalqaro aloqa tarmog’i;
+Kompyuterni
+Lokal tarmoqni
+
+Webbrauzerning asosiy vazifalari qaysilar ?
+* Websahifani xotiraga yuklash va ko’rish,saqlash,chiqarish; Websahifani xotiraga yuklash va ko’rish,chiqarish Websahifani saqlash,chiqaris   We sahifada ishlash
+Websahifa bu... yagona adresga ega bo’lgan, (brauzera yordamida) ochish va ko’rish imkoniyatiga ega bo’lgan xujjatdir tarmoqqa ulangan kompyuterda, kliyentga belgilangan umumiy vazifalarni bajarish uchun foydalaniluvchi sahifadir
+kliyentserver arxitekturasi asosidagi, keng tarqalgan Internetning axborot xizmati to’g’ri javob ko’rsatilmagan
+
+Word wide web nechanchi yillarda yaratilgan? 
+* 19921993 
+19951996 
+19981998 
+20002001
+
+HTML nima?
+* Deskriptorlardan foydalanib yoziladigan til Dasturlash tili WEBsahifa nomi
+Deskriptorlardan foydalanilmay yoziladigan til 
+Yagona adresga ega va (brauzera yordamida) ochish, o’qish imkoniyatiga ega bo’lgan xujjat… 
+Websahifa Elektron magazin Webserver Websayt
+
+9. Websayt nima?  
+* aniq maqsad asosida mantiqiy bog‘langan websahifalar birlashmasi  
+kliyentserver texnologiyasiga asoslangan, keng tarkalgan Internet ning axborot xizmatidir 
+Web sahifa  Yagona adresga ega bulgan xujjat 
+brauzer 
+
+web texnologiyalar...
+* ma’lumotlarni statik tasvirlovchi va interaktiv muloqotni ta’minlovchi texnologiyadir ssenariylar tilidir
+stil tavsivlovchi tildir
+kliyentserver texnologiyasi
+peer to peer texnologiyasi
+
+Razmetkali tillar bu 
+* HTML, XML, XHTML 
+WML Java Script, VB Script 
+SQL tili, C tili 
+PHP, JSP, ASP texnologiyasi
+
+Ssenariyli tillar:
+* Java Script, VB Script 
+Perl, PHP, JSP… Paskal
+Delfi Java Script, VB Script
+HTML, XML, XHTML, WML
+
+Domain nima? 
+* xujjatni  qaysi domendan kelganligini ifodalovchi qator
+Fon rangi bilan berilgan qator Xujjat matni rangini beruvchi qator
+xujjat URL adresi 
+to'g'ri javob yo'q
+
+HTML tili
+* gipermatnlarni belgilovchi tildir
+algoritmik til
+texnik masalalarni yechishga mo’ljallangan til dasturlash tili
+dasturlash tili
+
+TEG nima?
+* HTML ning buyrug’i 
+Web sahifa
+HTML dagi izoh 
+Web sayt
+
+Bloknot matn muharririda yozilgan HTML hujjatini qanday kengaytma bilan saqlash lozim? 
+* Html
+Txt
+Doc
+Xls
+
+Qaysi teg HTML xujjatini ifodalaydi? 
+* HTML 
+BODY 
+META 
+ISINDEX
+
+“Teg” nechiga bo’linadi va qanday? 
+* juft va toq 
+juft  
+teglar juft va toq bo'lmaydi
+to’g’ri javob yo’q
+
+HTML da abzas ajratish qaysi diskriptor orqali belgilanadi 
+* <p> 
+<t> 
+<br>	 
+<ip>
+
+Html tilida <B>..</B>  tegi nima vazifani bajaradi 
+* matnni qalin shriftda ifodalaydi 
+matnni qiya shriftda ifodalaydi 
+matnni tagiga chizilgan shriftda ifodalaydi 
+Html da bunday teg mavjud emas
+
+WEB sahifa nomini ifodalashda qaysi tegdan foydalaniladi? 
+* <title>        
+<body>        
+<br> 
+<html>         
+
+HTMLxujjat nima? 
+* Matnli fayl bo’lib WEB sahifani tashkil etadi 
+Katalog fayl 
+WEBsayt     
+Matn faylidir
+
+Qaysi teg forma ichida qayerga ma’lumot kiritilishini ifodalaydi? 
+* <input>
+<form>
+<center>
+<html>
+
+HTMLda kommentariy sintaksisi qanday?
+* <! Bu kommentariy> 
+//Bu kommentariy//
+<! Bu kommentariy
+<Bu kommentariy>
+
+Formada parol kiritish kerak bo’lsa qaysi atributdan foydalaniladi
+* password
+radio image
+reset
+word
+
+Qaysi teg HTML xujjatning tanasini ifodalaydi? 
+* body 
+html
+head
+title
+
+Qaysi teg World Wide Webda meta ma'lumotlarni kiritishda ishlatiladi? 
+* meta
+title
+head 
+html
+
+Orqa fonga rang qanday beriladi?
+* <body bgcolor= pink>
+<body color=pink>
+<body bgcolor=pink>
+<body bgcolour=pink>
+
+Qanday ma’lumotlar mantiqiy ma’lumotlar bo’la oladi? 
+* true va false
+NaN
+Butun sanlar 
+barcha javoblar to’g’ri
+
+Qaysi teg HTML xujjatning tanasini ifodalamaydi?
+* barchasi ifodalamaydi
+title
+html
+head
+
+BODY tegining qaysi atributi sahifa rangini berishda qo'llaniladi?
+* bgcolor
+color
+background
+text
+
+Sahifa fonini to’g’ri ko’rsatish variantini ko’rsating. 
+* <body bgcolor="yellow"> 
+<body background="yellow"> 
+<body color="yellow"> 
+<body text="yellow">
+
+Qaysi atributi “faol” giperssilkaning rangini o’zgartirish uchun ishlatiladi? 
+* alink
+color
+vlink
+link
+
+Qaysi teg HTML xujjat sarlavxasini ifodalaydi? 
+* title 
+meta 
+head 
+body
+
+Qaysi atribut berilgan matnli  ssilkalar rangini ifodalaydi? 
+* alink
+vlink
+link
+text
+
+<p> tegi nima uchun qo’llaniladi? 
+* matnni paragraflarga ajratish uchunb qo’llaniladi
+Obyektni ko’rsatilgan joyga o’rnatish va shu nuqtadan bo’sh satrga matnni davom ettirish uchun 
+Sarlavhani ifodalash uchun
+Tartibsiz ro’yxat xosil qilish uchun
+
+Qaysi teg matn qo’shtirnoq bilan tugashi uchun qo’llaniladi? 
+* <q>...</q>
+<yem>...</yem> 
+<sode>...</sode> 
+<var>...</var> 
+
+<img> tegining qat’iy atributlarini toping 
+* src 
+alt 
+nref 
+tyre
+
+Qaysi usul joriy oynani ko'rsatadi yoki yangisini ochadi? 
+* open
+top
+write
+close
+
+Qaysi teglar shrift teglari? 
+* tt, i, b, u
+meta, i, b, 
+kbd cite, code, samp 
+Bunday teg yo’q
+
+Avtomatik ravishda keyingi satrga o’tish qaysi teg orqali amalga oshiriladi   
+* br
+nobr
+blockquote
+pre
+
+body tegining qaysi atributi sahifa rangini berishda qo’llaniladi? 
+* bgcolor 
+color 
+background 
+stylecolor
+
+Formada parol kiritish kerak bo’lsa qaysi kattalikdan foydalanishga to’g’ri keladi? 
+* password 
+radio 
+image 
+reset
+
+Rasm qo’yish tegini ko’rsating. 
+* <img src=rasm.jpg> 
+<img src=rasm.jpg> </img> 
+<picture src=rasm.jpg/> 
+<picture> src=rasm.jpg </picture>
+
+Orqa fonga rang qanday beriladi? 
+* <body bgcolor= pink></body> 
+<color=pink></color> 
+<table color=pink></table> 
+<font color=pink></font>
+
+<hr> tegidagi qaysi atribut yordamida chiziq rangini o’rnatadi? 
+* color 
+align 
+width 
+right
+
+Websahifaga nomerlangan ro’yxat kiritish vaqtida START atributi qanday vazifani bajaradi?
+* nomerlangan ro'yxatni boshlash raqamini belgilaydi.
+marker turini aniqlaydi
+nomerlangan ro'yxatni o'sish tartibida joylashtiradi
+nomerlangan ro'yxatni kamayiyish tartibida joylashtiradi 
+
+<ol reversed>  ...  </ol> qanday vazifani bajaradi?
+* nomerlangan ro'yxatni kamayiyish tartibida joylashtiradi 
+nomerlangan ro'yxatni boshlash raqamini belgilaydi.
+marker turini aniqlaydi
+nomerlangan ro'yxatni o'sish tartibida joylashtiradi
+
+Web –sahifadagi matn shrifti o’lchamini o'zgartirish qaysi qatorda to'g'ri ifodalangan? 
+* <font size="raqam">...</font>
+<font size='raqam'>...</font>
+<fontsize=raqam>...</font>
+<fontsize="raqam">...</font>
+
+form tegining method atributining nechta qiymati bor?
+* ikkita: get, post
+bitta: get
+bitta: post
+uchta: get, post, null
+
+Formada parol kiritish kerak bo’lsa qaysi kattalikdan foydalanishga to’g’ri keladi?
+* password
+radio
+image
+reset
+
+<form> <input type=button value= “Yahoo” onClick= “location.href=http://www.yahoo.com;” > </form> Natijani ko’rsating?
+* “Yahoo” tugmasi bosilganda http://www.yahoo.com ssilkasi yuklanadi
+“Yahoo” tugmasi bosilganda http://www.yahoo.com ssilka paydo bo’ladi
+“Yahoo” tugmasi ikki marta bosilganda http://www.yahoo.com yuklanadi
+http://www.yahoo.com yopilgach “Yahoo” tugmasiga ega sahifa ochiladi
+
+HTML da <s> tegi nima vazifa bajaradi?
+* ustiga chizib yozadi
+matnni qalin (jirniy) qilib yozadi
+tagini chizib yozadi
+kursiv qilib yozadi
+
+<hr> tegidagi qaysi atribut yordamida chiziq qalinligi piksellarda o’rnatiladi? 
+* size
+align
+width
+right
+
+<blockquote> tegi haqidagi to'g'ri fikrni aniqlang
+*matndan sitatalarni ajratib ko’rsatish uchun qo’llaniladi
+xujjat muallifini identifikasiya qilish va muallif manzilini ko’rsatish uchun qo’llaniladi.
+formatlangan matnning maksimal qator uzunligini ko’rsatadi
+barcha javoblar to'g'ri
+
+<blockquote> tegi vazifasi nima? 
+* to’g’ri javob yo’q 
+turli xil teglarning formatlarini aniqlaydi
+xujjat muallifini identifikasiya qilish va muallif manzilini ko’rsatish uchun qo’llaniladi.
+formatlangan matnning maksimal qator uzunligini ko’rsatadi
+
+Noto’g’ri kursatilgan gipersselkalarni kursating.
+*<a> <target=intuit.htm href=new>intuit</a>
+<a target=intuit.htm href=new>intuit</a>
+<a href=intuit.htm target=left>intuit</a>
+<a href=intuit.htm>intuit</a>
+
+Quyidagi teglardan qaysi biri ro’yxatni nomerlash uchun ishlatiladi? 
+* ol
+dl
+ul
+tt
+
+Giperssilka to’g’ri ko’rsatilgan qatorni toping:
+* <a href="www.intuit.ru/index.html">ssilka</a> 
+<a name="/index.html">ssыlka</a>
+<a pass="index.html">ssыlka</a>
+<alink href="www.intuit.ru/index.html">ssilka</a>
+
+HTML da shrift o’lchamini o’zgartirish uchun qaysi tegdan foydalaniladi? 
+* <small>
+<sub>
+<sup>
+<samr>
+
+<ul> tegi nimani ifodalaydi? 
+* Nomerlanmagan ro’yxatni 
+Jadval yacheykasini 
+Alfabit bo’yicha nomerlanishni 
+A va B javob to’g’ri
+
+<ul type=disk> matni nimani ifodalaydi?
+* Teg doira shaklidagi markerni xosil qilishni ifodalaydi 
+Teg birinchi ro’yxatda ifodalanganidek markerlar xosil qiladi 
+Teg kvadrat marker xosil qiladi
+Teg 1., 2., 3., 4. va h.k ko’rinishidagi ro’yxatni xosil qiladi
+
+<ol tyre=I> Matni nimani ifodalaydi
+* Teg  I., II., III., IV. va h.k ko’rinishidagi ro’yxatni xosil qiladi 
+Teg 1., 2., 3., 4. va h.k ko’rinishidagi ro’yxatni xosil qiladi 
+Teg birinchi ro’yxatda ifodalanganidek markerlar xosil qiladi 
+Teg kvadrat marker xosil qiladi
+
+input tegi type atribut qabul qilmaydigan qiymatni toping 
+* top
+password
+checkbox
+radio
+
+Avtomatik ravishda keyingi satrga o’tish qaysi teg orqali amalga oshiriladi   
+* br 
+pre
+blockquote
+nobr
+
+Keyingi satrga o’tish qaysi teg orqali amalga oshiriladi   
+* br 
+pre
+blockquote
+nobr
+
+HTMLda musiqa qo’yish nechiga bo’linadi va ular qanday? 
+* 2 ta: embed, bgsound 
+3 ta: marquee, embed, bgsound 
+2 ta: marquee, embed 
+1 ta: marquee
+
+<s> tegi atributini ko'rsating?
+* atribut mavjud emas
+cite
+sode
+size
+
+<s> tegiga teng kuchli tegni ko'rsating
+* <del>
+<sub>
+<sup>
+<em>
+
+Vazifasi <s> tegiga o’xshash tegni ko'rsating.
+* <del>
+<sub>
+<sup>
+<em>
+
+HTML da <s> tegi nima vazifa bajaradi? 
+* ustiga chizib yozadi 
+matnni qalin (jirniy) qilib yozadi 
+tagini chizib yozadi 
+kursiv qilib yozadi
+
+<footer> tegi nima vazifa bajaradi? 
+* unda muallifning ismi, hujjat sanasi, aloqa va huquqiy ma'lumotlar bo'lishi mumkin.
+unda sayt haqida to'liq ma'lumot keltiriladi
+ushbu teg meta ma'lumotlarni web sahifa pastida ko'rsatadi
+bunday teg mavjud emas
+
+<del> tegi atributini ko'rsating
+* cite, datetime
+meta, align
+cite, sode
+href, charset
+
+Atributlardan qaysi biri <del> ga tegishli. 
+* cite, datetime
+meta, align
+cite, sode
+href, charset
+
+<del> tegi qanday ish bajaradi? 
+* matnni o’chirib tashlangan sifatida belgilaydi 
+bu teg orqali belgilangan matnning tagiga chizilgan bo’ladi 
+kiritilgan teglarni o’chirib yuboradi 
+bu teg orqali belgilangan matnning ustiga chizilgan bo’ladi
+
+<Embed> tegini vazifasini ko’rsating? 
+* musiqa o’rnatish 
+musiqani olib tashlash 
+sahifani brauzerga moslash 
+to’g’ri javob yo’q
+
+align buyrug’i qanday yoziladi?
+* <p align ="joylashtirish ko’rsatkichi"> </p>
+<p alignt =”joylashtirish ko’rsatkichi “> 
+<p aligment=”joylashtirish ko’rsatkichi “> 
+<p valign =”joylashtirish ko’rsatkichi “>
+
+Ushbu tegning vazifasini aniqlang  <s>? 
+* ustiga chizib yozadi 
+matnni qalin (jirniy) qilib yozadi 
+tagini chizib yozadi 
+kursiv qilib yozadi
+
+Ushbu tegning vazifasini aniqlang  <footer>? 
+* unda muallifning ismi, hujjat sanasi, aloqa va huquqiy ma'lumotlar bo'lishi mumkin.
+unda sayt haqida to'liq ma'lumot keltiriladi
+ushbu teg meta ma'lumotlarni web sahifa pastida ko'rsatadi
+bunday teg mavjud emas
+
+Ushbu tegning vazifasini aniqlang  <del>? 
+* matnni o’chirib tashlangan sifatida belgilaydi 
+bu teg orqali belgilangan matnning tagiga chizilgan bo’ladi 
+kiritilgan teglarni o’chirib yuboradi 
+bu teg orqali belgilangan matnning ustiga chizilgan bo’ladi
+
+Ushbu tegning vazifasini aniqlang <embed>? 
+* musiqa o’rnatish 
+musiqani olib tashlash 
+sahifani brauzerga moslash 
+to’g’ri javob yo’q
+
+Abzasni chap tomonidan joylashtirish qaysi? 
+* <p align=”left”>        
+<html>     
+<pre> 
+<p valign =”joylashtirish ko’rsatkichi “>
+
+Abzasni o’ng tomondan joylashtirish 
+* <p align=”right”>       
+<br html>       
+<p align=”left”>        
+<p align>
+
+<p align=justify> ni vazifasi nima?
+* Sahifalar kengligi bo'yicha to'g'irlaydi       
+Satr oxiri  bo'yicha to'g'irlaydi  
+Sahifalarning  o’rtasi  bo'yicha to'g'irlaydi        
+Satr boshi bo'yicha to'g'irlaydi  
+
+<link> teglining atributi keltirilmagan qatorni ko'rsating
+*meta, align, cite, sode
+href, charset, rel, type
+charset, href, media, sizes
+rel, href, type, sizes
+
+O’ng tomonda joylashgan abzasni aniqlang.
+* <p align=”right”>       
+<br html>       
+<p align=”left”>        
+<p align>
+
+Qanday amal bajariladi <P ALIGN=JUSTIFY>?
+* Sahifalar kengligi bo'yicha matn  to'g'irlanadi       
+Satr oxiri  bo'yicha to'g'irlaydi  
+Sahifalarning  o’rtasi  bo'yicha to'g'irlaydi        
+Satr boshi bo'yicha to'g'irlaydi  
+
+<link> tegining atributini ko'rsating
+* href, charset, rel, type
+href, rel, align, type
+rel, meta, align, type
+href, meta, cite, sode
+
+Qaysi teg xujjatlar aro aloqa o’rnatilganligi haqida ma’lumot beradi 
+* <link> 
+<isindex>  
+<meta> 
+<base> 
+
+<menu> tegiga teng kuchli (o'xshsash) bo'lgan tegni aniqlang
+* <ol>, <ul>
+<dt>, <dd>
+<br>, <tr>
+<hr>, <tt>
+
+<menu> qanday teg?
+* satr ko’rinishda, ixcham xolda berilgan ro’yxat
+tartibsiz ro’yxatni ifodalaydi 
+ixcham xolda berilgan ro’yxat 
+definitiv ro’yxat
+
+Ikkita xujjatni bog’lovhci tegni ko’rsating.
+* <link> 
+<isindex>  
+<meta> 
+<base> 
+
+Qaysi teg <menu> tegining vazifasini bajaradi.
+* <ol>, <ul>
+<dt>, <dd>
+<br>, <tr>
+<hr>, <tt>
+
+Berilgan tegning vazifasini aniqlang <menu>.
+* satr ko’rinishda, ixcham xolda berilgan ro’yxat
+tartibsiz ro’yxatni ifodalaydi 
+ixcham xolda berilgan ro’yxat 
+definitiv ro’yxat
+
+Qaysi teglar shrift teglari? 
+* tt, i, b, u
+meta, i, b, 
+kbd cite, code, samp  
+bunday teg yo’q
+
+Shrift teglari berilgan qatorni aniqlang.
+* tt, i, b, u
+meta, i, b, 
+kbd cite, code, samp  
+bunday teg yo’q
+
+Avtomatik ravishda keyingi satrga o’tish qaysi teg orqali amalga oshiriladi   
+* nobr 
+blockquote 
+pre 
+br
+
+Qaysi teg matn qo’shtirnoq bilan tugashi uchun qo’llaniladi? 
+* <q>...</q>
+<sode>...</sode> 
+<var>...</var> 
+<yem>...</yem>
+
+<q>...</q> tegining atributini ko'rsating
+* cite
+src
+alt
+align
+
+Berilgan tegning <q>...</q> atributini ko'rsating.
+* cite
+src
+alt
+align
+
+<ul> tegi nimani ifodalaydi? 
+* Numerlanmagan ro’yxatni 
+Alfabit bo’yicha nomerlanishni 
+Jadval yacheykasini 
+numerlangan ro’yxatni
+
+Berilgan  teg <ul> nimani ifodalaydi? 
+* Numerlanmagan ro’yxatni 
+Alfabit bo’yicha nomerlanishni 
+Jadval yacheykasini 
+numerlangan ro’yxatni
+
+Algoritmlarni klassik nazariyasiga to’g’ri ta’rif berilgan qatorni aniqlang.
+* rasmiy tillar nuqtai nazaridan masalalarni shakllantirish, yechuvchanlik muammosi tushunchasi, murakkablik sinflarini kiritish, P = NP (?) masalasini shakllantirish, NPning to'liq masalalarini sinfi va uni o'rganish
+algoritmning murakkabligi tushunchasi, algoritmlarni baholash kriteriyalari, asimptotik baholarni olish usullari, xususan, rekursiv algoritmlar uchun, murakkablikni yoki bajarilish vaqtini asimptotik tahlil qilish
+funksiyalarning intervalli tahlili, algoritmlar sifatining amaliy mezonlari, ratsional algoritmlarni tanlash metodikasi
+ushbu nazariya mavjud emas
+
+Algoritmlarni asimptotik tahlil qilish nazariyasiga to’g’ri ta’rif berilgan qatorni aniqlang
+* algoritmning murakkabligi tushunchasi, algoritmlarni baholash kriteriyalari, asimptotik baholarni olish usullari, xususan, rekursiv algoritmlar uchun, murakkablikni yoki bajarilish vaqtini asimptotik tahlil qilish
+rasmiy tillar nuqtai nazaridan masalalarni shakllantirish, yechuvchanlik muammosi tushunchasi, murakkablik sinflarini kiritish, P = NP (?) masalasini shakllantirish, NPning to'liq masalalarini sinfi va uni o'rganish
+funksiyalarning intervalli tahlili, algoritmlar sifatining amaliy mezonlari, ratsional algoritmlarni tanlash metodikasi
+ushbu nazariya mavjud emas
+
+Algoritmlarni hisoblash algoritmlarini amaliy tahlil qilish nazariyasiga to’g’ri ta’rif berilgan qatorni aniqlang
+* funksiyalarning intervalli tahlili, algoritmlar sifatining amaliy mezonlari, ratsional algoritmlarni tanlash metodikasi
+algoritmning murakkabligi tushunchasi, algoritmlarni baholash kriteriyalari, asimptotik baholarni olish usullari, xususan, rekursiv algoritmlar uchun, murakkablikni yoki bajarilish vaqtini asimptotik tahlil qilish
+rasmiy tillar nuqtai nazaridan masalalarni shakllantirish, yechuvchanlik muammosi tushunchasi, murakkablik sinflarini kiritish, P = NP (?) masalasini shakllantirish, NPning to'liq masalalarini sinfi va uni o'rganish
+ushbu nazariya mavjud emas
+
+Masalaning dastlabki ma'lumotlarining to'plami D bo'lsin, va R  mumkin bo'lgan natijalar to'plami bo’lsa, shunda algoritm shunda algoritm qanday ko’rinishida tasvirlanadi.
+Agar natija faqat ba'zi 𝑑 ∈ 𝐷 uchun olingan bo'lsa, algoritm ... algoritm deyiladi.
+* qismiy
+oraliq
+to’liq
+natijaviy
+
+Agar natija barcha 𝑑 ∈ 𝐷 uchun olingan bo'lsa, algoritm ... algoritm deyiladi.
+* to’liq
+oraliq
+qismiy
+natijaviy
+
+Algoritm haqida aytilgan quyidagi fikr uning qaysi xossasini ifodalaydi: “Berilgan dastlabki ma'lumotlar bilan hisoblash jarayonining aniq natijasini olishni nazarda tutadi”.
+* Aniqlik
+Natijaviylik
+Ommaviylik
+Diskretlik
+
+Muammolarni yechish algoritmlarining xilmaxilligi bilan ularda hisoblash jarayonlarining nechta asosiy turini ajratish mumkin:
+* 3
+4
+2
+5
+
+Hisoblash jarayoni muammoni hal qilishning barcha bosqichlari ushbu bosqichlarni yozilishning tabiiy tartibida amalga oshirilsa qanday nomlanadi?
+* Chiziqli
+Tarmoqlanuvchi
+Siklik
+Takrorlanuvchi
+
+Quyida berilgan masala algoritmi qanday turdagi algoritm hisoblanadi: “Berilgan R radiusga ko’ra doira yuzasini topish algoritmi”.
+* Chiziqli
+Tarmoqlanuvchi
+Siklik
+Takrorlanuvchi
+
+Quyida berilgan masala algoritmi qanday turdagi algoritm hisoblanadi: “Ikkita sonning EKUBini topish algoritmi”.
+* Tarmoqlanuvchi 
+Chiziqli 
+Siklik
+Takrorlanuvchi
+
+Quyida berilgan masala algoritmi qanday turdagi algoritm hisoblanadi: “Talaba 1semestr davomida muntazam darslarga qatnashishi kerak”.
+* Takrorlanuvchi
+Chiziqli
+Tarmoqlanuvchi
+Siklik
+
+Quyida keltirilgan fikr algoritmning qaysi xossasini ifodalaydi: “Berilgan algoritm bo'yicha amalga oshirilgan hisoblash jarayoni cheklangan sonli qadamlardan so'ng to'xtashi va kerakli natijani berishi kerak bo'lgan bunday dastlabki ma'lumotlar mavjudligini ko'rsatadi”.
+*Diskretlik
+Aniqlik
+Natijaviylik
+Ommaviylik 
+
+Axborotni qayta ishlash yo'nalishini tanlash dastlabki yoki oraliq ma'lumotlarga (ba'zi mantiqiy shartlarning bajarilishini tekshirish natijalariga bog'liq bo'lgan hisoblash jarayoni qanday jarayon deb ataladi?
+* Tarmoqlanuvchi
+Chiziqli
+Siklik
+Takrorlanuvchi
+
+Quyida berilgan ta’rif algoritmning qaysi xossasiga tegishli?
+…  ya’ni algoritmni chekli sondagi oddiy ko’rsatmalar ketmaketligi shaklida ifodalash mumkin.
+* Diskretlilik
+Tushunarlilik
+Aniqlik
+Ommaviylik
+
+Quyida berilgan ta’rif algoritmning qaysi xossasiga tegishli?
+…  ya’ni ijrochiga tavsiya etilayotgan ko’rsatmalar uning uchun tushunarli bo’lishi shart, aks holda ijrochi oddiy amalni ham bajara olmay qolishi mumkin.
+* Tushunarlilik
+Diskretlilik
+Aniqlik
+Ommaviylik
+
+Quyida berilgan ta’rif algoritmning qaysi xossasiga tegishli?
+…  ya’ni har bir algoritm mazmuniga ko’ra bir turdagi masalalarning barchasi uchun yaroqli  bo’lishi lozim 
+* Ommaviylik
+Diskretlilik
+Tushunarlilik
+Aniqlik
+
+Quyida berilgan ta’rif algoritmning qaysi xossasiga tegishli?
+…  ya’ni har bir algoritm chekli sondagi qadamlardan so’ng albatta natija berishi lozim
+* Natijaviylik
+Diskretlilik
+Tushunarlilik
+Aniqlik
+
+Har bir aniq masala bilan kiritiladigan berilganlarni miqdorini aniqlovchi qandaydir sonni bog’lash zarur. Bunday son qanday ataladi?
+* masalaning kattaligi
+masalaga ishlash uchun ketgan vaqt
+xotira miqdori
+masalaning murakkabligi
+
+Graflar haqidagi masalada masalaning kattaligi sifatida nimani olish mumkin?
+* graflar uchlari soni
+graflardagi daraxtlar soni
+graflardagi qirralar soni
+masala kattaligi mavjud emas bu masalada
+
+Quyidagi belgilanishlardan qaysi biri chiziqli murakkablikni ifodalaydi?
+* O(n)
+O(logn)
+O(n2)
+O(n3)
+
+Quyidagi belgilanishlardan qaysi biri kvadratik murakkablikni ifodalaydi?
+* O(n2)
+O(logn)
+O(n)
+O(n3)
+
+Quyidagi belgilanishlardan qaysi biri logarifmik murakkablikni ifodalaydi?
+* O(logn)
+O(n2)
+O(n)
+O(n3)
+
+Saralanmagan massivdagi eng katta elementni topish algoritmi qanday murakkablikka to’g’ri keladi?
+* O(n)
+O(n2)
+O(logn)
+O(n3)
+
+Ikkilik qidirish algoritmi qanday murakkablikka to’g’ri keladi?
+* O(logn)
+O(n2)
+O(n)
+O(n3)
+
+Agar algoritmda ichmaich sikllar qatnashsa, bu algoritm murakkabligi qanday bo’lishi mumkin?
+* O(n2)
+O(logn)
+O(n)
+O(n3)
+
+Algoritmning ishlash vaqti umuman kiritilgan ma'lumotlarning hajmiga bog'liq emasligi ham sodir bo'ladi. Bu holda murakkablik nima bilan belgilanadi?
+* O(1)
+O(n*1)
+O(n3)
+O(logn)
+
+Algoritmlarning murakkabligini baholashda odatda qaysi amallar hisobga olinadi?
+1 taqqoslashlar ("katta", "kamroq", "teng"); 2 o’zlashtirish (ta’minlash); 3 xotira ajratish.
+* 1,2,3
+1,2
+2,3
+1,3
+
+…  bu hisoblashda turli xil bir tipli va mantiqiy bog'liq ma'lumotlarni saqlash va qayta ishlashga imkon beradigan dastur birligi.
+* ma’lumotlar strukturasi 
+daraxt
+graf
+navbat
+
+... – bu ma'lumotlar turlari uchun matematik model, bu yerda ma'lumotlar turi xattiharakatlari (semantikasi) bilan foydalanuvchi nuqtai nazaridan aniqlanadi, ya'ni mumkin bo'lgan qiymatlar, ushbu ma'lumotlar bo'yicha mumkin bo'lgan amallar turi va ushbu amallarning harakati.
+* Abstrakt ma’lumotlar turi
+Daraxtlar
+Graflar
+Funksional dasturlash
+
+...  chiziqli tartiblangan tuzilma bo‘lib, elementlar o‘rtasidagi munosabatlar ularning qat‘iy bir ketmaketlikda joylashishidan iborat
+* Vektor
+Navbat 
+Massiv
+Ro’yxat
+
+Qaysi ma’lumotlar strukturalarida tuzilmaning uzunligini o’zgartirish ma’lum bir chegarada, ya’ni qandaydir bir maksimal qiymatdan oshmagan holda amalga oshirilishi mumkin?
+* yarim statik ma’lumotlar strukturasi
+dinamik ma’lumotlar strukturasi
+navbat
+ro’yxat
+
+FIFO prinsipi bo’yicha ishlaydigan tuzilmani ko’rsating.
+* Navbat
+Ro’yxat
+Stek
+Dek
+
+Navbat ustida bajariladigan asosiy amallarni ko’rsating:
+1) yangi elementni qo’shish,
+2) elementni chiqarib tashlash,
+3) uzunligini aniqlash,
+4) navbatni tozalash
+*1,2,3,4
+1,2,3
+2,3,4
+1,3,4
+
+LIFO prinsipi bo’yicha ishlaydigan tuzilmani ko’rsating.
+* Stek
+Ro’yxat
+Navbat
+Dek
+
+Stek ustida bajariladigan asosiy amallarni ko’rsating:
+1) yangi elementni qo’shish;
+2) elementni o’chirish;
+3) stek elementlar sonini aniqlash;
+4) stekni tozalash.
+*1,2,3,4
+1,2,3
+2,3,4
+1,3,4
+
+... – so’zi ingliz tilidan olingan bo’lib 2 ta chetga ega navbat degan ma’noni bildiradi.
+* Dek
+Stek
+Navbat 
+Ro’yxat
+
+...  bu qandaydir bir qonuniyatga asoslanib shakllangan, lekin elementlari soni, o’zaro joylashuvi va o’zaro aloqasi dastur bajarilishi davomida shu qonuniyat asosida dinamik o’zgaruvchan bo’lgan ma’lumotlar tuzilmasidir
+* dinamik ma’lumotlar strukturasi 
+yarim statik ma’lumotlar strukturasi
+navbat
+ro’yxat
+
+Bir bog’lamli chiziqli tuzilmalarni ko’rsating:
+1) daraxtlar	2) navbat	3) stek		4) dek		5) ro’yxat	6) graf
+* 2,3,4,5
+1,2,3,4
+2,3,5,6
+1,4,5,6
+
+Halqasimon tuzilmalarni ko’rsating:
+1) bir bog’lamli halqasimon ro’yxatlar	2) ko’p bog’lamli halqasimon ro’yxatlar	
+3) stek		4) dek		5) ikkilik (binar) daraxtlar 	6) graf
+* 1,2
+3,4,5
+1,5,6
+2,3,6
+
+Chiziqsiz tuzilmalarni ko’rsating:
+1) daraxtlar	2) navbat	3) stek		4) dek		5) ro’yxat	6) graf
+* 1,6
+2,3,4
+3,4,5
+4,5,6
+
+Algoritm murakkabligining asosiy ko'rsatkichi sifatida nimalar hisobga olinadi?
+* vaqt va xotira
+sikllar soni
+o’zgaruvchilar soni
+tuzilmalar soni
+
+... – bu berilgan kattalikdagi masalani yechishda algoritm ishlashi davomida bajariladigan amallarning maksimal soniga teng bo'lgan kirish kattaligining funksiyasidir
+* vaqt murakkabligi
+sig’imli murakkablik
+murakkablik
+xotira 
+
+...  bu kirish hajmining ma'lum hajmdagi muammolarni yechishda erishilgan maksimal xotira yacheykalari soniga teng funksiyasi.
+* sig’imli murakkablik
+vaqt murakkabligi
+murakkablik
+xotira 
+
+...  bu ketmaket joylashtirilgan elementar amallar to'plami, uning bajarilish vaqti kirish qadamiga bog'liq emas, ya'ni yuqoridan qandaydir doimiy bilan chegaralangan
+* algoritm qadami
+o’sish tartibi
+algoritm murakkabligi
+asimptotik baholash
+
+O(n2), O(n3) yoki umumiy holatda O(nC) bo'lgan algoritmlar umumiy nom bilan qanday algoritmlar deb aytiladi?
+* polinomial algoritmlar
+kvadratik algoritmlar
+chiziqli algoritmlar
+polinomial algoritmlar
+
+O(2n), O(10n), O(n!) bo'lgan algoritmlar umumiy nom bilan qanday algoritmlar deb aytiladi?
+* polinomial bo’lmagan algoritmlar
+kvadratik algoritmlar
+chiziqli algoritmlar
+polinomial algoritmlar
+
+Ingliz tilidan tarjima qilganda, uyum, g’aram, dasta, bog’lam ma’nolarini anglatuvchi ma’lumotlar strukturasi qanday ataladi?
+* stek
+dek
+navbat
+ro’yxat
+
+Qaysi ma’lumotlar strukturasida eng birinchi bo’lib kiritilgan element eng so’nggisi bo’ladi?
+* stek
+dek
+navbat
+ro’yxat
+
+C+ dasturlash tilida stek hosil qilish uchun qaysi kutubxonadan foydalaniladi>
+* stack
+queue
+iostream
+list
+
+Stek element qo’shish metodini ko’rsating.
+* push
+pop
+add
+insert
+
+Stek bo’shligini tekshirish metodini ko’rsating.
+* empty
+pop
+push
+insert
+
+Stekning eng yuqori elementini chop etish metodini ko’rsating
+* top
+pop
+push
+insert
+
+Stekning eng yuqori elementini o’chirish metodini ko’rsating.
+* pop
+empty
+push
+insert
+
+Quyidagi stek uchun qanday amal bajarilgan?
+stack <int> stek;  
+int a;
+stek.push(a);  
+
+* a butun sonini stekka qo’shish
+stek bo’shligini tekshirish
+stekning eng yuqori elementiga murojaat
+stekning elementini olib tashlash
+
+Quyidagi stek uchun qanday amal bajarilgan?
+stack <int> stek;  
+int a;
+if(stek.empty());  
+
+* stek bo’shligini tekshirish
+a butun sonini stekka qo’shish
+stekning eng yuqori elementiga murojaat
+stekning elementini olib tashlash
+
+Quyida berilgan ta’rif algoritmning qaysi xossasiga tegishli?
+…  ya’ni ijrochiga berilayotgan ko’rsatmalar aniq mazmunda bo’lishi lozim hamda faqat algoritmda ko’rsatilgan tartibda bajarilishi shart.
+* Aniqlik
+Diskretlilik
+Tushunarlilik
+Ommaviylik
+
+First in – first out prinsipi asosida ishlaydigan ma’lumotlar strukturasi qanday ataladi?
+* navbat
+stek
+ro’yxat
+list
+
+C+ da navbatni tashkil qilish uchun qanday kutubxonadan foydalaniladi?
+* queue
+stack
+iostream
+list
+
+Navbatga yangi element qo’shish metodini ko’rsating.
+* push
+pop
+insert
+add
+
+Navbatdan birinchi elementni olib tashlash metodini ko’rsating.
+* pop
+push
+insert
+delete
+
+Navbatning birinchi elementiga murojaat qilish funksiyasini ko’rsating.
+* front
+back
+empty
+pop
+
+Navbatning bo’shligini tekshirish uchun qaysi funksiyadan foydalanamiz?
+* empty
+push
+pop
+top
+
+Quyidagi navbat uchun qanday amal bajarilgan?
+queue <int> N;  
+int a;
+N.push(a);
+* navbatga element qo’shish
+navbatdan element o’chirish
+navbat bo’shligini tekshirish
+navbatning birinchi elementini chiqarish
+
+Quyidagi navbat uchun qanday amal bajarilgan?
+queue <int> N;  
+int a;
+cout<<N.front();
+* navbatning birinchi elementini chiqarish
+navbatdan element o’chirish
+navbat bo’shligini tekshirish
+navbatga element qo’shish
+
+…  bu dinamik massiv modeli bo'lgan ma'lumotlar strukturasi.
+* vektor
+navbat
+ro’yxat
+stek
+
+C+ tilida vektorlar bilan ishlash uchun qaysi kutubxonadan foydalaniladi?
+* vector
+queue
+time
+stack
+
+C+ tilida stek to’g’ri hosil qilingan qatorni aniqlang
+* stack <int> A;
+stack (int) A;
+stack <int> +A;
+stack [int] A;
+
+C+ tilida navbat to’g’ri hosil qilingan qatorni aniqlang
+* queue <int> A;
+queue (int) A;
+queue <int> +A;
+queue [int] A;
+
+C+ tilida vektor to’g’ri hosil qilingan qatorni aniqlang.
+* vector <int> A;
+vector (int) A;
+vector <int> +A;
+vector [int] A;
+
+C+ tilida vektor to’g’ri hosil qilingan qatorni aniqlang.
+* vector <int> A;
+vector (int) A;
+vector <int> +A;
+vector [int] A;
+
+C+ tilida vektorga boshlang’ich qiymat to’g’ri berilgan qatorni aniqlang
+* vector <int> V = {7, 4, 3};
+vector <int> V[7, 4, 3];
+vector <int> V=[7, 4, 3];
+vector <int> V({7, 4, 3});
+
+C+da vektor hosil qilishning umumiy ko’rinishini ko’rsating.
+* vector <ma’lumot_turi> VectorNomi = {Boshlang’ich qiymat}
+vector (ma’lumot_turi) VectorNomi = {Boshlang’ich qiymat}
+vector [ma’lumot_turi] VectorNomi = [Boshlang’ich qiymat]
+vector <ma’lumot_turi> VectorNomi = [Boshlang’ich qiymat]
+
+C+da stek hosil qilishning umumiy ko’rinishini ko’rsating.
+* stack <ma’lumot_turi> StekNomi 
+stack (ma’lumot_turi) StekNomi
+stack [ma’lumot_turi] StekNomi
+stack StekNomi
+
+C+da navbat hosil qilishning umumiy ko’rinishini ko’rsating.
+* queue <ma’lumot_turi> StekNomi 
+queue (ma’lumot_turi) StekNomi
+queue [ma’lumot_turi] StekNomi
+queue StekNomi
+
+Quyidagi vektorga indekslar vositasida to’g’ri murojaat qilingan qatorni aniqlang.
+vector <int> V = {7, 4, 3};
+*  V[1];
+V(1);
+V.1;
+V>1;
+
+Vektor uzunligi oldindan to’g’ri aniqlangan qatorni ko’rsating.
+* vector <int> A(5);
+vector <int> A.[5];
+vector <int> A[5];
+vector <int> A{5};
+
+Vektor uzunligi dastur davomida to’g’ri aniqlangan qatorni ko’rsating.
+* V.reserve(3);
+V.add(3);
+V.insert(3);
+V.push(3);
+
+C+ dasturlash tilida vektorlar vektori qanday aniqlanadi?
+* vector <vector <int>> V;
+vector(vector) <int> V;
+vector <vector (int)> V;
+vector <vector [int]> V;
+
+Vektorga vektorni qo’shish uchun aniqlangan metodni ko’rsating.
+* push_back();
+push();
+pop();
+empty();
+
+Ikki o’lchovli vektor to’g’ri initsializatsiya qilingan qatorni aniqlang.
+*vector < vector <int> > V = {{1, 4, 7}, {2, 5, 8},{3, 6, 9}};
+vector < vector <int> > V = [[1, 4, 7], [2, 5, 8],[3, 6, 9]];
+vector < vector <int> > V = {[1, 4, 7], [2, 5, 8],[3, 6, 9]];
+vector < vector <int> > V = [{1, 4, 7}, {2, 5, 8},{3, 6, 9}];
+
+C+ tilida vektorning uzunligi aniqlash uchun qaysi metoddan foydalaniladi?
+* size()
+length()
+sizeof()
+empty()
+
+Vektor bo’shligi aniqlash uchun qaysi metoddan foydalaniladi?
+* empty()
+size()
+push_back()
+push()
+
+Vektorning oxiriga bitta yacheyka qo’shish imkonini beruvchi metodni ko’rsating.
+* push_back()
+pop_back() 
+pop()
+push()
+
+Vektorning eng boshidan element qo’shish qaysi funksiya orqali amalga oshiriladi?
+* insert()
+pop()
+push()
+push_back()
+
+C+ tilida vektorning birinchi yacheykasinining qiymatini olish uchun qaysi metoddan foydalanamiz?
+* front()
+back()
+push()
+pop()
+
+C+ tilida vektorning oxirgi yacheykasinining qiymatini olish uchun qaysi metoddan foydalanamiz?
+* back()
+front()
+push()
+pop()
+
+…  bu ikki tomonlama bog’langan ro’yxatlarga asoslangan ma’lumotlar strukturasi
+* ro’yxat
+stek
+navbat
+vektor
+
+C+ tilida ro’yxatlar bilan ishlash uchun qaysi kutubxonadan foydalaniladi?
+* list
+vector
+queue
+stack
+
+C+ tilida ro’yxatlarni hosil qilishning umumiy strukturasini ko’rsating. 
+* list <ma’lumot turi> Ro’yxatNomi
+list (ma’lumot turi) Ro’yxatNomi
+list [ma’lumot turi] Ro’yxatNomi
+list {ma’lumot turi} Ro’yxatNomi
+
+C+ tilida ro’yxatning boshlang’ich elementini o’chirish qaysi funksiya orqali amalga oshiriladi. 
+* pop_front()
+pop_back()
+push_front()
+push_back()
+
+C+ tilida ro’yxatning oxirgi elementini o’chirish qaysi funksiya orqali amalga oshiriladi. 
+* pop_back()
+pop_front()
+push_front()
+push_back()
+
+C+ tilida ro’yxatning boshidan element qo’shish qaysi funksiya orqali amalga oshiriladi. 
+* push_front()
+pop_front()
+pop_back()
+push_back()
+
+C+ tilida ro’yxatning oxiridan element qo’shish qaysi funksiya orqali amalga oshiriladi. 
+* push_back()
+pop_front()
+pop_back()
+push_front()
+
+C+ tilida ro’yxatning birinchi elementiga murojaat qaysi funksiya orqali amalga oshiriladi. 
+* front()
+back()
+insert()
+unique()
+
+C+ tilida ro’yxatning ko’rsatilgan joyiga element qo’shish qaysi funksiya orqali amalga oshiriladi. 
+* insert ()
+front()
+back()
+unique()
+
+C+ tilida ro’yxatning barcha dublikatlarini o’chirish qaysi funksiya orqali amalga oshiriladi. 
+* unique ()
+front()
+back()
+insert()
+
+C+ tilida ro’yxatga boshqa ro’yxatni qo’shish qaysi funksiya orqali amalga oshiriladi. 
+* merge ()
+front()
+back()
+insert()
+
+C+ tilida ro’yxatga boshqa ro’yxatni qo’shish qaysi funksiya orqali amalga oshiriladi. 
+* merge ()
+front()
+back()
+insert()
+
+Saralashning qaysi turida tezkor xotiradagi ma’lumotlar saralanadi?
+* ichki
+tashqi
+tanlash
+to’g’ridanto’g’ri

@@ -1,0 +1,598 @@
+Kvadratning tomoni 5sm yuzi necha sm2 ga teng
+25sm2
+*5sm2
+250sm2
+2500sm2
+
+Kubning qirrasi 5sm gat eng hajmi necha sm3
+*125sm3
+25sm3
+250sm3
+1250sm3
+
+Kubning qirrasi 25sm gat eng hajmi necha sm3 kasrni qisqartiring.
+*625sm3
+125sm3
+25sm3
+1250sm3
+
+1dm necha sm ga teng
+*10sm
+1000sm
+1sm
+100sm
+
+1m  necha sm ga teng
+*100sm
+1000sm
+10sm
+20sm
+
+1km necha metr ga  teng 
+*1000m
+100000m
+10m
+1m
+
+To’g’ri to’rtburchakning tomonlari 4sm va 6sm ga teng bo’lsa perimetri necha sm ga teng
+*20sm
+12sm
+16sm
+8sm
+
+To’g’ri to’rtburchakning tomonlari 5sm va 8sm ga teng bo’lsa perimetri necha sm ga teng
+*26sm
+12sm
+16sm
+20sm
+
+Ushburchakning tomonlari 5sm, 6sm, 9sm ga teng perimetrini toping.
+*20sm
+10sm
+200sm
+12sm
+
+15 va 35 sonlarning eng kichik  umumiy karralisi bilan eng katta  umumiy buluvchisining  yigindisini toping.
+*110
+112
+100
+101
+
+24 sonini natural bo'luvchilari nechta?
+*8
+9
+7
+6
+
+Ushburchakning asosi 5sm ga, asosiga tushirilgan balandligi 2sm ga  teng bo’lsa, uchburchak yuzini toping 
+*5sm2
+25sm2
+10sm2
+20sm2
+
+Ushburchakning asosi 8sm ga, asosiga tushirilgan balandligi 3sm ga  teng bo’lsa, uchburchak yuzini toping 
+*12 sm2
+200 sm2
+20 sm2
+1 sm2
+
+Avtomobil tezligi v=60km/soat bo’lsa, 4 soatda necha km yo’l bosadi.
+*S=240km
+S=24km
+S=12km
+S=120km
+
+Avtomobil tezligi v=70km/soat bo’la, 2 soatda necha km yo’l bosadi.
+*140km
+14km
+28km
+280km
+
+Avtomobil tezligi v=40km/soat bo’la, 3 soatda necha km yo’l bosadi.
+*120km
+100km
+12km
+200km
+
+Kvadratning tomoni 5sm bo’lsa, perimetrini toping.
+*20sm
+12sm
+10sm
+5sm
+
+Kvadratning tomoni 10sm bo’lsa, perimetrini toping
+*40sm
+10sm
+20sm
+2sm
+
+To’g’ri burchakli uchburchakning katetlari 4 va 5 ga teng bo’lsa, yuzini toping.
+*10 sm2
+20 sm2
+100 sm2
+10000 sm2
+
+Geometriya faniga oid birinchi qadimgi papirus…
+*Misrda topilgan
+Moskvada topilgan
+Angliyada topilgan
+Hindistonda topilgan
+
+Geometriya faniga oid birinchi qadimgi papirusning…
+*Uzunligi 5.5 metr eni 32sm bo’lgan
+Uzunligi 5 metr eni 32sm bo’lgan
+Uzunligi 4.5 metr eni 32sm bo’lgan
+Uzunligi 6.5 metr eni 32sm bo’lgan
+
+Geometrik masalalar…
+*3 turga bo’linadi
+2 turga bo’linadi
+4 turga bo’linadi
+5 turga bo’linadi
+
+Hisoblang. 1,14+0,76
+*1,9
+2
+2.9
+1
+
+Hamma tomonlari teng bo’lgan pallellogram…
+*Romb deyiladi
+To’rtburchak deyiladi
+Trapetsiya deyiladi
+Uchburchak deyiladi
+
+Hisoblang. 1,2-0,8
+*0,4
+0.3
+0.2
+0.1
+
+Teng yonli uchburchakning asosiga o’tkazilgan medianasi…
+*Ham balandlik ham bissektrisa bo’ladi
+Ham balandlik bo’ladi
+Ham bissektrisa bo’ladi
+Radius
+
+Asoslari uzunligi 20 sm va 10 sm bo’lgan trapetsiyaning o’rta chizig’ining uzunligi nechaga teng?
+*15sm
+10sm
+15dm
+15m
+
+100sm necha metrga temg
+*1m
+10m
+4m
+2m
+
+2tonna necha kilogramm?
+*2000kg
+200kg
+20kg
+20000kg
+
+25sentiner  necha kilogramm?
+*2500kg
+250kg
+25000kg
+26000kg
+
+12 ga qanday sonlar bo‘linadi?
+*3 ga va 4 ga bo‘linadigan sonlar
+4 ga bo‘linadigan sonlar
+3 ga bo‘linadigan sonlar
+Oxiri nol bilan tugagan sonlar.
+
+20 sonini bo‘luvchilari nechta?
+*6
+3
+4
+2
+
+1metrli lentani 5ta teng qismga bo’linsa, necha sm dan iborat lentalarga ajraladi.
+*20sm
+25sm
+15sm
+10sm
+
+2metrli lentani 5ta teng qismga bo’linsa, necha sm dan iborat lentalarga ajraladi.
+*40sm
+20sm
+10sm
+5sm
+
+A(3)nuqtadan 7 birlik uzoqlikdagi nuqtalar…
+*A(10), A(-4)
+A(11), A(5)
+A(-10),A(-5)
+A(12), A(6)
+
+3metrli lentani 5ta teng qismga bo’linsa, necha sm dan iborat lentalarga ajraladi.
+*60sm
+20sm
+10sm
+1000sm
+
+45 sonini bo‘luvchilari nechta?
+*6
+4
+3
+2
+
+Hisoblang: 1m+1dm
+*110sm
+1m
+1dm
+1sm
+
+Hisoblang: 1sm+10sm
+*11sm
+100sm
+1000sm
+10sm
+
+Hisoblang: 1t+500kg
+*1.5t
+15000kg
+1.5kg
+15kg
+
+Hisoblang: 10t+20t
+*30t
+300t
+20t
+1t
+
+3 m2 necha sm2 ga teng?
+*30000 sm2
+300 sm2
+3 sm2
+30 sm2
+
+1 litr necha dm3 ga teng?
+*1 dm3
+10 dm3
+2 dm3
+3 dm3
+
+24,5 tonnani sentnerda ifodalang?
+*245 sr
+243 sr
+2,45 sr
+30 sr
+
+Pozitsion bo‘lmagan sanoq sistemasini aniqlang.
+*Rim sanoq sistemasi
+Beshlik sanoq sistemasi
+Turtlik sanoq sistemasi
+Oltmishlik sanoq sistemasi
+
+Qaysi yig‘indi 4 ga bo‘linadi?
+*101112 + 7804
+3045 + 7800
+8004 + 7801
+3200 + 7809
+
+Qaysi ko‘paytma 9 ga bo‘linadi?
+*111009  909
+6119  314
+3121  901
+4320  815
+
+18 soniga qanday sonlar bo‘linadi?
+*2 va 9 ga bo‘linadigan sonlar
+3 ga  bo‘linadigan sonlar
+9 ga bo‘linadigan sonlar
+2 ga  bo‘linadigan sonlar
+
+30 sonini bo‘luvchilari nechta ?
+*8
+7
+6
+5
+
+8 va 24 sonlarining umumiy bo‘luvchilarini yozing.
+*1,2,4,8 
+3,4,6  
+1,2,6    
+1,2,3 
+
+Hisoblang. 2,54 sm+3,7126 sm
+*6,2526sm
+6,2426sm
+6,2026sm
+6,2125sm
+
+Hisoblang. 3.12dm-1.021dm
+*2.099dm
+2.012dm
+2.001dm
+2.014dm
+
+x=2 bo’lsa, x koordinatali nuqta koordinata to’g’ri chizig’ining…
+*Ikki birlik o’ngda yotadi
+Ikki birlik chapda yotadi
+3 birlik o’ngda yotadi
+Chapda yotadi
+
+((36:2-14) ·(42·2-14)+20):2 sonli ifodaning qiymati…
+*150 ga teng
+140 ga teng
+145 ga teng
+100 ga teng
+
+1,5tonna+2000kg necha kg bo’ladi.
+*3500kg
+3000kg
+2500kg
+1500kg
+
+1kg olma 3500 so’m 1,2 kg olma necha so’m?
+*4200 so’m
+4000so’m
+3800 so’m
+4100 so’m
+
+1.75 dm ni mm larda hisoblang.
+*175mm
+1750mm
+17mm
+17.5mm
+
+100mm ni sm ga o’tkazing.
+*10sm
+1000sm
+1sm
+100sm
+
+1metr necha mm bo’ladi.
+*1000mm
+10000mm
+100mm
+10mm
+
+To’g’ri to’rtburchakning bo’yi 4m eni 5m bo’lsa yuzini toping.
+*20m
+9m
+25m
+90m
+
+To’g’ri to’rtburchakning bo’yi 4m eni 5m bo’lsa perimetrni  toping.
+*18m
+20m
+25m
+90m
+
+Uchburchaklarning ichki burchaklarining yig’indisi necha gradus?
+*180
+360
+90
+30
+
+To’rtburchakning ichki burchaklarining yig’indisi necha gradus?
+*360
+180
+400
+40
+
+To’g’ri burchakli uchburchakning nechta burchagi 90 gradus?
+*1ta
+2ta
+3ta
+4ta
+
+25987<x<26600 shart bajariladigan x soni nechta?
+*12
+10
+11
+9
+
+25987≤x≤26600 shart bajariladigan x soni nechta?
+*14
+12
+10
+11
+
+a=7.3165; b=7.316689; c=7.316667 . sonlarni o’sib borish tartibida joylashtiring.
+*a<c<b
+a<b<c
+c<b<a
+b<a<c
+
+a=7.3165; b=7.316689; c=7.316667 . sonlarni kamayib borish tartibida joylashtiring.
+*b>c>a
+a>b>c
+c>b>a
+b>a>c
+
+24 sonini natural bo'luvchilari nеchta?
+*8
+9
+7
+2
+
+7 va 35 sonlarining  tub bo’luvchilarini  aniqlang.
+*2;6
+5;4
+5;1
+5;3
+
+Tub sonlar qatori qaysi javobda to'gri ko'rsatilgan. 
+*2,31,41,61
+2,31,51
+2,27,31
+3,31,39
+
+0,4 (5)sm soni quyidagi sonlarning qaysi biriga tеng.
+*41/90 sm
+41/99 sm
+45/99 sm
+45/90 sm
+
+Malika 3 tiyindan 5 ta daftar va 48 tiyinga kitob sotib oldi u hammasi bo’lib qancha pul to’ladi.
+*63tiyin
+60tiyin
+53tiyin
+43tiyin
+
+4ta choyshabga 12 metr polotno ketadi 30 metr polotnodan nechta shunday choyshab chiqadi.
+*10ta
+14ta
+12ta
+11ta
+
+12 kg murabboni baravardan 6 ta bankaga solishdi 24 kg murabboni solish uchun shunday bankalardan nechta kerak bo’ladi
+*12ta
+10ta
+14ta
+20ta
+
+Tikuvchi har 10 metr chitdan 3 ta ko’ylak tikdi u 50 metr chitdan nechta ko’ylak tikish mumkin.
+*15ta
+14ta
+16ta
+18ta
+
+15 m gazmol uchun 45 so’m to’landi 24 so’mga shunday gazmoldan necha metr sotib olishi mumkin.
+*8m
+9m
+10m
+4m
+
+3 ta bir hil yashikda 21 kg apelsin bor 10 ta shunday yashikda necha kg apelsin bor?
+*70 kg
+30kg
+60kg
+63kg
+
+Ma’lumki, x>y-rost tengsizlik. Quyidagi tengsizlik rost bo’ladimi.
+*2x>2y
+2x≥2y
+2x≤2y
+2x<2y
+
+Amal belgilarini shunday qo’yinki natijada to’g’ri tenglik hosil bo’lsin 9*3*6=18.
+*9:3∙6=10
+9∙3:6=18
+9+3:6=18
+9∙3-6=18
+
+(x-3)(x+5)(x-1) kopayitma nolga teng bo’lishi uchun x…
+*3 ga, -5 ga, 1 ga teng bo’lishi zarur
+2 ga, -5 ga, -1 ga teng bo’lishi zarur
+4 ga, -5 ga, 1 ga teng bo’lishi zarur
+-3 ga, 5 ga, -1 ga teng bo’lishi zarur
+
+x ning qanday qiymatida 4x=6x-10 tenglik o’rinli bo’ladi.
+*5
+4
+-5
+3
+
+(x-1)(x+2)=0 tenglama x ning qanday qiymatlarida to’g’ri sonli tenglikka aylanadi.
+*{-2;1}
+{-3;-3}
+{-1;1}
+{1;2}
+
+Uchburchakning o’rta chizig’i 3.2 sm ga teng. Uning asosi…
+*6.4sm ga teng
+6.3sm ga teng
+6.2sm ga teng
+6.1sm ga teng
+
+Tomoni 5 sm va kichik diognali 6 sm bo’lgan rombning katta diognalini toping.
+*8sm
+4sm
+6sm
+5sm
+
+3 sm3 necha dm3 ga teng?
+*3000 dm3
+30 dm3
+300 dm3
+3 dm3
+
+To’g’ri to’rtburchakning bo’yi 5 sm eni undan 2 marta uzun. Perimetrini toping?
+*30 sm   
+24sm
+14sm
+28sm
+
+Kvadratning tomoni 7 sm. Uning yuzini toping?
+*49sm2
+28sm2
+14 sm2
+49sm
+
+Kvadratning perimetri 72 sm. Uning tomonini toping?
+*18sm
+9sm
+68sm
+16sm
+
+Tengliklardan qaysi biri to’g’ri?
+*7t  50 kg =7050 kg       
+7t  50 kg =750 kg         
+7t  50 kg = 705 kg
+7t  50 kg = 7500 kg
+
+Burchakni  teng ikkiga bo`luvchi kesma …
+*Bissektrisa
+Mediana
+Balandlik 
+Tugri chiziq
+
+Agar to`g`ri chiziqlar orasidagi burchak …. ga teng bo`lsa ular perpendikulyar to`g`ri chiziqlar deyiladi.
+*900
+600
+1000
+1800
+6 va 8 sonlarining EKUBini toping.
+*24
+48
+2
+4
+
+6 va 8 sonlarining EKUKini toping.
+*2
+24
+3
+4
+
+-1,2 sonining butun qismi nimaga teng?
+*-2
+-1
+1
+2
+
+Sonning absolyut xatosi nima?
+*Aniq sоn bilan taqribiy sоnning farqi
+Aniq sonni uning taqribiy qiymatiga nisbati
+Uning taqribiy qiymati
+Taqribiy sonni aniq songa nisbati
+
+Nisbiy хatо nima?
+*Absоlyut хatоning aniq  sоnga bo`lgan nisbati
+Taqribiy sonni aniq songa nisbati
+Aniq sоn bilan taqribiy sоnning farqi
+Taqribiy son bilan aniq sonning farqi
+
+Uchburchakning asosi 13,6 sm bo’lsa, unung o’rta chizig’ini toping?
+*6,8 sm
+27,2sm
+6,9sm
+7sm
+
+Uchburchakning o’rta chizig’i 11,5 sm bo’lsa, unung asosini toping?
+*23sm
+24sm
+25sm
+22sm
+
+Geometrik masalalar necha turga bo’linadi?
+*4
+3
+2
+5

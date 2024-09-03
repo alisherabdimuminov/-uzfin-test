@@ -1,0 +1,665 @@
+Informatika fani nimani o`rganadi?
+*Informatsion jarayonlarini qayta ishlash qonunlari va usullarini.
+Informatsion jarayonlarini mantiq qonunlari va masalalarni yechish usullarini.
+Algoritmlarni tuzish, postlash qonun va usullarini.
+Informatsion jarayonlarini EXMda bajarish usullarini.
+
+"Informatika" fanining o`tmishdoshi (avvalgi nomi).
+*Kibernetika
+Informatsiyani avtomatlashtirish
+Dokumentalistika
+Avtomatika
+
+Informatika nimani o’rganadi?
+*Axborotni yig’ish, saqlash, qayta ishlash usullarini
+Informatsion jarayonlarini qayta ishlash qonunlari va usullarini.
+Axborotni Umumiy  axborot turini
+Robot qurilmasini
+
+O’zbekiston respublikasi prezidentining «kompyuter-lashtirishni yanada rivojlantirish va aktni joriy etish to’g‘risidagi» farmoni qachon  qabul qilingan?
+*2002 yil 30 mayda
+2001 yil 30  mayda
+2002 yil 31 aprelda
+2002 yil 29 aprelda
+
+Qaysi qatorda uzluksiz axborot ifodalangan?
+*Doyimiy ravishda havo temperaturasi haqida axborot;
+O`quvchining informatikadan kundalik baholari haqida axborot;
+1/X funksiya grafigi;
+Dars jadvalidagi ximiya fanidan mashg`ulotlar xaqidagi axborot;
+
+Axborot hajmining eng kichik o`lchov birligi -
+*Bit;
+Bayt
+kilobayt;
+Raqam;
+
+"O`zbekiston Respublikssi xaritasi" iborasida necha bayt axborot bor?
+*33 bayt;
+32 bayt;
+34 bayt;
+30 bayt;
+
+Saqlash buyrug'i (MS EXCEL da):
+*F12
+F11
+Ctrl+P
+F9
+
+8 bit orqali kodlash mumkin bo’lgan eng katta natural son:
+*255
+256
+254
+127
+
+(MS WORDda) Hujjatga rasm qo'yish buyrug'i qaysi menyuda?
+*Vstavka
+Razmetka stranitsa
+Vid
+Glavnaya
+
+103  ko’rinishidagi yozuv…
+*xammasida bor
+sakkizlikda bor
+o’nlikda bor
+16 likda bor
+
+Turli ob'ektlarni o'z ichiga olgan taqdimotning bir qismi ... deb ataladi (PowerPoint-da)
+*slayd
+Eskiz
+sayd
+sahifa
+
+Microsoft Word dasturini ishga tushirishning eng tezkor usulini tanlang
+*«window» + R→ winword → «OK»
+Ish stolining bo'sh joyida sichqonchaning o'ng tugmasini bosing, kontekst menyusida "yaratish" → Microsoft Word hujjatini tanlang, "Enter" tugmasini 2 marta bosing.
+Pusk→ Vse programmy → Microsoft Word
+Pusk→ Vse programmy → Microsoft Office →  Microsoft Office Word
+
+Power Point oynasi menyusida Yangi (Yangi) Slayd buyrug'i qayerda joylashgan? (PowerPoint-da)
+*Glavnaya
+Animatsiya
+dizayn
+vstavka
+
+Plotter funktsiyasi?
+*Bu katta formatli qog'ozga chop etadigan printer.
+Kompyuterlar va ma'lumotlar uzatish o'rtasidagi aloqani o'rnatadi
+Bu kichik formatli qog'ozga chop etadigan printer.
+Matnli, grafik ma'lumotlarni qog'ozdan kompyuterga o'tkazish va raqamli axborotni yaratish
+
+Axborot qanday sifatlarga ega bo’lishi kerak?
+*ishonchli, aniqlik va to’liqlik
+uzluksiz va uzlukli
+ishonchli, qimmatli va uzlukli
+ishonchli, qimmatli va uzluksiz
+
+Agar kitobning har bir beti 30 ta satrdan va har bir satri 75ta simvoldan iborat bo’lsa, 250 betda necha kilobayt axborot bor?
+*450000
+451000
+450001
+550111
+
+Kompyuter xotirasiga kiritilgan 4ta avsd harflari necha bit hajmga ega?
+*32
+4
+8
+31
+
+Axborotning o’lchov birliklari to’g‘ri ko’rsatilgan javobni toping? 
+*bayt, kilobayt, megobayt, gigobayt
+bit, bayt va dyyum gigobayt
+millimetr, dyyum, bit gigobayt
+bayt,bit, kilobayt, megobayt, gigobayt
+
+Axborot so’zining ma’nosi nima?
+*axborot-so’zi lotincha «informatsion» so’zidan olingan bo’lib, tushuntirish, tanishtirish, bayon etish
+axborot-so’zi grekcha «informatio» so’zidan olingan bo’lib, qayta ishlash
+axborot-so’zi grekcha «informatio» so’zidan olingan bo’lib,  tushuntirish, bayon etish
+axborot-so’zi lotincha «informatio» so’zidan olingan bo’lib, hisoblovchi
+
+Kompyuterlarda ishlatiladigan dasturlar shartli ravishda uch guruhga bo’linadi. Bular qaysilar?
+*tizimli, amaliy va uskunaviy
+amaliy, uskunaviy va faylli
+tizimli, amaliy va faylli
+uskunaviy, tizimli va faylli
+
+Kompyuterlarda ishlatiladigan amaliy dasturlar qanday dasturlar?
+*aniq bir sohaga tegishli ishlarni bajarishga imkon beruvchi dasturlar
+kompyuter uchun yangi dasturlar tayyorlash va tahrir qilishni   engillashtiruvchi dasturlar
+kompyuterni boshqarish va tekshirish vazifalarini bajaruvchi dasturlar
+foydalanilayotgan ma’lumot nusxalarini hosil qiluvchi dasturlar
+
+Kompyuterlarda ishlatiladigan uskunaviy dasturlar qanday dasturlar?
+*kompyuterni boshqarish va tekshirish vazifalarini bajaruvchi dasturlar
+kompyuter uchun yangi dasturlar tayyorlash va tahrir qilishni engillashtiruvchi dasturlar
+zarur ishlarni bevosita bajarishga imkon beruvchi dasturlar
+foydalanilayotgan ma’lumot nusxa -larini hosil qiluvchi dasturlar
+
+Kompyuterni o’chirish tartibini ko’rsating?
+*pusk-zavershenie rabotы-vыklyuchit kompyuter
+pusk-zavershenie seansa-vыklyuchit kompyuter
+pusk-zavershenie rabotы-vklyuchit kompyuter
+pusk-zavershenie rabotы-perezagruzka
+
+Kompyuterni qayta ishga tushirish uchun qaysi tugmalar majmuasini ishlatish mumkin?
+*Ctrl+Alt+Del
+Ctr+del+alt
+Ctrl+alt-shift
+Ctr+alt
+
+Disk formatlanganda undagi ma’lumotlar o’chiriladimi yoki…?
+*o’chiriladi
+o’chirilmaydi
+shakllantiridi
+ma’lumotlar boshqa disketga nusxalanadi
+
+Disklar qanday nomlanadi? 
+*lotin alifbosining bosh harflari bilan
+kirill alifbosining harflari bilan
+lotin alifbosining kichik harflari bilan
+klaviaturadagi ixtiyoriy simvollar bilan
+
+Qaysi dastur kompakt disklarga ma’lumotlarni yozishni ta’minlaydi?
+*nero express
+scan disk
+finereader
+zvukozapis
+
+Diskni defragmentatsiya qilish deganda nimani tushunasiz?
+*diskdagi fayllarni bir joyga to’plash va ularni siqish
+diskni tekshirishni
+bunday tushuncha yo’q
+diskni formatlashni jarayoni
+
+CD-R va CD-RW disk yurituvchilarining farqi nimada?
+*CD-R disk yurituvchisi ma’lumotlarni o’qishga, CD-RW esa ma’lumotlarni o’qish va yozishga mo’ljallangan
+CD-R disk yurituvchisi ma’lumotlarni o’qish va yozishga, CD-RW esa ma’lumotlarni o’qishga mo’ljallangan
+ikkalasi ham faqat ma’lumotlarni o’qishga mo’ljallangan
+ikkalasi ham faqat ma’lumotlarni yozishga mo’ljallangan
+
+Kompyuterning quyidagi qo’shimcha qurilmalarining vazifalarini to’g‘ri yozilganini ko’rsating?
+*modem- telefon tarmog‘i orqali axborot almashinuv qurilmasi; skaner –ma’lumotlarni kompyuterga ko’chiradi
+modem- ulovchi dastur; skaner –grafik axborotlarni kopyuterga ko’chirish dasturi;
+modem- elektr tarmog‘iga ulovchi qurilma;skaner – grafik va mantli axborotlarni kopyuterga ko’chirish qurilmasi;
+modem- ulovchi
+
+Windowsda oynani yopish qanday amalga oshiriladi?
+*Alt+F4
+Ctrl+Alt
+Shift+P
+Ctrl+P
+
+Almashtirish buferi deb nimaga aytiladi?
+*Vaqtinchalik xotiraning
+Ma’lumotlarni saqlash joyi
+Doimiy xotiraning qismiga
+To’g’ri javob yo’q
+
+Masalalar panelining joylashish holatini o’zgartirib bo’ladimi?
+*Bo’ladi
+Bo’lmaydi
+ba’zi hollarda
+to’g’ri javob yo’q
+
+Tezkor xotira nima?
+*ma’lumot va dasturlarni kompyuter xotirasida vaqtincha saqlaydi.
+kompyuter ishini boshqaradi.
+xotiradagi ma’lumotlar almashuvini ta’minlaydi.
+ma’lumotlarni o’qish va yozishni ta’minlaydi
+
+Modem nima?
+*telefon tarmog‘i orqali boshqa kompyuterlar bilan ma’lumotlar almashishni ta’minlaydi
+ma’lumotlarni kompyuterga kiritishni engillashtiradi
+ma’lumotlarni qog‘ozga chiqarishni ta’minlaydi
+xotiradagi ma’lumotlar almashuvini ta’minlaydi
+
+Monitor turlari keltirilgan javobni toping
+*ega,vga, svga
+lazerli, matritsali va purkovchi
+intel-8087, intel-80287, intel-80386
+lazerli va purkovchi
+
+Kesh xotira nima uchun ishlatiladi?
+*protsessorning ishlash tezligini oshirish uchun
+protsessorning ishlash sekinlashtirishh uchun
+ma’lumotlarni nusxalash uchun
+o’chirilgan fayllarni vaqtincha saqlash uchun
+
+Fayllar bilan ishlashda *.*belgisi nimani bildiradi?
+*diskdagi barcha fayllarni
+diskdagi barcha kataloglar
+faqat matnli fayllar
+nomi bitta simvoldan iborat fayllarni
+
+Moy dokumentы yorlig‘ining vazifasi nima?
+*foydalanuvchining fayllari va papkalarini saqlash
+disklar bilan ishlash va disklarni tanlash
+foydalanuvchining fayllari va papkalarini ochishi
+operativ xotira haqida ma’lumot olish
+
+Moy kompyuter yorlig‘ining vazifasi nima?
+*disklar bilan ishlash, operativ xotira haqida ma’lumot olish
+disklar bilan ishlash, o’chirilgan fayllarni tiklash
+disklar bilan ishlash, operativ xotira haqida ma’lumot qo’yish
+foydalanuvchining fayllari va papkalarini saqlash.
+
+Korzina yorlig‘ining vazifasi nima?
+*o’chirilgan fayllarni vaqtincha saqlash
+o’chirilgan fayllarni doyimiy saqlash
+operativ xotira haqida ma’lumot olish
+foydalanuvchining fayllarini saqlash.
+
+Operatsion tizim to’g‘ri keltirilgan qatorni ko’rsating
+*windows 98, windows 2000, windows nt, windows xp, unix
+windows 95, windows 98 norton commander, 
+microsoft word,
+super cals 4, microsoft excel, ms access
+
+Windows otning ishchi stolida papka tashkil qilish
+*kontekstli menyu -sozdat-papku
+kontekstli menyu -sozdat-yarlik
+kontekstli menyu -[f7] bosiladi
+sichqonchaning chap tugmachasi bosiladi- kontekstli menyu sozdat-papku
+
+Windows OTning ishchi stolida asosan qanday yorliqlar joylashadi?
+*moy kompyuter, moi dokumentы, korzina, setevoe okrujenie, soedinenie s internetom
+moy dokumentы, nastroyka, nayti, zavershenie seansa
+programmы, dokumentы, spravka, vыpolnit
+moy komyuter, korzina, zavershenie rabotы, programmы
+
+Korzinadan faylni qayta tiklash qanday bajariladi?
+*korzina- vosstanovit
+korzina-ochistit
+korzina-obnovit
+korzina-vыrezat
+
+O’chirilgan fayllarni saqlash uchun korzinaga qattiq diskdan qancha joy ajratiladi?
+*10 foiz
+11 foiz
+ajratilmaydi
+9 foiz
+
+Word dasturi menyusi to’g‘ri ko’rsatilgan javobni toping?
+*fayl, pravka, vid, vstavka, format, servis, tablitsa, okno, spravka
+fayl, pravka, vid, vstavka, format, servis, raspolojenie, okno, spravka
+fayl, pravka, vid, vstavka, format, servis, pokaz slaydov, okno, spravka
+fayl, pravka, vid, vstavka, format, servis, dannыe, okno, spravka
+
+Word da faylni chop qilish uchun qaysi tugmachani ishlatish mumkin?
+*Ctrl+p
+Ctrl+r
+Ctrl+v
+Ctrl+a
+
+Word dasturining vazifasi
+*matnli ma’lumotlarni qayta ishlaydi
+matnli ma’lumotlarni qidirish
+jadvalli ma’lumotlarni qayta ishlaydi
+internet xizmatini ko’rsatadi.
+
+Matn muharrirlari to’g‘ri keltirilgan qatorni ko’rsating?
+*Bloknot, wordPad, word
+windows 98, windows 2000, windows nt,
+Bloknot, wordPad paynet
+wd.com, super calk 4, microsoft excel, ms access
+
+Microsoft word da ma’lumotni diskka yozish tartibi to’g‘ri keltirilgan qatorni tanlang?
+*fayl/ soxranit kak/ fayl nomi/ soxranit
+pravka/ soxranit kak/ fayl nomi/ soxranit
+soxranit/ fayl nomi/ ok
+[ctrl]/[f1] tugmachalar majmuasi yordamida
+
+WORD dаsturidа yarаtilgаn fаyllаrning kеngаytmаsi qаndаy bo’lаdi?
+*.docx
+.xlsx
+.pptx
+.dbbx
+
+MS Wordda “Масштаб” buyrug’I necha Foiz (%) sonda bo’lishi mumkin?
+*10% dan 500% gacha
+10% dan 150% gacha
+10% dan 499% gacha
+10% dan 50% gacha
+
+WORD tаxrirlаgichidа kursоrni sаtrning оxirigа оlib o’tish tugmаchаsi.
+*end
+home
+shift
+ctrl
+
+WORD tаxrirlаgichidа kursоrni sаtrning boshigа оlib o’tish tugmаchаsi.
+*home
+end
+shift
+ctrl
+
+WORD tаxrirlаgichidа matnni butunlay belgilsh tugmalar kombinatsiyasi
+*Ctrl+A
+Shift+\a
+Ctrl\+A
+Ctrl-+D
+
+Matn nimalardan tashkil topadi?
+*matn - simvol, qator, parcha, abzast, sahifalardan
+matn - ot, sifat, son, so'zlardan
+matn - rejadan
+matn - faqat simvoldan
+
+Excel dasturi nima uchun mo’ljallangan?
+*jadvalli ma’lumotlarni qayta ishlaydigan
+jadvalli ma’lumotlarni o’chiradigan 
+matnli ma’lumotlarni qayta ishlaydigan
+internet xizmatini ko’rsatuvchi
+
+Jadval muharrirlari to’g‘ri keltirilgan qatorni ko’rsating?
+*super cals 4, excel
+super cals 4, excel net were, windows nt, unit, cp/m
+super cals 4, excel microsoft word, bloknot
+ms-dos, windows 98, windows 2000
+
+Excelda срзнач(A5:A50) funktsiyasi……. Hisoblaydi?
+*A5 dan A50 gacha bo’lgan yacheykalardagi qiymatlarning o’rta arifmetigini hisoblaydi
+A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlarning ko’paytmasini hisoblaydi
+A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlardan eng kattasini tanlaydi.
+A5 dan A50 gacha bo’lgan yacheykalardagi sonli qiymatlarning yig‘indisini hisoblaydi
+
+Excelda summ(G1: G100) funktsiyasi nimani hisoblaydi?
+*G1 dan G100 gacha bo’lgan yacheykalardagi qiymatlarning yig‘indisini hisoblaydi.
+G1 dan G100 gacha bo’lgan yacheykalardagi qiymatlarning ko’paytmasini hisoblaydi
+G1 dan G100 gacha bo’lgan yacheykalardagi qiymatlardan eng kattasini tanlaydi
+G1 dan G100 gacha bo’lgan yacheykalardagi qiymatlardan eng kichigini tanlaydi.
+
+Excelda произвед(V5: V10) funktsiyasi nimani hisoblaydi?
+*V5 dan V10 gacha yacheykalardagi qiymatlarning ko’paytmasini hisoblaydi
+V5 dan V10 gacha yacheykalardagi qiymatlarning yig‘indisini hisoblaydi
+V5 dan V10 gacha yacheykalardagi qiymatlardan eng kattasini tanlaydi
+V5 dan V10 gacha yacheykalardagi qiymatlardan eng  kichigini tanlaydi
+
+Excelda to’g‘ri yozilgan formulani ko’rsating?
+*=A1+5B5
+A1+4*B5
+=A1+4B5
+=A1+4B
+
+Excelda jadvalga qanday turdagi ma’lumotlar kiritiladi?
+*matnli, sonli va formula
+sonli va formula
+faqat formula
+matnli, sonli
+
+Excelda yacheyka(katakcha) nima?
+*jadval ustuni va satri kesishmasi
+jadval ustuni va satri ustma ust tushadigan joy
+jadval ustuni
+jadval ustunini nomi
+
+Excelda quyidagi funksiyalar mavjud....
+*matematik, statistik, mantiqiy funksiyalar
+matematik, statistik funksiyalar
+SQRT, AVERAGE funksiyalar
+Fizik va kimyoviy funksiyalar
+
+Ms Excel (2016) da ustunlar soni nechta? 
+*16348
+15680
+656
+256
+
+Ms Excel (2016) da satrlar soni nechta? 
+*1048576
+104876
+1048675
+1065536
+
+Ms Excelda Срзнач funksiyasi qanday hisoblashni bajaradi? 
+*O’rta arifmetikni
+Ildizni
+Yig’indini
+Foiz oladi
+
+Ms Excelda Корень funksiyasi qanday hisoblashni bajaradi? 
+*Ildizni
+O’rta arifmetikni
+Yig’indini
+Foiz oladi
+
+Adobe photoshop dasturi nima uchun mo’ljallangan?
+*foto tasvirlarni qayta ishlaydi
+matnli ma’lumotlarni qayta ishlaydi
+jadvalli ma’lumotlarni qayta ishlaydi
+internet xizmatini ko’rsatadi
+
+Ms excel dasturi bu ...
+*jadval protsessori
+matn protsessori;
+matn va jadval protsessori
+tasvir va matn protsessori;
+
+Excelda varaq deb nimaga aytiladi?
+*ishchi kitobdagi elektron jadvalga ishchi varaqqa
+ishchi varaq deb oddiy excel xujjatiga
+faqat diagrammalar bo’lgan xujjatga
+kompyuter ekrani tushuniladi
+
+Elektron jadvalning asosiy elementlari ... .
+*diapazon va yacheyka
+ustun va diapazon
+yacheyka va ustun
+qatorlar
+
+Yacheyka bu ... .
+*jadvaldagi qator va ustunlar kesishmasi
+jadvaldagi birinchi va ikinchi qatorlar oralig‘ida joylashgan elemenlardir
+jadvaldagi birinchi va ikkinchi ustunlar oralig‘ida joylashgan elemenlardir
+jadvaldagi birinchi qator va birinchi ustun kesishmasi oralig‘ida joylashgan elementdir
+
+Diapazon deb nimaga aytiladi?
+*ixtiyoriy yacheykalardan iborat bo’lgan guruhga
+faqat bir ustundagi yacheykalarga
+faqat bir qatordagi yacheykalarga
+yacheykaga
+
+L7 deb nomlangan yacheyka manzilini izoh qiling.
+*l ustun va 7-qator kesishmasi
+l qato va 7-qator kesishmasi
+l ustun va 7-ustun kesishmasi
+l qator va 7-ustun kesishmasida joylashgan yacheyka
+
+Katorlar tartibi qanday oraliqda tartiblanadi?
+*1 dan  65536 gacha tartiblanadi
+1 dan  ∞ gacha tartiblanadi;
+1 dan  65563 gacha tartiblanadi
+1 dan  65566 gacha tartiblanadi
+
+... Elektron jadvalllar oddiy matn muharririga aylanib qoladi. Jumlani to’ldiring
+*“formulalarsiz”
+“sonlarsiz”
+“diagrammalarsiz”
+“grafiklarsiz”
+
+Markaziy protsessor quyidagi funktsiyani bajaradi......
+*arifmetik va mantiqiy operatsiyani bajaradi
+ma’lumotlarni uzatish jarayonini boshqaradi
+qurilmalarni fizik boshqarishni amalga oshiradi
+qurilmalar holatini tekshirib boradi
+
+Kompyuter ishlash tezligi ....... Bog‘liq:
+*protsessor chastotasiga va tezkor xotiraga
+operatsion sistemaga
+printerning ulanganligiga
+ma’lumotlar hajmiga.
+
+Kompyuterning arifmetik-mantiqiy qurilmasi-bu.....
+*protsessor
+plotter
+strimmer
+modem
+
+Saqlash buyrug'i (Microsoft Word da) ...
+*Hujjatni saqlash. Odatiy bo'lib, yangi Word 2010 hujjati .docx formatida saqlanadi.
+Joriy hujjatni yangi nom ostida va/yoki yangi katalogda saqlash.
+Hujjatni ochish. Fayl nomi maydonidan keyingi ro'yxatda siz .docx, .dotx, .docm, .dotm formatlarini o'z ichiga olgan hujjat turini tanlashingiz mumkin.
+Hujjatni saqlash. Odatiy bo'lib, yangi Word 2010 hujjati .doxc formatida saqlanadi.
+
+...Bu global komp’yuter tarmog‘idir.
+*internet
+web sahifa
+browser
+intranet
+
+“Axborotlashtirish to’g‘risida” qonun nechanchi yilda qabul qilingan
+*2003
+1994
+2004
+2002
+
+“Elektron raqamli imzo to’g‘risida” qonun nechanchi yilda qabul qilingan
+*2003y
+2001y
+1994y
+2002y
+
+“Elektron tijorat to’g‘risida ” qonun nechanchi yilda qabul qilingan
+*2004y
+2001y
+1998y
+2003y
+
+“Elektron hujjat aylanishi to’g‘risida” qonun nechanchi yilda qabul qilingan
+*2004y
+2006y
+1999y
+2005y
+
+“Axborot erkinligi printsiplari va kafolotlari to’g‘risida” qonun nechanchi yilda qabul qilingan
+*2003y
+2002y
+1995y
+2009y
+
+Excel elektron jadvalida yaratilgan fayl nima deyiladi?
+*kniga
+list
+strok
+stolbtsi
+
+Excel elektron jadvalida (Excel-97) varaqlar (лист) soni nechta bo'lishi mumkin?
+*3 tagacha
+5 tagacha
+1 tagacha
+10 tagacha
+
+Ms excel da funktsiya nima?
+*bu ifoda bilan ishlovchi va jadvalning yacheykasiga ifodalarning qiymatini qaytaruvchi formuladir
+bu oldindan belgilangan formula yoki ifodadir
+bu murakkab formuladir.
+bu ifodaning qiymatini qaytaruvchi, oldindan belgilangan formuladir
+
+Forum bu - 
+*veb-saytning tashrif buyuruvchilari muloqot o’rnatadigan maydonchasi
+veb-sayt
+veb-saytning tashrif buyuruvchilari muloqot o’rnatmaydigan maydonchasi
+internetning foydalanuvchilari saytlari
+
+Chat nima?
+*bu bir vaqtning o’zida bir necha foydalanuvchining internet orqali muloqotidir.
+bu bir vaqtning o’zida bir necha kishining o’zaro muloqotidir
+bu ikki vaqtning o’zida bir necha foydalanuvchining internet orqali muloqotidir.
+bu qo’shimcha qurilma
+
+Parol nima?
+*egasi haqiqiyligini aniqlashda ishlatiladigan belgilar ketma-ketligi.
+egasi haqiqiy emasligini aniqlashda ishlatiladigan belgilar ketma-ketligi.
+egasi haqiqiyligini aniqlashda ishlatiladigan buyruqlar ketma-ketligi.
+kodlashtirilgan so’zlar
+
+Wordda “formatlash” deganda
+*matnli hujjatlarni o’zgartirish, qo’shish, o’chirish, bo’lish va boshqa amallar tushuniladi
+matnli hujjatlarni o’zgartirish, qo’shish, o’chirish, bo’lish va boshqa amallar tushurmaydi
+kiritilgan tekstlarni sahifalash tushuniladi
+axborot va ma’lumotlarni kiritish tushuniladi
+
+Icq- nima?
+*eng ommabop internet muloqot dasturidir
+muloqot dasturi
+eng ommabop bo’lgan internet dasturi
+eng ommabop bo’lgan tele dastur
+
+Xabar-bu... 
+*axborotni tasvirlash shakli bulib, u nutk, matn, tasvir, grafik, jadval, videotasvir, tovush va shu kabi kurinishlarda ifodalaniladi
+axborotni tasvirlash shakli bulib, u nutk, matn kurinishlarda ifodalaniladi
+axborotni tasvirlash shakli bulib, u nutk, matn, tasvir, grafik, jadval, video-tasvirlarda ifodalaniladi
+axborotni tasvirlash shakli bulib, u tasvir, jadval, videotasvir, tovush kurinishlarda ifodalaniladi
+
+Power Pointni ishga tushirish
+*pusk-programmы-microsoft office- power point
+pusk-standartnie- point- power point
+pusk-nastroyka- power point
+pusk-poisk- power point
+
+Power point dan chiqish
+*fayl menyusidan
+pravka menyusidan
+pokaz slaydov menyusidan
+vid menyusidan
+
+Power point menyu bandlari tavsifini keltiring
+*fayl, pravka, vid, vstavka, format, servis, pokaz slaydov, okno, spravka
+fayl, pravka, vstavka, format, servis, pokaz slaydov, okno, spravka
+fayl, pravka, vid, vstavka, format, dannыe, servis, okno, spravka
+fayl, pravka, vid, vstavka, format, servis, tablitsa, pokaz slaydov, okno, spravka
+
+Slayddagi matnda shrift o’lchamini almashtirish qaysi menyu orqali amalga oshiriladi
+*format
+vstavka
+pokaz slaydov
+servis
+
+Slaydlarni raqamlash qaysi menyu orqali amalga oshiriladi?
+*vstavka
+pravka
+vid
+format
+
+Razmetka slayda (slaydni belgilash) qaysi menyu orqali bajariladi?
+*format
+pokaz slaydov
+vid
+pravka
+
+Tayyor bo’lgan taqdimot namoyishini ishga tushirish uchun qaysi funktsional klavish orqali amalga oshiriladi?
+*F5
+F1
+F2
+F10
+
+Taqdimot slaydiga vaqtni sozlash uchun qaysi menyudan foydalaniladi?
+*pokaz slaydov
+nastroyka animatsii
+vыravnivanie
+vetrenaya animatsiya
+
+Power point dasturida F7 tugmasi nima vazifani bjaradi?
+*imlo xatolarni tekshiradi
+bekor qilingan harakatni qaytaradi
+yotiq xarflar rejimiga o’tadi
+abzatsni o’rtadan rostlaydi
+
+Animatsiyani sozlash qaysi menyu orqali amalga oshiriladi?
+*pokaz slaydov
+pravka
+format
+vid
+
+Ctrl +J tugmachalar kombinatsiyasi nima vazifani bajaradi?
+*abzatsni ikkala tomoni bo’yicha rostlash
+chap tomondan rostlash
+o’ng tomondan rostlash
+markazdan rostlash
+
+Ctrl+V tugmachalar majmuasi qanday vazifani bajaradi?
+*qalin harflar rejimiga o’tadi
+qiyin harflar rejimiga o’tadi
+quyi harflar rejimiga o’tadi
+harflar tashqi ko’rinishini xotiraga oladi

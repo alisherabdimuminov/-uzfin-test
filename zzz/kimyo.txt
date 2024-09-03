@@ -1,0 +1,723 @@
+1. Qaysi bandlarda “atom” so’zi o’z ma’nosida qo’llanilmagan. 1) 1 atomli fenollar – aromatik spirtlar 2) Benzol tarkibida 6 ta atom orbitallari ishtirokida aromatik halqa hosil qilingan 3) Spirtlar 1 va ko’p atomli bo’ladi 4) uglevodorodlar tarkibida faqat C va H atomlari bo’ladi.
+*1,3
+1,2 
+1,3,4 
+2,4
+
+2. To’g’ri tushunchani tanlang?
+*atomlar molekulaga bog’liq bo’lmagan holatda mavjud
+jismlar moddaga bog’liq bo’lmagan holatda mavjud
+molekulalar atomlarga bog’liq bo’lmagan holatda mavjud
+moddalar molekula va atomlarga bog’liq bo’lmagan holatda mavjud
+
+3. Temir atomining absolyut massasi 93,13•1027 kg bo’lsa, u necha m.a.b ga teng?
+*56 
+4,67
+672
+1/56
+
+4. A gazining hajmi 2V, massasi 0,5m, xuddi shunday sharoitda B gazining hajmi V, massasi m bo`lsa, gazlarning zichliklari orasidagi munosabat qaysi javobda to`g`ri berilgan?
+*ρ(A)=4ρ(B)
+4ρ(A)=ρ(B)
+2ρ(A)=ρ(B) 
+ρ(A)=2ρ(B)
+
+5. 320 g ammiakli selitra olish uchun,sarflangan ammiakni qanday stexiometrik hajmli (n.sh) azot va vadorod aralashmasidan olish mumkin? (η=80%)
+*224
+672 
+448 
+336 
+
+6. Ma`lum moddaning nisbiy molekular massasi 44. Shu moddaning molekular massasini ko`rsating.
+*44g/mol
+44 g
+44 g
+44 m.a.b.
+
+7. Tabiatda …lar …larga bog’liq bo’lgan holda mavjud?
+*modda/molekula 
+atom/molekula
+molekula/modda
+modda/molekula 
+
+8. Qaysi hodisa oddiy modda va element orasidagi farqni ko’rsatib beradi? 
+*allotropiya 
+sublimatlanish
+diffuziya 
+adsorbsiya 
+
+9. Molekula bu…
+*Moddaning barcha xossalariga ega fizikaviy jixatdan bo’linmas zarrachasi.
+Moddaning barcha xossalariga ega kimyoviy jixatdan bo’linmas zarrachasi.
+Borliqning kimyoviy ko’rinishi.
+Barcha javoblar to’g’ri.
+
+10. Element bu…
+*moddaning oddiy zarrachasi
+moddaning bo`linmas zarrachasi
+moddaning mayda zarrachasi 
+yadro zaryadlari bir xil bo`lgan atomlarning     turkumi.
+
+11. 2 ta murakkab va 2ta oddiy moddalar qatorini ko’rsating.
+*isgazi,ozon,kislorod,fosfin
+selitra,etan,benzol,atseton
+metan,oltingugurt,kislorod,xlor
+fosfor,oltin,kumush,pirit
+
+12. Allotropik shakl o’zgarishlarga ega bo’lgan V guruh elementini aniqlang.
+*fosfor  
+uglerod
+kislorod 
+oltingugurt
+
+13. Quyidagi  o’zgarishlarning qaysilari  kimyoviy jaroyonlarga talluqli? 1) kislorodning ozonga aylanishi;2) kislorodni suyultirilgan havodan olishi; 3) simob (II) oksididan kislorodni olish; 4) kaliy  permanganatdan kislorodni olish;
+*1,3,4
+2,3,4
+1,4
+1,3
+
+14. Quyidagi holatlarning qaysilari to’g’ri? 1) fizik hodisalar  kimyoviy hodisalardan farq qilib, fizik  hodisalarda  molekulalar  saqlanib  qolmaydi; 2) molekulalar  atomlardan  tarkib  topadi,  atomlar  ham  molekulalar  singari  to’htovsiz  harakatda  bo’ladi;   3) kimyoviy hodisalarda molekulalar tarkibi o’zgaradi; 4) kimyoviy  reaksiyaga  kirishgan   moddalarning  massasi  hosil  bo’lgan  moddalarning  massasiga teng  bo’lmaydi;5)  molekulalar orasida o’zaro  tortilish  va  itarilish  kuchlari  mavjud;  6)  bir  turdagi  atomlar  boshqa  turdagi  atomlardan  massasi  va xossalari   bilan  farq  qilmaydi;
+*2,3,5
+1,4,5,6
+3,4,5,6
+4,6,5
+
+15. Qaysi  moddaning   qizdirilishdan  hosil bo’ladigan  moddaning  boshqa  agregat  holatga  o’tishi   fizik  bo’lmasdan,  u  qaytar  kimyoviy  jaroyon bo’ladi?
+*oq  fosfor 
+yod
+naftalin
+ammoniy  xlorid
+
+16. Quyidagi jarayonlardan fizikaviy hodisalarni ajrating. 1) oltingugurtning suyuqlanishi 2) oltingugurtning yonishi  3) shisha pishirish  4) shishani maydalash  5) shakarning erishi   6) shakarning ko’mirlanishi
+*4,5
+1,4,5
+1,4
+1,2,3 
+
+17. Quyidagilardan qaysilari kimyoviy hodisa hisoblanmaydi. 1) mis idishning havoda qorayishi 2) suvning muzlashi 3) kislotaga asos ta’sir ettirish 4) qumni sement bilan aralashtirish 5)  havoni sovutib kislorod olish  6) metallning havoda oksidlanishi
+*2,4,5
+2,3,6
+1,2,3
+1,3,6 
+
+18. Subilmatsiya xodisasiga teskari jarayonni ko’rsating. 
+*depozitsiya
+deformatsiya
+kristalizatsiya
+asublimatsiya
+
+19. Element tushunchasini aks ettiruvchi ifodani toping. 1) yadro zaryadi bir xil bo'lgan atomlar to'plami; 2) mustaqil tura oladigan elektroneytral zarrachalar; 3) yadrodagi protonlari soni bir xil bo'lgan atomlar to'plami; 4) kimyoviy bo'linmaydigan eng kichik zarracha; 5) atomlarning muayyan turi. 
+*1,3,5
+1,3,
+1
+4,5
+
+20. Uglerod elementi quyidagi qaysi moddalar tarkibiga kirmagan? 1) karbid;  2) ohaktosh;  3) osh tuzi;   4) chili selitrasi;  5) bertoli tuzi;  6) ichimlik sodasi
+*3,4,5
+1,2,3 
+3,4
+1,2,5
+
+21. Qaysi element quyida berilgan hamma moddalar tarkibiga kirgan? 
+1) kaliy permanganat;  2) kaliy manganat;            3) vodorod peroksid;   4) bertole tuzi;   5) potash;    6) kaliy nitrat;    7) kaliy xromat. 
+*kislorod
+kaliy
+marganes
+vodorod
+
+22. Atom tushunchasini qaysi tavsif to’laroq talqin etadi? 1) muayyan moddaning kimyoviy xossasini o’zida saqlab qoladigan eng kichik zarracha. 2) oddiy va murakkab moddalar molekulasi takibiga kiruvchi kimyoviy elementning eng kichik zarrachasi. 3) har qanday atomning alohida turi 4) musbat zaryadlangan  yadro bilan bir yoki bir necha elektronlardan tashkil topgan elektroneytral zarracha 
+*2,4
+1
+2 
+3
+
+23. Faqat kimyoviy elementlar keltirilgan qatorni aniqlang.
+*uglerod,kislorod,vodorod,azot 
+olmos,ozon,grafit,uglerod
+ozon,kislorod,olmos,vodorod
+azot,ozon,vodorod,kislorod
+
+24. Olmos, grafit, osh tuzi, sulfat kislota, shakar   va natriy gidroksid moddalari berilgan shu moddalarning tarkibini necha xil element tashkil  etadi?
+*7
+8
+6
+5
+
+25. Quyidagi qatorlardan qaysi biri oddiy moddalardan tuzilgan?                                                                                                                                 *vodorod, qaldiroq gaz, natriy.
+mis oksidi, azot, suv.
+kislorod, vodorod, temir(III) xlorid.
+fosfor (III) oksidi, vodorod xlorid, oltingugurt.
+
+26. Keltirilgan moddalar ichidan murakkablarini toping. 1) oq fosfor;  2) fosfin;  3) kalsiy fosfid; 4) qizil fosfor; 5) fosfat kislota; 6) qora fosfor.
+*2,3,5
+1,4,6
+1,2,5
+2,4,6
+
+27. Murakkab moddalar qatorini ko’rsating. 1) ammiak, metan, gematit; 2) suv, fosfin, sovun; 3) ozon, xlor, qaldiroq gaz, vodorod peroksid; 4) bronza, oq fosfor, marganes;  5) malaxit, ohaktosh, kaliy, magniy
+*1,2
+2,4
+3,4
+2,5
+
+28. Qaysi moddalarda allotropiya hodisasi mavjud. 1) uglerod 2) azot 3) qalay  4) yod 5) xlor
+*1,3
+1,2
+1,4
+3,5
+
+29. Qaysi moddalarda allotropiya hodisasi kuzatilmaydi? 1) brom 2) kislorod 3) uglerod 4) kaliy  5) ftor  6) fosfor 
+*1,5
+1,3 
+2,4
+3,4
+
+30. Quyidagi moddalar to’plamidan qaysisi allotropik shakllarga xos?
+*uglerod,karbin,grafit;
+suv,bug’,muz; 
+suv,tuman,shudring;
+vodorod,xlor,kislorod;
+
+31. Qaysi olim qizish, sovish va kimyoviy oʻzgarishlar korpuskulalarning harakatidan kelib chiqadi degan fikrni ilgari surgan?  
+* M.V.Lomonosov
+A.Lavuadze 
+Demokrit
+Levkipp
+
+32. Elektronlarning energetik pog‘ona va orbitallar bo‘ylab joylanishi ………… deb ataladi
+*elementning elektron konfiguratsiyasi;
+Xund qoidasi;
+Pauli qoidasi; 
+elektron bulut;
+
+33. 1852 yili angliyalik olim Frankland ko‘pgina  ………… birikmalarning hosil bo‘lishini o‘rganib valentlik tushunchasini kiritdi.
+*metallorganik;
+kislotali;
+kislorodli;
+asosli;
+
+34. Valentlik soni nimalarga bogʻliq?
+*kuzatilayotgan elementning qanday holatda ekanligiga,  reaksiyaga kirishayotgan element tabiati, birbiriga ta’sir etish sharoitiga bog‘liq ;
+reaksiyaga kirishayotgan element tabiati;
+birbiriga ta’sir etish sharoitiga bog‘liq;
+barchasi notoʻgʻri;	
+
+35. Biror element izotopining radioaktiv yemirilishida  ¯zarracha ajralib chiqsa, qanday jarayon kuzatiladi? 1) massasi deyarli o‘zgarmaydi;   2) elektron yadroga qulaydi; 3) neytron protonga aylanadi;  4) proton neytronga aylanadi.
+*1, 3
+1, 4
+2, 4
+2, 3
+
+36. Izotoplarning qaysi xususiyatlari bir xil bo’ladi? 1) protonlar soni; 2) neytronlar soni; 3) elektronlar soni;  4) yadro zaryadlari; 5) atomlarning massa soni
+*1, 3, 4
+2, 5
+1, 2, 5
+1, 3, 5
+
+37. Izoelektronli zarrachalarni toping. 1) metan; 2) ammiak; 3) vodorod ftorid; 4) ammoniy ioni; 5) ftor atomi; 6) ftor anioni
+*1, 2, 3, 4 
+3, 4, 5, 6 
+1, 2, 3, 4, 5 
+1, 2, 3, 4, 6
+
+38. Izotop tushunchasini fanga kim kiritgan ?
+*Soddi
+Berselius
+Butlerov
+Rezerford
+
+39. Temir atomida elektronlar umumiy zarrachalarning 32,5 % ini tashkil etadi. Temir atomining massasini aniqlang.
+*54
+55
+56
+57
+
+40. Marganes atomida elektronlar umumiy zarrachalarning 30,864 % ini tashkil etadi. Marganes atomining neytronlar sonini aniqlang.
+*31
+29
+30
+32
+
+41. Tabiiy borning atom massasi 10,81 ga teng bo’lib,  massalari 10 va 11 bo’lgan izotoplari aralashmasidir. Tabiiy bordagi izotoplar foiz miqdorini hisoblang.
+*19; 81
+26; 74
+33; 67
+22; 78
+
+42. Tabiiy xlorning atom massasi 35,45 ga teng bo’lib,  massalari 35 va 37 bo’lgan izotoplari aralashmasidir. Tabiiy xlordagi izotoplar foiz miqdorini hisoblang.
+*77,5; 22,5
+75; 25 
+79; 21
+78,5; 21,5
+
+43. Tashqi pog’onaning bosh kvant soni qaysi kattaliklar bilan bir xil bo’ladi ? 1) guruh tartib raqami; 2) davr tartib raqami; 3) qator tartib raqami; 4) pog’onalar soni bilan; 5) tashqi pog’onadagi elektronlar soni bilan
+*2, 4
+1, 4
+4, 5
+2, 3, 4
+
+44. Bir elementning atomi va ioni qaysi  zarrachasi hisobiga farqlanadi ?
+*Elektron
+Proton
+Neytron
+Farqlanmaydi
+
+45. Xrom atomida elektron bilan to’lgan pog’ona va pog’onachalar sonini ko’rsating.
+*2; 5
+3; 6
+4; 7
+3; 5
+
+46. Atomlarning umumiy elektron juftlar yordamida bog’lanishidan vujudga keladigan bog’lar qanday nomlanadi ?
+*Kovalent
+Ion
+Metall
+Vodorod 
+
+47. Atomning umumiy elektron juftni o’ziga tortish xususiyatiga nima deyiladi ?
+*elektromanfiylik
+ionlanish energiyasi
+elektronga moyillik
+yo’naluvchanlik
+
+48. Quyidagi qaysi olimlar elementlarni 4 guruhga ajratdi?
+*A.Lavuaze
+Berselius
+Debereyner
+Shankrutua
+
+49. Elemetnlarni triadalarga ajratgan olim?
+*Debereyner
+A.Lavuaze
+Berselius
+Shankrutua
+
+50. Elementlarni Vint yo’nalishida joylashtirgan olim?
+*Shankrutua
+Debereyner
+Lotar Meyer
+Mendeleyev
+
+51. Qaysi olim elementlarni octet qatoriga joylashtiradi?
+*Nyulends
+Debereyner
+Lotar Meyer
+Mendeleyev
+
+52. Davriy sistemada guruhga ta’rif bering?
+*Xossalari bir biriga o’xshash bo’lgan elementlarning vertikal qatoriga
+Ishqoriy metaldan boshlanib inert gaz bilan tugaydigan elementlarning gorizontal qatoriga
+Kimyoviy xossalari bir biriga yaqin bo’lgan elementlarning dioganal qatoriga
+Yuqoridagi barcha javoblar to’g’ri
+
+53. Davriy sistemada davrga ta’rif bering?
+*Ishqoriy metaldan boshlanib inert gaz bilan tugaydigan elementlarning gorizontal qatoriga
+Xossalari bir biriga o’xshash bo’lgan elementlarning vertikal qatoriga
+Kimyoviy xossalari bir biriga yaqin bo’lgan elementlarning dioganal qatoriga
+Yuqoridagi barcha javoblar to’g’ri
+
+54. Davriy qonun — «koinotdagi barcha atomlar o’zaro bog’liqligini kashf etilishi» bo’ldi.  deya ta’rif bergan olim?
+*N.G. Zelenskiy
+D.I.Mendeleyev
+L. Meyer
+E. Rezrford
+
+55. Davriy sistemada elementlarning qaysi xossalari davr bo’ylab chapdan o’ngga ortib boradi?
+*Elektromanfiylik
+Atom radius
+Metallik xossasi
+Qaytaruvchanlik xossasi
+
+56. Davriy sistemada elementlarning qaysi xossasi guruh bo’ylab yuqoridan pastga qarab kamayib boradi? 
+*Elektromanfiylik va elektronga moyillik
+Atom radius
+Metallik xossasi
+Qaytaruvchanlik xossasi
+
+57. Davriy sistemada elementlarning qaysi xossalari davr bo’ylab chapdan o’ngga kamayib boradi?
+*Atom radiusi 
+Elektromanfiylik
+Metallmaslik
+Oksidlovchilik
+
+58. Davriy sistemada elementlarning qaysi xossasi guruh bo’ylab yuqoridan pastga qarab ortib boradi?
+*Metallik va qaytaruvchanlik
+Oksidlovchilik va metallmaslik
+Elektronga moyillik va elektromanfiylik 
+Atom massasi va yadro zaryadi
+
+59. D.I.Mendeleyev davriy jadvalining bitta guruhchasida joylashgan elementlarning atomlari qaysi xususiyatlari bilan o’zaro o’xshash bo’ladi? 1) yadro zaryadi bir xilligi bilan; 2) tashqi qobiqdagi elektronlar soni bilan; 3) elektron qobiqlarning soni bilan; 4) kimyoviy xossalari bilan; 5) fizik xossalari bilan;
+*2, 4
+1, 2
+1, 3 
+2, 3
+
+60. Yadro zaryadi 22 bo’lgan element qaysi davr, qator va guruhga joylashgan?
+*IV davr, 4 qator, IV guruh
+V davr, 6 qator, III guruh
+V davr, 6 qator, I guruh 
+VI davr, 8 qator, IV guruh
+
+61. Davriy sistemada aktinoidlar qanday holatni egallaydi?
+*7 davr, 3 guruh; 
+6 davr, 3 guruh;
+6 davr, 4 guruh; 
+7 davr, 4 guruh.
+
+62. Kimyoviy xossalari o’xshash bo’lgan (analog) elementlar uchun quyidagilardan qaysi biri to’g’ri?
+*bir xil guruhda joylashgan
+neytronlar va protonlar soni teng
+valent elektronlarining soni har xil
+bir xil davrda joylashgan
+
+63. H, Li, Na, K elementlar qatorida atomlar ionlanish energiyasi ..., atom radiusi...
+*kamayadi / ortadi.
+kamayadi / kamayadi; 
+ortadi / kamayadi;
+ortadi / ortadi; 
+
+64. Kaynosimmetrik elementlarni ko’rsating?
+*He, Li, O, B
+H, Na, Mg, F
+Be, Si, P, N
+H, K, S, Ne
+
+65. 1913 yilda ingliz olimi Mozli qanday spektrlarni oʻrganib, elementning tartib nomeri osha borganida (davriy jadvalga muvofiq) har bir seriyaning chiziqlari qonuniyat asosida toʻlqin uzunligi ………….. tomonga surilishini topdi.
+* Rentgen, kamayishi;
+Rentgen, ortishi;
+IQ, kamayishi;
+IQ, ortishi;
+
+66. “Toʻlqin uzunligining teskari qiymatining kvadrat ildizi kattaligi elementlar tartib nomeriga chiziqli ravishda bogʻliq”. Bu qonun qaysi olimga tegishli?
+* Mozli;
+Gemelin;
+Sechenov;
+Lavuadze;
+
+67. Qaysi qonunga asosan elementlarni oilalarga boʻlish imkoniyati paydo boʻldi?
+* Mozli;
+Klichkovichkiy;
+Kvant sonlar;
+Davriy qonun
+
+68. Katta davrlar nima sababdan juft va toq qatorlarga boʻlinadi?
+* Katta davrlarda elementlarning xossalari kichik davrlarga qaraganda sust oʻzgaradi;
+kichik davrlarda elementlarning xossalari katta davrlarga qaraganda sust oʻzgaradi;
+Katta davrlarda elementlarning xossalari kichik davrlarga qaraganda keskin tez oʻzgaradi;
+Kichik davrlarda elementlarning xossalari katta davrlarga qaraganda keskin tez oʻzgaradi;
+
+69. Davriy sistemada elementlar xossalarini oʻxshashligini nechta yoʻnaliashda kuzatish mumkin.
+* 3
+2
+4
+5
+
+70. Qaysi olim elementlarning atom hajmlari va atom massalarini bog’liqlik grafigini taklif qildi.
+* Lotar Meyer
+Lavuadze
+Berselius
+Nuyulendes
+
+71. Atom yadrosi bilan tashqi elektron orbitalning maksimal electron zichlikka ega boʻlgan nuqtasi orasidagi masofa atomning………………….. radiusi deyiladi.
+* orbital
+ion
+effektiv
+kovalent
+
+72. Ikki qoʻshni ionlar yadrolar aro masofa ionlar radiuslariga teng boʻlib……….. deyiladi.
+* panjara konstantasi deyiladi
+ion uzunligi
+effektiv uzunlik    
+kovalent radius 
+
+73. Lantanoid ionlarining radiusi elementning tartib raqami ortgan sari kichiklashib boradi. Bu fanda qanday ataladi?
+* lantanoidlar kirishim va fkirishim
+lantanoidlar kirishim
+fkirishim
+tashqi davriylik
+
+74. Rus olimi E.B.Biron elementlar xossalari guruhda bir tekis oʻzgarmasdan guruhchada ham oʻzgarishini aniqladi va buni ……………. davriylik deb atadi.
+* ikkilamchi 
+dioganal 
+ichki
+duvarak
+75. Element atomlari kimyoviy jarayonlarda qanday zarrachalar hosil qilishi mumkin.  * barchasi toʻgʻri ;
+molekulalar;
+ionlar;
+erkin radikallar; 
+
+76. ………..  ortiqcha elektronga ega bo‘lgan yoki elektron yetishmagan atomlar va kimyoviy bog‘langan atomlar guruhini tashkil qiluvchi zaryadga ega bo‘lgan zarrachalardan iborat.
+* Ion;
+Radikal;
+anion;
+aktiv zarra;
+
+77. ……….. deb valentliklari to‘yinmagan zarrachalarga aytiladi. 
+* Radikal;
+Ion;
+Donor;
+Akseptor
+
+78. Kimyoviy bog‘lanish hosil bo‘lishi esa asosan ………… nm oralig‘ida kuzatiladi.  
+* 0,050,3;
+0,010,3;
+0,050,5;
+0,10,3;
+
+79. Kimyoviy kuchlar …………. kuchlardan farq qilib,  ular fazoda ma’lum  yo‘nalishga ega bo‘ladi.
+* Gravitatsion;
+Ion;
+Metall;
+Tortishish;
+
+80. Berselius nazariyasi  kimning turli zaryadga ega bo‘lgan zarrachalarning birbiriga tortilishi natijasida hosil bo‘ladigan kimyoviy bog‘lanish nazariyasini rivojlantirdi.
+* Devi;
+Poling;
+Bergman;
+Faradey;
+
+81. Gegel Berselius nazariyasining kamchiliklarini, chunonchi, bu  nazariyada  kimyoviy  jarayon natijasida uchrab turadigan moddalarning ………….. xossalariga e’tibor berilmaganligini ko‘rsatdi.
+* Kislotali, ishqoriy xossalari, yopishqoqlik, shakl va rang o‘zgarishi;
+ishqoriy xossalari;
+yopishqoqlik;
+shakl va rang o‘zgarishi;
+
+82. Sistema bir holatdan ikkinchi holatga o‘tganda uning energiya zaxirasi kamaysa, bu hodisa sistemaning energetik afzallik xossasi deb ataladi. 
+* sistemaning energetik afzallik xossasi; 
+sistemaning energetik kamayish xossasi;
+sistemaning bogʻlanish afzallik xossasi;
+sistemaning bogʻlanish zaifligi xossasi;
+
+83. Molekulani tasvirlaydigan asosiy  ko‘rsatkichlar nimalardan iborat? 1)atomlar orasidagi bog‘lanish uzunligi (yadrolararo masofa); 2)ular orasidagi burchak, molekula  hosil  bo‘lishidagi  yadrolar  chiziq; 3)bog‘lanish energiyalari;
+* 1,2,3;
+1,2;
+1,3;
+2,3;
+
+84. Kovalent bog’lanish deb qanday bog’lanishga aytiladi?
+*Umumiy elektron juftlar hisobiga hosil bo’ladigan bog’lanishga aytiladi.
+Elektrostatik kuchlar ta’sirida yuzaga keladigan bog’lanishga aytiladi.
+Erkin elektronlar va metal kationlar ishtirokida vujudga keladigan bog’lanishlarga aytiladi.
+Vodorod atomlari va elektromanfiyligi yuqori bo’lgan element o’rtasida vudujga keladigan bog’lanishga aytiladi.
+
+85. Metall bog’lanish deb qanday bog’lanishga aytiladi?
+*Erkin elektronlar va metal kationlar ishtirokida vujudga keladigan bog’lanishlarga aytiladi.
+Umumiy elektron juftlar hisobiga hosil bo’ladigan bog’lanishga aytiladi.
+Elektrostatik kuchlar ta’sirida yuzaga keladigan bog’lanishga aytiladi.
+Vodorod atomlari va elektromanfiyligi yuqori bo’lgan element o’rtasida vudujga keladigan bog’lanishga aytiladi.
+
+86. Ion bog’lanish deb qanday bog’lanishga aytiladi?
+*Elektrostatik kuchlar ta’sirida yuzaga keladigan bog’lanishga aytiladi.
+Umumiy elektron juftlar hisobiga hosil bo’ladigan bog’lanishga aytiladi.
+Erkin elektronlar va metal kationlar ishtirokida vujudga keladigan bog’lanishlarga aytiladi.
+Vodorod atomlari va elektromanfiyligi yuqori bo’lgan element o’rtasida vudujga keladigan bog’lanishga aytiladi.
+
+87. Vodorod bog’lanish deb qanday bog’lanishga aytiladi?
+*Vodorod atomlari va elektromanfiyligi yuqori bo’lgan element o’rtasida vudujga keladigan bog’lanishga aytiladi.
+Elektrostatik kuchlar ta’sirida yuzaga keladigan bog’lanishga aytiladi.
+Umumiy elektron juftlar hisobiga hosil bo’ladigan bog’lanishga aytiladi.
+Erkin elektronlar va metal kationlar ishtirokida vujudga keladigan bog’lanishlarga aytiladi.
+
+88. Kovalent (qutbsiz) bog’lar hisobiga tuzilgan molekulali moddalarning xusisiyatlari qaysi javobda to’g’ri ko’rsatilgan?1) molekulyar massalari nisbatan yuqori; 2) suyuqlanish temperaturasi nisbatan past; 3) suvda eruvchanligi yaxshi; 4) organik erituvchilarda eruvchanligi yaxshi; 5)molekulalardagi bog’larning to’yinuvchan bo’lmasligi; 6) molekulalardagi bog’larning yo’naluvchan bo’lishi;
+*2,4,6
+1,3,5 
+1,4,6
+2,5,6
+
+89. Kimyoviy bog’lanishning qaysi turida qattiq jismning elektr o’tkazuvchanligi yuqori bo’ladi?
+*metall bog’lanish;
+qutbli kovalent bog’lanish;
+qutbsiz kovalent bog’ianish;
+ion bog’lanish.
+
+90. Yuqori temperaturada suyuqlanadigan, suyuqlangan holda elektr tokini o’tkazadigan va suvda yaxshi eriydigan moddada qaysi turdagi kimyoviy bog’lanish mavjud bo’ladi?
+*ion.
+kovalent; 
+vodorod;
+metall;
+
+91. Suyuqlanish va qaynash harorati yuqori, elektr tokini yaxshi o’tkazadi, qattiq, bolg’alanuvchan kabi xususiyatlarga ega bo’lgan kristall panjarani ko’rsating?
+*Metall kristall panjara
+Ion kristall panjara
+Atom kristall panjara
+Molekulyar kristall panjara
+
+92. Kovalent bog’lanishli, Suyuqlanish va qaynash harorati past, dielktrik, suvda yomon eriydi, qattiqligi past, mo’rt,  ba’zilari sublimatsiyalanadi kabi xususiyatlarni nomoyon qiluvchi kristall panjara turi?
+*Molekulyar kristall panjara
+Metall kristall panjara
+Ion kristall panjara
+Atom kristall panjara
+
+93. Ion kristall panjarali moddalarga xos xususiyatlarni tanlang? 1)Kovalent bog’lanishli; 2)metall bog’lanishli, 3) ion bog’lanishli, 4) suyuqlanmasi yoki eritmasi elektr o’tkazuvchan; 5)dielektrik; 6)bolg’alanuvchan; 7)suvda erimaydi; 8)suyuqlanish va qaynash harorati yuqori; 9)qutbsiz erituvchilarda erimaydi.
+*3,4,8,9
+1,3,4,9
+2,3,4,9
+3,4,7,9
+
+94. Gibridlanish tushunchasini kim qachon fanga kiritgan?
+*1931 – yil L.Poling
+1869 – yil Mendeleyev
+1932 – yil Ya.Berselyuz
+1928 – yil Butlerov
+
+95. Gibridlanish deb nimaga aytiladi?
+*Kimyoviy bog’ hosil qilishda shakli va energiyasi bilan farq qiluvchi orbitallarning bir birini qoplab, energiyasi va shakli bir xil bo’lgan yangi orbitallar hosil qilishiga aytiladi.
+Kimyoviy bog’ hosil qilishda elektron juftlari hisobiga yuzaga keladigan hodisaga 
+Erkin elektronlarning metall kationlari orasidagi erkin harakati tufayli yuzaga keladigan hodisaga aytiladi
+Elektrostatik kuchlar ta’sirida musbat va manfiy ionlar orasida vujudga keladigan bog’lanishlarga aytiladi.
+
+96. Nisbiy miqdori keng ko‘lamda o‘zgara oluvchi ikki va undan ortiq komponentlardan tashkil topgan qattiq yoki suyuq gomogen faza …………..deyiladi.
+* Eritma
+aralashma
+dispers
+suspenziya
+
+97. Qanday eritmada erish tezligi choʻkish tezligi bilan muvozanatda boʻladi.
+* Toʻyingan eritma
+Toʻyinmagan eritma
+Oʻta toʻyingan eritma
+Aralash 
+
+98. Eritmalar tarkibining ………….. ularni mexanik aralashmalarga yaqinlashtiradi, ammo o‘zining bir jinsliligi bilan ulardan farqlanadi.
+* doimiy emasligi   
+doimiyligi
+uchuvchanligi
+choʻkma hosil qilishi
+
+99. Mazkur temperaturada har bir suyuqlik ustidagi to‘yingan bug‘ bosimi …………. birlikka ega bo‘ladi.
+Doimiy
+Oʻzgaruvchan
+Normal
+Nol
+
+100. Biror moddaning suyuqlikda erishi uning to‘yingan bug‘ bosimining olib kelishi tajribalardan ko‘rinadi.
+* kamayishiga
+ortishiga
+oʻzgarmaydi
+ortib kamayishiga
+
+101. Eritma ustida erituvchining to‘yingan bug‘ bosimi shu temperaturadagi toza eritmaga qaraganda doimo ………. bo‘ladi.
+* yuqori
+kam
+oʻzgarmas
+ortib kamayishiga
+
+102. Eritma ustidagi to‘yingan bug‘ bosimining nisbiy kamayishi erigan moddaning mol qismiga tengdir. Qaysi olim qonuni hisoblanadi.
+* Raul
+Genri
+Dalton
+Boyl
+
+103. 10. 1 litr 0,2M natriy fosfat (α=75%) va 1 litr 0,4M alyuminiy xlorid (α=60%) eritmalaridagi tuzlarning dissotsialanishidan hosil bo‘lgan jami anionlar miqdorining jami kationlar miqdoridan farqini (mol) toping (tuzning gidrolizini hisobga olmang).
+* 0,18
+0,75
+0,23
+0,36
+
+104. Termodinamik………….. deb, tashqi muhitdan amalda yoki xayolda ajratib olingan va muayyan chegara sirtiga ega bo‘lgan hamda o‘zaro bir biriga issiqlik va mexanik ta’sir ko‘rsatadigan jismlar yig‘indisiga aytiladi.
+* Sistema
+Issiqlik
+harakat
+holat
+
+105. Termodinamik sistema holati bir qator parametrlar orqali ifodalanadi. Bunday parametrlarga…………. parametrlar deyiladi. 
+* makroskopik
+mikroskopik
+oʻzgarmas
+oʻzgaruvchan
+
+106. Intensiv – T, S, R...  qiymatlari tenglashadi. Sistemaning……………. bog‘liq bo‘lmagan termodinamik parametrlar intensivdir.
+* massasiga  va zarralar soniga 
+hajmiga va zarralar soniga
+bosimiga va zarralar soniga
+haroratiga va zarralar soniga
+
+107. Ekstensiv – V, m qiymatlari qo‘shiladi. Sistemaning …………….bog‘liq bo‘lgan parametrlar.
+* massasiga  va zarralar soniga
+hajmiga va zarralar soniga
+bosimiga va zarralar soniga
+haroratiga va zarralar soniga
+
+108. Sistema bilan tashqi muhit orasida issiqlik almashinmasa …………. sistema deyiladi.
+* adiabatik
+izolyatsiyalangan 
+– yopiq
+Ochiq
+
+109. Tashqi muhit bilan o‘zaro ta’sir natijasida ish bajarilmasa ushbu mexanik …………… sistema deyiladi.
+* izolyatsiyalangan
+adiabatik
+yopiq
+ochiq
+
+110. Termodinamikaning birinchi postulati: tashqi ta’sirdan holi bo‘lgan sistema vaqt o‘tishi bilan har doim termodinamik muvozanat holatga keladi va bu holatdan sistema o‘zo‘zicha chiqa olmaydi. Bu holat ……….holat deyiladi.
+* statsionar
+qoʻzgʻalgan
+oʻzgaruvchan
+B va C
+
+111. Termodinamikaning nechinchi postulati : sistemalarning ichki energiyasi va tashqi parametrlari, hamda temperatura tushunchasi sistema muvozanat holatida bo‘lganda ular orasidagi munosabat bilan bog‘liqdir. Ixtiyoriy termodinamik sistema muvozanat holatida bo‘lganda uning barcha ichki parametrlari, tashqi parametrlari va temperaturaning funksiyasidir.  
+* 2
+1
+3
+0
+
+112. Termodinamika –issiqlik ta’siri ostida jarayonlarning o‘tishini o‘rganadi, termodinamikaning …….. ta asosiy va ……. ta xususiy qonuni bor.
+* 2;1
+1;2
+2;2
+3;1
+
+113. 1931 yilda termodinamikaning nolinchi qonuni kim tomonidan ta’riflangan?
+* Fauler
+Lomonosov
+Sadi Karno
+Tomson
+
+114. 1887 yilga qadar elektrolit eritmalari orqali elektr tokining o‘tishini....................... nazariyasi asosida noto‘g‘ri tushuntirib kelindi. Uning fikricha eritmadagi moddalar faqat elektr toki ta’siri ostidagina musbat va manfiy ionlarga parchalanishi mumkin.
+* Grotkus
+Sichenov
+Mendeleev
+Lengmyur
+
+115. 1887 yilda qaysi olimi turli konsentratsiyadagi kislota eritmalarining elektr o‘tkazuvchanligini o‘lchash natijalariga asoslanib “kislotalar elektr toki berilmaganda ham ionlarga parchalana oladi” degan xulosaga keldi va ionlanish nazariyasini maydonga tashladi.
+* Arrenius
+Grotkus
+Sichenov
+Mendeleev
+    
+116. 0,5 litr 0,8M alyuminiy sulfat va 1,5 litr 0,5M temir (III) nitrat (a =90%) eritmalaridagi tuzlarning dissotsialanishidan hosil bo‘lgan jami anionlar miqdorining jami kationlar miqdoridan farqi 1,3 ga teng bo`lsa, alyuminiy sulfatning dissotsialanish darajasini (%) aniqlang. (tuzning gidrolizini hisobga olmang).
+* 60
+75
+85
+80
+
+117. Eritmadagi kalsiy ionlarini fosfat tarzida toʻliq choʻktirish uchun natriy fosfat tuzi kalsiy xloriddan 2 g kam sarflangan boʻlsa, sarflangan nartiy fosfat miqdorini ( mol) aniqlang.
+* 0,8
+0,4
+0,6
+0,2
+
+118. Qaysi metall nitratining 0,8 mol miqdori 9,4 mol suvda eritilganda (α=1) eritmadagi anionlar massa ulushi 19,84 % boʻladi?
+* K
+Ca
+Na
+Mg
+
+119. Kimning nazariyasiga koʻra kislotalar – proton donori, asoslar – proton akseptori hisoblanadi.
+* BrenstedLouri
+Arrenius
+Luis
+Pirson
+
+120. Kimning nazariyasiga kislotalar – elektron jufti akseptori, asoslar – elektron jufti donori hisoblanadi.
+* Luis
+Arrenius
+BrenstedLouri
+Pirson
+
+121. Qaysi olim kislota va asoslarni yumshoq va qattiqqa boʻlsihni taklif qiladi.
+* Pirson
+Arrenius
+BrenstedLouri 
+Luis
