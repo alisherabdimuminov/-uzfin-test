@@ -40,7 +40,11 @@
         <form action="{% url 'check' test.pk %}" method="post">
             {% csrf_token %}
             <div class="container d-flex align-items-center justify-content-between">
-                <div class="fs-3 fw-bold">{{ test.start_date|date 'H:m' }} | {{ test.end_date|date 'H:m' }}</div>
+                {% if test.start_date and test.end_date %}
+                <div class="fs-3 fw-bold">
+                    {{ test.start_date|date 'H:m' }} | {{ test.end_date|date 'H:m' }}
+                </div>
+                {% endif %}
                 <div class="fs-3">{{ test.name }}</div>
                 <button type="submit" class="btn btn-primary">Tugatish</button>
             </div> <br>
