@@ -99,9 +99,10 @@
         <script>
             const goToTest = (test) => {
                 let spec = document.getElementById("spec");
+                let lang = document.getElementById("lang");
 
                 if (spec.value !== "") {
-                    window.location.href = window.location.href + `test/${test}/?spec=${spec.value}`;
+                    window.location.href = window.location.href + `test/${test}/?spec=${spec.value}&lang=${lang.value}`;
                 } else {
 
                 }

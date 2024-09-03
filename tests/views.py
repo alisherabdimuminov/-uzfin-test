@@ -45,7 +45,7 @@ def test(request: HttpRequest, pk: int):
         test_obj.save()
 
     ped_spec = Specialist.objects.filter(name="Pedagogika texnologiyalari", is_additional=True).first()
-    it_spec = Specialist.objects.filter(name="IT", lang=test_obj.spec.lang, is_additional=True).first()
+    it_spec = Specialist.objects.filter(name="IT", is_additional=True).first()
 
     spec_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")[:30]
     ped_questions_obj = Question.objects.filter(specialist=ped_spec).order_by("?")[:10]
