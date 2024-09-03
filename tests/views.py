@@ -42,11 +42,11 @@ def test(request: HttpRequest, pk: int):
         test_obj.save()
 
     ped_spec = Specialist.objects.filter(name="Pedagogika", lang=test_obj.spec.lang).first()
-    
+    it_spec = Specialist.objects.filter(name="IT", lang=test_obj.spec.lang).first()
 
     spec_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")
-    ped_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")
-    it_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")
+    ped_questions_obj = Question.objects.filter(specialist=ped_spec).order_by("?")
+    it_questions_obj = Question.objects.filter(specialist=it_spec).order_by("?")
     lang_questions_obj = Question.objects.filter(specialist=test_obj.spec).order_by("?")
 
     return render(request, "test.html", {

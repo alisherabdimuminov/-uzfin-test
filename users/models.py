@@ -17,6 +17,7 @@ class User(AbstractUser):
     first_name = models.CharField(max_length=20, null=True, blank=True)
     last_name = models.CharField(max_length=20, null=True, blank=True)
     state = models.CharField(max_length=100, choices=STATE, null=True, blank=True, default="admin")
+    raw = models.CharField(max_length=100, null=True, blank=True)
 
     objects = UserManager()
     USERNAME_FIELD = "username"

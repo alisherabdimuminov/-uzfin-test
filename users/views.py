@@ -1,6 +1,11 @@
-from django.http import HttpRequest
+import random
+import string
+from django.http import HttpRequest, JsonResponse
 from django.contrib.auth import authenticate, login
 from django.shortcuts import redirect, render
+from django.views.decorators.csrf import csrf_exempt
+
+from .models import User
 
 
 def login_handler(request: HttpRequest):
@@ -18,4 +23,29 @@ def login_handler(request: HttpRequest):
             errors = "Foydalanuvchi nomi yokida parol xato!"
     return render(request, "login.html", {
         "errors": errors
+    })
+
+
+def gen_pass():
+    password = ""
+    for i in range(8):
+        password += random.choice(string.ascii_letters + string.digits)
+    return password
+
+
+@csrf_exempt
+def create_user(request: HttpRequest):
+    password = gen_pass()
+    first_name = request.POST.get("first_name")
+    last_name = request.POST.get("last_name")
+    state = request.POST.get("state")
+    username = str(first_name).lower() + "_" + str(last_name.lower())
+    user = User.objects.create()
+    user.set_password(password)
+    user.save()
+    return JsonResponse({
+        "first_name": first_name,
+        "last_name": last_name,
+        "username": username,
+        "password": password,
     })
