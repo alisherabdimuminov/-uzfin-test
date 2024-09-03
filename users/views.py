@@ -45,7 +45,7 @@ def create_user(request: HttpRequest):
         first_name=first_name,
         last_name=last_name,
         state=state,
-        row=password
+        raw=password
     )
     user.set_password(password)
     user.save()
