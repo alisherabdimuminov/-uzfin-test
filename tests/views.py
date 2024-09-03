@@ -2,6 +2,8 @@ import random
 from django.http import HttpRequest, JsonResponse
 from django.shortcuts import get_object_or_404, redirect, render
 from datetime import datetime, timedelta
+from django.utils import timezone
+from django.views.decorators.csrf import csrf_exempt
 from .models import Specialist, Test, Question
 
 
@@ -23,6 +25,11 @@ def test(request: HttpRequest, pk: int):
         return redirect("login")
     spec_pk = request.GET.get("spec")
     test_obj = get_object_or_404(Test, pk=pk)
+
+    if test_obj.end_date:
+        if test_obj.end_date < timezone.now():
+            test_obj.is_ended = True
+            test_obj.save()
 
     if spec_pk and not test_obj.spec:
         spec_obj = get_object_or_404(Specialist, pk=spec_pk)
@@ -86,3 +93,25 @@ def check_test(request: HttpRequest, pk: int):
         test_obj.incorrect = incorrect
         test_obj.save()
     return redirect("test", test_obj.pk)
+
+
+@csrf_exempt
+def create_question(request: HttpRequest):
+    spec = request.POST.get("spec")
+    spec = Specialist.objects.get(pk=spec)
+    content = request.POST.get("content")
+    answer_a = request.POST.get("answer_a")
+    answer_b = request.POST.get("answer_b")
+    answer_c = request.POST.get("answer_c")
+    answer_d = request.POST.get("answer_d")
+    correct = request.POST.get("correct")
+    question = Question.objects.create(
+        specialist=spec,
+        content=content,
+        answer_a=answer_a,
+        answer_b=answer_b,
+        answer_c=answer_c,
+        answer_d=answer_d,
+        correct=correct
+    )
+    return JsonResponse({"status": "ok"})
