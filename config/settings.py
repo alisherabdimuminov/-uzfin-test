@@ -86,6 +86,8 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # Additional settings
 
+CSRF_TRUSTED_ORIGINS = ["https://test.uzfi.uz"]
+
 AUTH_USER_MODEL = 'users.User'
 
 CKEDITOR_BASEPATH = "/static/ckeditor/ckeditor/"
