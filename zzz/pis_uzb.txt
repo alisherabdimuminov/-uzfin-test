@@ -1,858 +1,479 @@
-1. Qaysi og‘zaki bayonqilish metodi nisbatan qisqa hajmdagi o‘quv materialini o‘rganishda qo‘llaniladi
-* Hikoya va tushuntirish
-Ma’ruza
-Suhbat va hikoya
-Ma’ruza va tushuntirish
+1. Psixologiya fani nimani o’rganadi?
+* Psixik faktlar va uning mexanizmlari, qonuniyatlari haqidagi fan 
+Idrok qilish shakllarini 
+Jon va ruh haqidagi ta'limot 
+Ruhiy jarayonlar bilish faoliyatlari, indvidual psxologik xususiyatlarni 
 
-2. Didaktika nima haqida bahs yuritadi?
-* Ta’lim jarayonining ilmiy, nazariy, uslubiy va amaliy asoslarini, ya’ni ta’lim, bilim berish, o’qitish nazariyasi haqida baxs yuritadi
-Ta’lim jarayoni haqida baxs yuritadi
-Ta’limtarbiya haqida baxs yuritadi
-Maktab ta’limi haqida bahs yuritadi
+2.  Qaysi qatorda dastlabki psixologiya to’g’risidagi ilk tasavvur ko’rsatilgan?
+* Dualizm 
+Animizm 
+Totemizm 
+Ideyalizm
 
-3. Darsda o‘qituvchining e’tibori bir necha o‘quvchiga qaratilsa, bu vaqtda qolgan o‘quvchilar mustaqil ishlasalar, ta’limning bunday shakli qanday ataladi
-* Individualguruhli
-Individual
-Ommaviy
-Guruhiy
+3.  Jon o’z mohiyatiga  ko’ra olovsimon uchqundan iboratligini ilgari surgan olim?
+* Geraklit
+Demokrit
+Aflotun
+Arastu
 
-4. Sinf dars tizimining asoschisini aniqlang
-* Ya.A.Komenskiy
-Suqrot
-Ibn Sino
-Abdulla Avloniy
+4.  Jon o’z mohiyatiga ko’ra olovsimon atomdan iboratligini ilgari surgan olim?
+* Demokrit
+Aflotun 
+Arastu
+Fales
 
-5. Ta’lim jarayonining meyoriy hujjatlari …
-* DTS, o`quv reja, o`quv dastur, darslik
-Darslik, qo`llanma, ta’lim usullari, ish reja
-O`quv reja, dastur, KTMD
-O`quv dastur, “Ta`lim to`g`risida”gi qonun, DTS, darslik
+5.  "Ideyalar abadiy va o’zgarmas mohiyatdir, ularning tabiiy olamidan tash qarida oliy olam mavjud bo’lib, ularni odam ko’zi bilan ko’ra olmaydi" mazkur fikr muallifini toping?
+* Platon 
+Geraklit
+Demokrit
+Arastu
 
-6. Didaktikaning asosiy kategoriyalarini ko`rsating
-* Dars, bilim, ko`nikma, malaka, dars o`tish, ilm, metod, rivojlantirish
-bilim, ko`nikma, malaka, tarbiyalash, rag`batlantirish
-Dars, bilim, ko`nikma, jarayon, muqobillik, samaradorlik
-dars o`tish, ilm, metod, jarayon, boshqarish, tuzulish
+6.  "Dualizm" oqimining asoschisi qaysi katorda to’g’ri ko’rsatilgan?
+* Platon
+Demokrit
+Arastu 
+Fales
 
-7. Mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga quyidagilardan qaysi biri kiradi
-* Ijtimoiy ahamiyatli mehnatning o‘quvchilarning qiziqishlari bilan birga qo‘shib olib borilishi
-Tumanlardagi ishlab chiqarish sharoitari
-Ta’lim muasasasidagi an’analar
-Ta’lim muasasasining moddiy bazasi
+7.  Dualizm talimotining mohiyati?
+* Moddiy va ruhiy olam tana va psixikasining bir biriga bog’liq bo’lmagan holda mavjud bo’lib, azaldan qarama  qarshi  narsalar deb tushuntiradi
+Ideyalar adabiy va o’zgarmas moxiyatdir. 
+Jon va tana bir biriga bog’liqdir. 
+Jon va tana bo’linmas birlika ega, lekin faoliyatlar jarayonida ular bir birlarini tark etadilar.
 
-8. O‘zida uyda va maktabda o‘zo‘ziga xizmat, maktab ta’tili vaqtida daladagi yozgi ishlar, maktab qurilishi jamoasidagi ishlar qaysi mehnat turiga taalluqli
-* Ijtimoiy foydali
-O‘quv
-Ishlab chiqarish
-Kundalik
+8.  Kishilik tafakkuri tarixida kim birinchi bo’lib, ruh va jonli tananing ajralmasligini isbotlab berdi?
+* Arastu 
+Aflotun 
+Anakseman 
+Geraklit
 
-9. Didaktikaning so’zmaso’z tarjimasi nima?
-*Didaktika grekcha so’z bo’lib «o’qitish» «o’rgatuvchi» degan ma’nolarni anglatadi
-O’qitish nazariyasi demakdir
-Didaktika grekcha so’z bo’lib, o’qitish demakdir
-Didaktika grekcha so’z bo’lib  «o’rgatuvchi» degan ma’nolarni anglatadi
+9.  Dunyoda kim birinchi bo’lib psixoterapevtik usullarni qo’llagan?
+* Abu Ali ibn Sino 
+Aflotun
+Arastu 
+Abu nasr farobiy
 
-10. Ko‘pchilik tadqiqotchilarning fikricha, jamoaning shakllanishi nechta bosqichda amalga oshiriladi
-* To‘rt
-Besh
-Ikki
-Uch
+10.  Qaysi qatorda inson miyasining og’irligi to’g’ri ko’rsatilgan?
+* 1350 1400g
+1250 1300g 
+1250 1350g 
+1380 1450g 
 
-11. Dars, praktikum, seminar, amaliy mashg‘ulot va  konsultatsiyalar – bu:
-* Ta’limni tashkil etish shakllari
-Ta’lim usullari
-Ta’lim qonuniyatlari va tamoyillari
-Ta’lim vositalari
+11.  Nerv hujayrasi va uning o’simtalari ularni qoplovchi pardalar ………… deb ataladi?
+* Neyron 
+Akson 
+Dendrite
+Sinaps
 
-12. Bilim nima?
-* Bilimodamlarning ijtimoiy tarixiy amaliyot jarayonida to’plagan umumlashgan tajribasidir
-Bilimo’quvchilar tomonidan o’zlashtirilgan ko’nikma va malakalar yig’indisidir
-Bilim amaliyotdan sizga idrok, tasavvur va tafakkur asosida hosil bo’lib, yana amaliyotga qaytib boradigan majmuadir
-Bilim buta’lim demakdir
+12.  "Bosh miya reflekslari" asarining muallifi qaysi qatorda to’g’ri ko’rsatilgan?
+* I.M.sechenov
+I.P.Pavlov 
+A.R.Luriya 
+M.Teplov
 
-13. Ko’nikma nima?
-* O’quvchilarning olgan bilimlariga asoslanib bajaradigan xattixarakatlar yig’indisi
-Ko’nikma bu bilimlar asosida hosil bo’ladigan xattixarakatlar yig’indisidir
-Ko’nikma bu malaka asosida hosil bo’ladi
-Ko’nikma bu to’plangan tajribadir
+13.  "Ongli va ongsiz hayotning barcha aktlari o’zining yuzaga kelishi jihatidan reflekslardan iboratdir" mazkur fikr muallifi va asarning nomi qaysi qatorda to’g’ri ko’rsatilgan?
+* I.P.Pavlov "Oliy nerv faoliyati qonuniyatlari" 
+I.M.Sechenov "Bosh miya funksiyalari" "
+I.P.Pavlov "Bosh miya reflekslari"
+I.M.Sechenov "Bosh miya reflekslari 
 
-14. Qadim zamonlardan mavjud bo‘lgan o‘qitishning eng qadimgi shakli – bu:
-* Individual
-Sinfdars
-Ma’ruzaseminar
-Laboratoriya
+14.  Ongning xarakterli xossalari bo’lmagan javob qaysi qatorda ko’rsatilgan?
+* Shartsiz refleks
+Anglash
+Obekt bilan subekt o’rtasidagi farqni anglash
+Maqsad ko’zlash
 
-15.Quyidagilardan qaysilari ma’ruzaseminar tizimining asosiy shakllariga kiradi? 1) laboratoriya;  2) ma’ruza; 3) fan to‘garaklari; 4) seminar; 5) amaliy; 6) olimpiada
-*1,2,4,5
-1,2,4,6
-1,2,4, 5, 6
-2,3,4,5,6
+15.  Turli nerv hujayralarining to’plashgan joyi bu……
+* Sinaps 
+Neyron 
+Dendrite 
+Akson
 
-16.O‘qitishning individual tizimiga O‘rta Osiyolik qaysi mutafakkir qarshi chiqqan
-* Abu Ali ibn Sino
-Abu Rayxon Beruniy
-Al Xorazmiy
-Abu Nasr Forobiy
+16.  ………… tirik organizmlarning biologik ahamiyatga ega bo’lgan ta'sirlarga javob    qaytarish qobiliyatidir.
+* Temperament
+Sezuvchanlik
+Tropism
+Instinct
 
-17.Qaysi qatorda rag‘batlantirish va motivatsiyalash metodlari to‘g‘ri berilgan
-* Mukofotlash, tanbeh, musobaqa
-Mashq, musobaqa, nasihat
-Hikoya , tushuntirish, tanbeh
-Namuna, o‘rgatish, ma’ruza
+17.  Hayvonlarning o’z ehtiyojlarini qondirish uchun qiladigan tug’ma murakkab harakatlari ………… deb ataladi?
+* Instinkt 
+Seskanuvchanlik
+Perseptiv 
+Tropizm
 
-18. Qaysi javobda tarbiya jarayonining xususiyatlari to`g`ri ko`rsatilgan?
-*Aniq maqsadga yo`naltirilgan, ko`p qirrali, uzoq muddatli, yaxlit tizimli, ikki tomonlama aloqa, qaramaqarshiliklardan iborat jarayon
-Ma’lum maqsadga qaratilgan jarayon
-Ma’lum muddat davom etuvchi, o`quvchini bilim va malakalar bilan qurollantiruvchi jarayon
-Aniq maqsadga yo`naltirilgan, qisqa muddatli jarayon
+18.  Hayvonlarning individual hayoti davomida paydo bo’ladigan harakatlar bu…………..
+Ko’nikma 
+Instinkt 
+Shartsiz refleks
+Odat
 
-19.Qaysi asarda dehqonlarga nisbatan: “O‘zing bular bilan aralashgin, qo‘shilgin, tilda yaxshi so‘zla, yuzungni ochiq tut”deya ta’rif berilgan
-*Qutadg‘u bilig
-Hayrat ulabror
-Mahbub ulqulub
-Hibat ulhaqoyiq
+19.  Hayvon ko’nikmalarini nimalar asosida vujudga keladi?
+* Instinktlar 
+Ilgari hosil qilingan reflekslar 
+Shartsiz refleks 
+Malakalari
 
-20.Mehnat tarbiyasi mazmunida aks etuvchi xo‘jalikiqtisodiy omillarni aniqlang. 1)maktablarning imkoniyatlari; 2)o‘quvchilarning yosh xususiyatlari; 3)maktablarning moddiy bazasi; 4)o‘qituvchi kadrlar; 5)ishlab chiqarish sharoitlari; 6)maktablardagi an’analar
-*1,3,4,5,6
-1,2,4, 5, 6
-2,3,4,5,6
-3,4,5,6,
+20.  Bahor  kelishi bilan hashoratlarning jonlanib  harakatga kelishi qaysi tropizm turiga misol bo’la oladi?
+* Termotropizm
+Fototropizm 
+Xemotropizm 
+Geleotropizm
 
-21.Kadrlarga bo`lgan ehtiyojni, shuningdek, ularning tayyorgarlik sifati va saviyasiga nisbatan qo`yiladigan talablarni belgilash, kadrlar tayyorlash tizimini moliya va moddiy texnik jihatdan ta’minlash vazifasi kadrlar tayyorlash milliy modelining qaysa tarkibiy qismi tomonidan amalga oshiriladi?
-* Ishlab chiqarish
-Davlat va jamiyat
-Uzluksiz ta’lim
-Fan
+21.  ………bu tirik organizmning ma'lum fizikaviy ximiyaviy muhitni tanlab olishga bo’lgan moyilligidir
+* Xemotropizm 
+Termotropizm 
+Fototropizm 
+Xemotropizm
 
-22.Ta’limni tashkil etishning noan’anaviy shakillari qaysi javobda ko`rsatilgan?
-* Konferensiya, mushoira, munozara , debat,
-Seminar, ma’ruza, munozara
-Labaratoriya mashg`uloti, Seminar
-Seminar, ma’ruza, munozara, labaratoriya mashg`uloti
+22.  Freydizm yo’nalishiga kim asos solgan?
+* Z.Freyd
+K.N Kornilov
+E.Torndayk 
+Dj.Uotson
 
-23. Hamkorlikda o`qitish modeli, modellashtirish, o`rganishning tadqiqot modeli – bular nima deb ataladi?
-* O`qitishning noan’anaviy shakli
-O`qitishning ananaviy shakli
-Ta’lim metodlar
-Dars samaradorligini oshiruvchi vositalar
+23.  Uyushgan va uyushmagan ijtimoiy guruhlardagi shaxslararo o’zaro tasir jarayonida paydo bo’ladigan psixologik hodisalarni o’rganadigan psixologiya sohasi bu........
+* Ijtimoiy psixologiya 
+Din psixologiyasi
+Shaxs psixologiyasi
+Instinktiv psixologiyasi
 
-24.Mehnat tarbiyasini tashkil etish shakllarini aniqlang. 1)muammoli; 2)hasharlar uyushtirish; 3)izlanuvchantadqiqotli; 4)mehnat bayrami; 5)konstruktorlash;  6)ko‘kalamzorlashtirish; 7)maktab binosoni ta’mirlash
-*2,4,6,7
-1,2,4,5,7
-1,2,4,6
-1,3,5,6,7
+24.  Tabiiy tajriba metodini fanga kiritgan olim qaysi qatorda to’g’ri ko’rsatilgan?
+* A.f.lazurskiy 
+Dj.moreno 
+I.m.sechenov 
+D.b.elkonin
 
-25.Qaysi mehnat turi o‘quvchilarning moddiy boyliklar yaratishdagi ishtiroki, bu jarayonda ularning ishlab chiqarish munosabatlariga kirishishlarini ko‘zda tutadi
-* Ishlab chiqarish
-O‘quv
-Ijtimoiy foydali
-O‘zo‘ziga xizmat
+25.  O’quvchilarning aqliy qobiliyatlarni aniqlovchi test birinchi bo’lib kimlar tomonidan yaratilgan?
+* A.Bine va G.Simonlar 
+V.Shtern va D.Veksler 
+G.Marrey va G.Ayzenk
+K.M.Gurevich va V.Shtern
 
-26. …o‘quvchiga u yoki bu kasbning ijtimoiyiqtisodiy, psixofiziologik o‘ziga xosliklari haqida aniqlangan  bilimlarni berish maqsadida amalga oshiriladi.
-* Kasbiy bilim
-Kasbiy diagnostika
-Kasbiy konsultatsiya
-Kasb tanlash
+26.  Shaxsning xususiyatlari, layoqat va qobiliyatlarining rivojlanishi o’sishi bilimlarni o’zlashtirganlik darajasini aniqlashda qanday psixologik metoddan foydalanish maqsadga muvofiqdir?
+* Test 
+Anketa
+Kuzatish
+Eksperement
 
-27.Quyidagilarning qaysi biri mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga kirmaydi?
-* Mehnat faoliyatining majburiy emasligi
-Mehnat faoliyatining hammabopligi va qo‘ldan kela olishi
-Bolalar mehnatining o‘quvtarbiyaviy vazifalar bilan bog‘lig‘ligi
-Ijtimoiy ahamiyatli mehnatni o‘quvchilarning qiziqishlari bilan birga qo‘shib olib borilishi
+27.  Psixologiyada shaxsning «Men emas» tushunchasi nimani anglatadi?
+* Shaxsning jamiyat normalariga to’g’ri kelmaydigan, noma’qul sifatlarini anglamasligi yoki «yashirish»  
+Shaxsning ijtimoiy normalardan qochishini
+Shaxsni o’rab turgan, ta’sir etib turgan obyektlarni
+Shaxsning o’z o’ziga bahoning pastligini
 
-28.Darsga qo`yilgan talablar qaysilar?
-* Tarbiyaviy, didaktik, tashkiliy
-Bilim berish, nazorat qilish, amaliyot
-Tashkil etish, maqsad, yakunlash
-O`qitish, yozdirish, bajarish
+28.  …  shaxsga nisbatan shunday tushunchaki, uning konkret hayotiy vaziyatlardagi xuquq va burchlaridan iborat xarakatlari majmuini bildiradi. Nuqtalar o’rniga mosini toping.
+* Rollar
+Ijtimoiy norma
+Ijtimoiy sanksiya
+Adekvatlik
 
-29.Mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga quyidagilardan qaysi biri kiradi
-* Ijtimoiy ahamiyatli mehnatning o‘quvchilarning qiziqishlari bilan birga qo‘shib olib borilishi
-Tumanlardagi ishlab chiqarish sharoitari
-Ta’lim muasasasidagi an’analar
-Ta’lim muasasasining moddiy bazasi
+29.  Mnemotexnika usuli bu..
+* Xotirani rivojlantirish va mustahkamlash usuli 
+Diqqat hajmini o’lchash
+Aqliy tafakkurni aniqlash
+Idrok fenomenlaridan biri
 
-30.O‘zida uyda va maktabda o‘zo‘ziga xizmat, maktab kanikuli vaqtida daladagi yozgi  ishlar, maktab qurilishi jamoasidagi  ishlar qaysi mehnat  turiga taalluqli?
-* Ijtimoiy foydali
-O‘quv
-Ishlab chiqarish
-Kundalik
+30.  Ongsizlik nazariyasi asoschisi..
+* Z.Freyd
+E.Torndayk
+D.Uotson
+G.Leybnis
 
-31.Quyidagilardan qaysilari jazolash metodlariga kiradi
-* Tanbeh berish, uyaltirish, ogohlantirish
-O‘zo‘zini baholash, uyaltirish, musobaqa
-Mashq , pedagogik talab, xayfsan berish
-Ma’ruza, o‘git, etik suhbat
+31.  Proprioreseptiv sezgilar qaysi organlarda joylashgan?
+* Terining yuza qismida
+O’pka, jigan, yurak, qizilo’ngach
+Mushaklar va paylarda
+Ko’rish organida
 
-32.Kerakli so’zni topib qo‘ying. ... bu aniq xattiharakat bilan u yoki bu kishilarning ongi va his tuyg‘usiga ta’sir ko‘rsatish
-* O‘rgatish
-Mashq
-Namuna
-Topshiriq
+32.  Psixogerontologiya nimani o’rganadi?
+* Keksalik davrining psixologik xususiyatlarini
+O’smirlik yosh davrining psixologik xususiyatlarini
+Yoshlik davrining psixologik xususiyatlarini
+Yetuklik davrining psixologik xususiyatlarini
 
-33.Texnik vositalardan foydalanib kinofilm, diofilmlarni namoyish qilish qaysi ko`rgazmalilikka kiradi?
-* demonstratsiya
-Illustratsiya
-Amaliy
-Mustaqil ish
+33.  Sosiometriya metodi nima?
+* Sosiometriya guruhda shaxslarning statusini, guruh liderini aniqlash va guruh ichidagi o’zaro munosabatlarni psixologik tekshirish va tahlil qilish usuli
+Sosiometriya   sezgirlikni quyi va yuqori chegarasini aniqlashga qaratilgan metod
+Sosiometriya   aqliy tafakkurni o’rganish metodi
+Sosiometriya   diqqat xususiyatlarini o’rganish metodi
 
-34. Tizimlilik didaktik kategiriya sifatida kim tomonidan asoslab berilgan?
-*Komenskiy
-Platon
-Makarenko
-Beruniy
+34.  Temperament ta’rifi qaysi qatorda to’g’ri ko’rsatilgan?
+* Psixikaning individual jihatdan o’ziga xos, tabiiy jihatdan shartlashgan dinamik ko’rinishlari majmui
+Individga xos dinamik fazilatlar
+Har qanday teng sharoitlarda individning umumiy faolligi, harakatchanligi, emosionalligi
+Asab tizimi bilan bog’liq individual sifatlar
 
-35.Tarbiya vositalari – bu tarbiya usullari…
-*Yig‘indisi
-Yo‘li
-Maqsadi
-Mazmuni
+35.  Xarakaterning ta’rifi qaysi qatorda ko’rsatilgan?
+* Shaxsning narsa va hodisalarga nisbatan munosabatlaridan orttiradigan sifatlari
+Shaxsning faoliyat va muomalada tarkib topadigan va namoyon bo’ladigan barqaror individual xususiyatlari
+Shaxsning individual psixologik xususiyati
+Kishining jamiatda yashab egallaydigan alohida belgilari
 
-36.Faoliyatni tashkil etish va xulqatvorni shakllantirish metodlarini toping
-* O‘rgatish, pedagogik talab, tarbiyalovchi vaziyat
-O‘rgatish, pedagogik talab, tarbiyalovchi vaziyat
-Hikoya, tushuntirish, ma’ruza
-Ogohlantirish, etik suhbat, hikoya
+36.  Shaxsning u yoki bu unumli faoliyatni muvaffaqiyatli amalga oshirish sharti hisoblangan va buning uchun zarur bilim, ko’nikma va malakalarini egallay olishni ta’minlaydigan individual psixologik xususiyati bu... Bu ta’rif shaxsning qaysi individual xususiyatiga tegishli?
+* Qobiliyatlar
+Temperament
+Xarakter
+Aqliy salohiyat
 
-37.Aniqlash va o‘lchash nima deb ataladi?
-* Tekshirish
-Baholash
-Hisobga olish
-Nazorat
+37.  Eksperiment metodi turlari..
+* Tabiiy, laboratoriya
+Tashqi, ichki, laboratoriya
+Tabiiy, laboratoriya, standartlashtirilgan
+Sosiometrik, proyektiv test, texnik, og’zaki
 
-38.O‘qitishning muayyan bir davrda o‘quvchilar va o‘qituvchi faoliyatini umumlashtirib xulosalash nima deb ataladi?
-* Hisobga olish
-Nazorat qilish
-Tekshirish
-Baholash
+38.  Eksteriorizasiya bu..
+* Aqlda shakllangan g’oyalarni bevosita tashqi harakatlarga yoki tashqi faoliyatga ko’chirilishi
+Narsa va hodisalarning mohiyati va mazmuniga aloqador materialning eslab qolinishi
+Ijodiy jarayonlarda xayol va fantaziya vositasida bevosita ongda berilmagan narsalarning xususiyatlarini anglash
+Ilinayotgan har bir harakat predmetga qaratilgani uchun faoliyat predmetli harakatlar majmui sifatida tasavvur qilinadi
 
-39.Aniq jarayonlarni raqamlar tizimi yordamida modellashtirish nima deb ataladi?
-* Shkalalash
+39.  Shaxsning guruxlarda ijtimoiy o’rnini aniqlashda qaysi metoddan foydalanish maqsadga muvofiq.
+* Sosiometriya
+Eksperiment
+Suhbat
 Test
-Reyting
-Baholash
-
-40.Dogmatik ta’lim o‘rniga qanday ta’lim turi qo‘llanila boshlandi?
-* Tushuntiruvchinamoyishli ta’lim
-Muammoli ta’lim
-Dasturlashgan ta’lim
-Masofaviy o‘qitish
-
-41.Ta’lim metodlarining asosiy funktsiyalarini ko‘rsating
-* Motivatsiyali, rivojlantiruvchi, ta’limiy, tashkiliy
-Rivojlantiruvchi, axboriy, kommunikativ
-Bashorat qilish, rivojlantiruvchi, ta’limiy, tashkiliy
-Tarbiyaviy, rivojlantiruvchi, kommunikativ, tashkiliy
-
-42.Kimlar ahamiyati bo‘yicha ta’lim metodlarini klassifikatsiya qilgan
-* M.A.Danilov, B.P.Esipov
-I.YA.Lerner, M.N.Skatkin
-E.YA.Golant, N.M.Verzilin
-M.A.Danilov, M.N.Skatkin
-
-43. Malaka nima?
-*Malaka bilan bir xil ongli xattixarakatlarning ko’p marta takrorlanishi asosida hosil bo’ladigan avtomatik jarayondir
-Malaka bu to’plangan tajribadir
-Malaka bilan bir xil xattiharakatlarning ko’p marta takrorlanishi asosida
-Malaka butajribadir
-
-44. Ta’lim jarayonida bilish faoliyatining bosqichlarini ko‘rsating
-* Idrok qilish, fahmlab(anglab olish), mustahkamlash, ko‘nikma ,malakalarni hosil bo‘lishi, ularni amaliyotda qo‘llash
-Maqsad, vazifa, mazmun, metod, shakl, natija
-O‘qitish, o‘qish, yangi bilim , ko‘nikma , malakalarni egallsh, amaliyotda qo‘llash, tekshirish, nazorat qilish
-Idrok qilish, o‘qish, amaliyotda qo‘llash, tekshirish
-
-45.O‘quv ishini tashkil etishning shakllaridan hozirgi maktablar tajribasida qo‘llanilayotganlari qaysi guruhda berilgan
-* Dars, praktikumlar, seminarlar, laborotoriya mashg‘ulotlari, konsultatsiyalar, uy vazifalari, fakultativ mashg‘ulotlar
-Laboratoriya, brigada, repititorlik, belllankaster usuli, hikoya, tushuntirish
-Dars, tushuntirish, mashg‘ulotlari, konsultatsiyalar, uy vazifalari, fakultativ mashg‘ulotlar
-Amaliy mashg‘ulot, seminar, laborotoriya, ma’ruza, muammoli, dasturlashgan, kompyuterlashgan ta’lim
-
-46. O‘qitish jarayoni nima?
-*Bu ikki yoqlama boshqariladigan maqsadga muvofiq amalga oshiriladigan pedagogik jarayon
-Bu – bilim,ko‘nikma, malaka hosil qilish jarayoni
-O‘quvchilarning mustaqil ishlarini boshqarishda o‘qituvchilarning rahbarligi
-O‘qituvchining tartiblangan faoliyati
-
-47. Qaysi so‘z metod tushunchasining mohiyatini ochib beradi
-* Maqsadga erishish usuli
-Uslubiylik
-Tadqiq etish
-Birgalikdagi faoliyat
-
-48.Darslik nima?
-* Darslik muayyan o’quv predmeti mazmunini o’quv dasturida ko’rsatilgan hajmda, didaktik talablarga muvofiq ravishda batafsil bayon qilib beradigan o’quv kitobi sanaladi
-O’quv predmetidir
-O’quv qo’llanmasi
-Dars jarayoning asosiy o’quv quroli
-
-49.Ta’limning ilmiy bo`lishi, ta’limdagi onglilik va faol harakatda bo`lish, ta’lim jarayononing ko`rsatmali bo`lishi – bular nima deb ataladi?
-* Ta’lim prinsplari
-Ta’lim metodlari
-Ta’lim vositalari
-Ta’limni tashkil etish shakllari
-
-50.Inson ongini aks ettiruvchi barcha ijobiy, ruhiy, intellectual fazilatlar majmuasi bu …
-* Ma’naviyat
-Madaniyat
-Ma’rifat
-Adolat
-
-51.Reja tuzish, ularni bayon etish...  Bu erda gap metod haqida borayaptimi yoki usul haqidami
-* Usul
-Shakl
-Metod
-Metod va usul
-
-52. Amaliy metod qanday bosqichlardan iborat bo‘ladi?
-* O‘qituvchining tushuntirishi, ko‘rsatish, proba,bajariladigan ishlar, nazorat
-Tushuntirish, suhbat ko‘rsatib berish
-O‘qituvchining tushuntirishi, takrorlash, bajariladigan ishlar, nazorat
-Harakatlarni bajarish, muvaffaqqqiyat natijalarini hisobga olish, takrorlash
-
-53.Ta’limning amaliy metodlarini ko‘rsating
-* Mashq, laboratoriya, amaliy, didaktik o‘yinlar
-Ma’ruza, laboratoriya, munozara, tushuntirish
-Demonstratsiya, illyustratsiya, kitob bilan ishlash
-Hikoya,   tushuntirish, mashq, amaliy
-
-54.Illyustrativ metoddan foydalanishning tarbiyaviy ahamiyati nimadan iborat?
-*Ko‘rish va eshitish madaniyatini shakllantirish
-O‘rganilayotgan materialni dastlabki idrok etish
-Analizatorlar faoliyatini faollashtirish
-Estetik didni shakllantirish
-
-55.Sinf deb nimaga aytiladi?
-*Yoshi va bilimi jihatidan bir xil bo’lgan muayyan o’quvchilar guruhiga aytiladi
-Bir guruh o’quvchilar yig’indisiga aytiladi
-Bir sinf o’quvchilar jamoasiga aytiladi
-O’quvchi boshchiligidagi jamoaga aytiladi
-
-56.Quyidagi metodlardan qaysi biri bilimlarni berish, nazorat qilish, mustahkamlash, umumlashtirish, tizimlashtirishga xizmat qiladi
-*Videometod
-Demonstratsiya
-Illyustratsiya
-Mashqlar
-
-57.Pedagogikaning ilmiytadqiqot metodlarini tanlang.
-*Suhbat, test, eksperiment, kuzatish
-Mashq, lobarotoriya, suhbat, sotsiologik metod
-Ma’ruza, tushuntirish, kuzatish,  illyustratsiya
-Hikoya, maktab hujjatlarini o‘rganish, anketa, test
-
-58.Pedagogikaning qaysi sohasi shaxsi va faoliyatida nuqsoni bor bolalarni o‘qitish va tarbiyalash bilan shug‘ullanadi?
-*Korrektsion pedagogika
-Maktab pedagogikasi
-Xalq pedagogikasi
-Kasbiy pedagogika
-
-59.…  bu ta’limtarbiya natijasida olingan va tizimlashtirilgan bilim, hosil qilingan ko‘nikma va malakalar hamda shakllangan dunyoqarashlar majmuidir
-*Ma’lumot
-O‘qish
-Rivojlanish
-Tarbiya
-
-60.Ilmiy pedagogika nechanchi asrda paydo bo‘ldi?
-*XVII asrda
-XVI asrda
-XVIII asrda
-XIX asrda
-
-61.Pedagogikaning obekti – bu...
-*Bola, inson
-Tarbiya jarayoni
-Pedagogik faoliyat
-Pedagogik aksiologiya
-
-62.Dars deb nimaga aytiladi?
-*Dars o’quv ishlarining asosiy tashkiliy shakli hisoblanadi
-O’quvchilar bilan olib boriladigan mashg’ulot
-Ta’limtarbiya bilan shug’ullanish ishlariga aytiladi
-Ta’limtarbiya bilan shug’ullanish ishlariga aytiladi
-
-63.… – yuqori malakali mutaxassislar tayyorlovchi va ulardan foydalanuvchi, ilg‘or pedagigik va axborot texnologiyalarini ishlab chiquvchi
-*Fan
-Ishlab chiqarish
-Uzluksiz ta’lim
-Davlat va jamiyat
-
-64.…– malakali raqobatbardosh kadrlar tayyorlashning asosi bo‘lib, ta’limning barcha turlarini, davlat ta’lim standartlarini, kadrlar tayyorlash tuzilmasi va uning faoliyat ko‘rsatish mohiyatini o‘z ichiga oladi
-*Uzluksiz ta’lim
-Fan
-Davlat va jamiyat
-Ishlab chiqarish
-
-65.Zamonaviy o’qituvchi qiyofasidagi fazilatlar soni darslikda nechta etib ko’rsatilgan?
-*10 ta
-5 ta
-8 ta
-7 ta
-
-66.Didaktik jarayon kechadigan barcha sharoitlarni oydinlashtirish, uning natijalarini belgilash deganda nima tushuniladi?
-*Tashxis
-Nazorat qilish
-Baholash
-Tekshirish
-
-67.Ta’lim oluvchining bilim ko‘nikma va malakalari darajasini aniqlash, o‘lchash va baholash deganda nima tushuniladi?
-*Nazorat
-Tekshirish
-Hisobga olish
-Baholash
-
-68.Pedagogika va ta’lim tarixida ta’limni tashkil etishning nechta asosiy tizimi o‘rin olgan?
-*Uchta
-To‘rtta
-Beshta
-Ikkita
-
-69.Qaysi ta’lim tizimi yaratilgandan buyon amaliy o‘zgarishga uchramagan?
-*Ma’ruzaseminar
-Yakka
-Sinfdars
-Individual guruhli
-
-70.“Osondan qiyinga qarab borish”, “Ma’lumdan noma’lumga qarab borish”, “Soddadan murakkabga qarab borish” kabi tushunchalar qaysi ta’lim tamoyillariga tegishli?
-*O‘quvchilarga mos bo‘lish
-Ko‘rgazmalilik
-Tushunarlilik
-Ilmiylik
-
-71.Qaysi ta’lim tamoyilini Ya.A.Komenskiy didaktikaning oltin qoidasi deb atagan
-*Ko‘rsatmalilik
-Tabiat bilan uyg‘unligi
-Ilmiylik
-Tushunarlilik
-
-72.Ta’limning ko‘rgazmali metodlarini ko‘rsating?
-*Demonstratsiya, illyustartsiya
-Ma’ruza, hikoya, suhbat
-Lobarotoriya, mashq, tushuntirish
-Mashqlar, amaliy ishlar, didaktik o‘yinlar
-
-73.Bilish faoliyati bo‘yicha tasnif qilinuvchi ta’lim metodlaridan qaysi biri kam vaqt sarflab, katta hajmdagi bilimni berishni ta’minlay oladi?
-*Reproduktiv
-Qisman izlanish
-Tadqiqot
-Muammoli
-
-74.O‘qituvchining darsga tayyorlanishida qanday bosqichlar ko‘zga tashlanadi?
-*Tashxislash, bashoratlash, loyihalashtirish
-Tashxislash,loyihalash, tizimlashtirish
-Tashxislash, mustahkamlash, tushunish
-Loyihalash, tushunish, bashoratlash
-
-75.Ta’lim mazmunini belgilovchi me’yoriy hujjatlarni belgilang
-*DTS, o‘quv rejasi, o‘quv dasturi
-DTS, o‘quv dasturi,  sinf jurnali
-O‘quv rejasi, dars jadvali, DTS
-Darslik, o‘quv qo‘llanma, metodik qo‘llanma
-
-76.Avtomatlashgan, o‘rganib qolingan, muayyan usul bilan bexato bajariladigan harakat nima deb ataladi?
-*Malaka
-Ko‘nikma
-Qobiliyat
-Bilim
-
-77.Qaysi olim tabiatda hayot bahordan boshlangani kabi ta’lim olish jarayoni uchun eng qulay davr bolalik ekanligini ta’kidlagan?
-*Ya.A.Komenskiy
-Abdulla Avloniy
-Disterverg
-Gerbart
-
-78.Qaysi ta’lim tizimi garchi 350 yil avval asoslangan bo‘lsada, bugungi kunda ham keng ko‘lamda qo‘llanilmoqda
-*Sinfdars
-Ma’ruzaseminar
-Individual
-Jamoaviy
-
-79.Kerakli so‘zni topib qo‘ying. Tarbiya metodlari – bu tarbiya …amalga oshirish. Nuqtalar o’rnini to’ldiring.
-*Maqsadi, yo‘li
-Yig‘indisi, usuli
-Aniq, qism,
-Usuli, qismi
-
-80.Quyidagi metodlardan qaysilari ongni shakllantirish metodlariga kiradi: 1)hikoya;   2)pedagoigk talab;   3)etik suhbat;  4)mashq; 5)tushuntirish
-*1,3,5
-1,3,4
-1,2,5
-1,2,4
-
-81.Mashq, o‘rgatish, tarbiyaviy vaziyat tarbiyaning qaysi metodlariga kiradi?
-*Faoliyatni tashkil etish
-Ongni shakllantirish
-Rag‘batlantirish
-Nazorat
-
-82.Quyidagilardanqaysi biri yuqori darajada uyushgan jamoa hisoblanadi?
-*O‘quvchilar jamoasi
-Ishlab chiqarish jamoasi
-Zavod jamoasi
-O‘qituvchilar jamoasi
-
-83.Bolalar jamoasi shakllanishining qaysi bosqichida jamoa faoli butun jamoafa nisbatan talab qo‘yadi
-*II bosqichda
-I bosqichda
-IV bosqichda
-III bosqich
-
-84.Vatanparvarlik tarbiyasida… o‘rganish bo‘yicha ishlarni tashkil etish muhim rol o‘ynaydi?
-*Davlat ramzlarini
-Davlat hujjatlarini
-Badiiy adabiyotlarni
-Qonun va qarorlarni
-
-85.Tarbiyachi o‘zi xohlagan sifatlarni tarbiyalanuvchilar ongiga singdirish uchun ularning ruhiyatiga ma’lum maqsadga ko‘ra tizimli ta’sir ko‘rsatishiga nima deb aytiladi?
-*Tarbiya
-
-Ta’lim
-Rivojlanish
-Ma’lumot
-
-86. Estetika so‘zining ma’nosi nima?
-*Go‘zallikni his qilaman
-Xulqatvor
-Donolikni sevaman
-O‘qitaman
-
-87.Estetik tarbiyaning asosiy vositalarini aniqlang?
-*Tabiat, mehnat, badiiy adabiyot
-Konkurslar, viktorinalar, seminarlar
-To‘garaklar, ijodiy birlashmalar, maktab bayramlari
-Kitob, rasm, maket
-
-88.Shaxsning tabiat, jamiyat va sana’tdagi maqsad tarzida idrok etadigan, takomillashgan go‘zallik borasidagi bahosining aks etishi nima deb ataladi?
-*Estetik ideal
-Estetik qiziqish
-Estetik baho
-Estetik mulohaza
-
-89.Quyidagilardan qaysi biri estetik tarbiyaning vazifasi bo‘la olmaydi?
-*Chiroyli so‘z, modaga ishqibozlikni shakllantirish
-Estetik didni, go‘zallikni baholash qobiliyatini tarbiyalash
-San’atdagi, atrofimizdagi go‘zallikni his qila olish
-O‘quvchilarda estetik ongni tarkib toptirish
-
-90.Estetikaning asosiy tushunchalarini aniqlang. 1)estetik histuyg‘u; 2)estetik tamoyil; 3)estetik did;  4)estetik norma; 5)estetik mulohaza; 6)estetik ideal
-*1,3,5,6
-1,2,5,6
-1,2,3,4
-1,4,5,6
-
-91.Estetika tushunchasini fanga kim kiritgan?
-*Baumgarten
-K.D.Ushinskiy
-V. Suxomlinskiy
-Forobiy
-
-92.Shaxsning aniq bir estetik hodisaga munosabatini bildiruvchi aqliy harakati nima deb ataladi?
-*Estetik mulohaza
-Estetik ehtiyoj
-Estetik ong
-Estetik did
-
-93.Qachondan boshlab estetika bilimlar sohasiga aylangan?
-*XVIII asrdan
-XII asrdan
-XIV asrdan
-XIII asrdan
-
-94.Estetik axborotlar oqimi, estetik  va axloqiy normalar yig‘indisi orqali shakllanadigan va shxsning buyum , hodisalarga estetik baho berishida yaqqol namoyon bo‘ladigan hodisa nima deb ataladi?
-*Estetik did
-Estetik ehtiyoj
-Estetik ideal
-Estetik mulohaza
-
-95.Shaxsning voqelikni estetik jihatdan bilib olishga undovchi subektiv omillar nima deb ataladi?
-*Estetik ehtiyoj
-Estetik ong
-Estetik mulohaza
-Estetik did
-
-96.“Estetika ” deb atalgan birinchi asar muallifi kim?
-*Baumgarten
-Aristotel
-Navoiy
-Desterverg
-
-97.Quyidagilar orasidan estetik tarbiyaning vazifasiga kiradiganini aniqlang?
-*Insonni voqelikka estetik munosabatini shakllantirish
-Axloqiy sifatlarni shakllantirish
-Modaga ishqibozlikni shakllantirish
-Tejamkor fuqaroni shkllantirish
-
-98.Ijtimoiy voqelik, tabiat, san’at bilan bevosita muloqot jarayonida – nazariyalar, qarashlar, badiiy ta’ilm va tarbiya natijasida shakllanadigan xususiyat nima deb ataladi?
-*Estetik ong
-Estetik mulohaza
-Estetik did
-Estetik ideal
-
-99.Shaxsning estetik faoliyatiga, voqelik va san’at asarlarini estetik jihatdan o‘zlashtirishga kirishishi nima deb ataladi?
-*Estetik qiziqish
-Estetik did
-Estetik ong
-Estetik baho
-
-100.O‘quvchilarning jismoniy madaniyatini tarbiyalashning asosiy vositalariga nimalar kiradi?
-*Jismoniy mashqlar, tabiiy va gigienik omillar
-Jismoniy jazo, jismoniy ta’sir, tabiiy va sun’iy omillar
-Gimnastika, o‘yin, turizm, sport
-Quyosh, suv, havo, uyqu
-
-108.Bo‘sh vaqtni foydali va maroqli mashg‘ulotlar bilan to‘ldirish jismoniy tarbiyaning qaysi vazifasiga kiradi
-*Umummadaniy
-Rivojlantiruvchi
-Sog‘lomlashtiruvchi
-Tarbiyaviy
-
-109.Jismoniy tarbiyaning ta’limiy vazifasiga nimalar kiradi
-*Odamlarni jismoniy tarbiyaning nazariyasi va tarixi bilan tanishtirish
-Insoniy axloqiy sifatlarni shakllantirish
-Odamlarning sog‘lig‘ini mustahkamlash, organizmning shakl va funktsiyalarini uyg‘un rivojlantirish
-Insonlarni jismoniy mashqlarga qiziqishini oshirish
-
-110.Quyidagi jismoniy tarbiyaning vositalaridan qaysi biri bolaning jismoniy quvvatini, baquvvat tana, qo‘llarni, ishonchliko‘zlarni, zehnlilikni, topqirlikni , tashabbuskorlikni rivojlantiradi
-*O‘yin
-Turizm
-Gimnastika
-Sayohat
-
-111.Jismoniy mashqlarga nimalar kiradi
-*Gimnastika, o‘yin, turizm, sport
-Uyqu, dam olish, ovqatlanish
-Quyosh, havo, suv
-Yugurish, sakrash, suzish, konkida uchish
-
-112.Kichik maktab yoshidagi o‘quvchilarda qanday o‘yin turlari asosiy hisoblanadi
-*Ochiq havodagi
-Sport
-Milliy
-Tabiiy
-
-113.Jismoniy tarbiyaning pedagogik shartsharoitlariga nimalar kiradi: 1)sinf tayyorgarlik darajasi; 2)ta’lim muassasasining o‘ziga xosligi; 3)tabiiy(iqlimiy) sharoitlar;  4)tizimli tashkil etish
-*2,3,4
-1,2,4
-1,2,3,4
-1,2,3
-
-114.Jismoniy tarbiya sohasiga taalluqli hodisalarni ta’riflashda foydalaniladigan asosiy tushunchalarni aniqlang. 1)jismoniy ta’sir;   2)jismoniy tamoyil;  3)jismoniy mehnat;   4)jismoniy kamolot;  5)jismoniy ideal;   6)jismoniy madaniyat
-*1,3,4,6
-1,2,4,6
-2,3,4,5
-1,2,5,6
-
-115.B.T.Lixachev jismoniy madaniyatning vazifalarini qay tariqa tasnif etadi
-*Rivojlantiruvchi, tarbiyaviy, ta’limiy, sog‘lomlashtiruvchi, umummadaniy
-Motivatsiyali, rivojlantiruvchi, tibbiy, tizimli
-Tashkiliy, nazorat, tarbiyaviy, sog‘lomlashtiruvchi, ta’limiy
-Ta’limiy, tarbiyaviy, bashorat qilish, sog‘lomlashtiruvchi
-
-116.“Badanning salomat va quvvatli bo‘lmog‘i insonga eng kerakli narsadir. Chunki o‘qimoq, o‘qitmoq, o‘rganmoq va o‘rgatmoq uchun insonga kuchlik, kasalsiz vujud kerakdir…………”  Ushbu
-*Abdulla Avloniyga
-Alisher Navoiyga
-Alpomishga
-Sh.A.Amonashviliga
-
-117.Quyidagi qaysi tushuncha jismoniy tarbiya samaradorliga ko‘rsatkichi bo‘la oladi
-*Jismoniy kamolot
-Jismoniy madaniyat
-Jismoniy ta’sir
-Jismoniy jazo
-
-118.Kim axloqiy va estetik sifatlarni shakllantirishni ham jismoniy tarbiyaning vazifalariga kiritadi?
-*I.P.Podlasiy
-B.T.Lixachev
-A.Q.Munavvarov
-V.A.Slastyonin
-
-119.Jismoniy tarbiya vazifalari va qonuniyatlariga bog‘liq holda maxsus tashkil etilgan va ongli
-*Jismoniy mashqlar
-Jismoniy vositalar
-Tabiiy omillar
-Gigiyenik omillar
-
-120.Gimnastikaning qanday turlari mavjud
-*Gigienik, badiiy, ishlab chiqarish, tibbiy
-Asosiy, sportga oid, o‘yin, axloqiy , badiiy
-Ko‘ngilochar, tibbiy, ishlab chiqarish, turizm
-Oddiy, murakkab, ko‘p bosqichli
-
-121.Quyidagi qaysi so‘z “axloq” so‘zi bilan sinonim bo‘la oladi
-*Etika
-Odat
-Estetika
-E’tiqod
-
-122.Turkiy guliston yoxud axloq”  asarining muallifi kim
-*A.Avloniy
-Fitrat
-Hamza
-Forobiy
-
-123.Axloq tushunchalari umumiy xarakterga ega, ular alohida munosabatlarni emas, hamma sohasidagi munosabatlarni qamrab oladi. Bunday tushunchalar nima deb ataladi
-*Axloqiy kategoriya
-Axloqiy normalar
-Axloqiy tamoyillar
-Axloqiy ideal
-
-124.Axloqiy tarbiya jarayonini mazmunining  o‘ziga xosligi nimadan iborat
-*Odamlarning ijtimoiy hayotlarining hamma tomonlarini qamrab olishida
-Jismoniy kuchni talab qilishida
-Ijtimoiy ahamiyatli faoliyat ekanligida
-O‘zo‘ziga ishonchni tarkib toptirishda
-
-125.Axloqiy mezonga muvofiq, maktabgacha yoshdagi bolaning nimani bilishi talab etiladi
-*Ular O‘zbekistonda yashayotganligini bilishi
-Vatanni ulug‘lovchi madhiyani bilishi
-Rasm chiza olishi, she’rlar, qo‘shiqlar yozishi
-O‘z Vatanining fuqarosi ekanligini bilishi
-
-126.Ezgulik, tartiblilik, haqqoniylik, rostgo‘ylik, adolatlilik, mehnatsevarlik, jamoaviylik kabi sifat va xususiyatlarni o‘zida birlashtirgan shaxs tavsifi nima deb ataladi
-*Axloqiy tamoyillar
-Axloq
-Axloqiylik
-Axloqiy norma
-
-127.Hayotda qoida sifatida qabul qilingan talablardan kishilar o‘zlariga odamlar orasidan namuna tanlaydi. Bu qanday tushuncha bilan ataladi
-*Axloqiy ideal
-Axloqiy norma
-Axloqiylik
-Axloq kategoriyalar
-
-128.Pedagogikaning asosiy tushunchalari (kategoriyalari) qaysi javobda to’g’ri ko’rsatilgan?
-*Tarbiya,  ta’lim, ma’lumot
-rsiyat, muhit, tarbiya
-Bilim, ko’nikma, malaka
-O’qitish, o’qish, o’rganish
-
-129.O’zbekiston Respublikasining “Ta’lim to’g’risidagi” Qonunida tarbiyaning maqsadi qanday ifodalangan?
-*Har tomonlama yetuk mustaqil fikrlovchi shaxsni shakllantirish
-Ishbilarmon kishini tarbiyalash
-Savodga o’rgatish
-Hunarga o’rgatish
-
-130.O’quvchilarda bilim, ko’nikma va malakalarni shakllantirish jarayoni nima deb ataladi?
-*Ta’lim
-Tarbiya
-O’rgatish
-O’rganish
-
-131.Ta’limtarbiya natijasida egallangan bilim, ko’nikma va malakalar majmui – bu...
-*Ma’lumot
-Bilim
-Odat
-Qobiliyat
-
-132.Tarbiyalanuvchilar ongi, xulqatvori va histuyg’usiga maqsadga muvofiq ta’sir etish nima deb ataladi?
-*Tarbiya
-Qoida
-Tamoyil
-Qonuniyat
-
-133.Qaysi javobda kuzatish metodining turlari to’g’ri ko’rsatilgan?
-*Bevosita va bilvosita
-Asoslovchi va ta’kidlovchi
-Ochiq va yopiq
-Analiz va sintez
-
-134.Uzluksiz ta’lim jarayonining ob’ekti, sub’ekti, iste’molchisi va amalga oshiruvchisi – bu...
-*Shaxs
-Fan
-Davlat
-Jamiyat
-
-135.Aniq mutaxassislik bo’yicha bakalavriat negizida kamida ikki yil davom etadigan ta’lim turi qanday ataladi?
-*Magistratura
-Oliy ta’lim
-Akademik litsey
-Maktab
-
-136.Davlat ta’lim standartlarini bajarish O’zbekiston Respublikasining barcha ta’lim muassasalari uchun ...
-*Majburiy
-Ochiq
-Ixtiyoriy
-Erkin
-
-137.Qaysi ta’lim turi bola shaxsini sog’lom va yetuk, maktabda o’qishga tayyorlangan tarzda shakllantirish maqsadini ko’zlaydi?
-*Maktabgacha ta’lim
-Oliy ta’lim
-Akademik litsey
-Kollej
-
-138.Hayotiy faoliyat jarayoni va maxsus tarbiyaviy xattiharakatlar ta’sirida  inson rivojlanishini muhim shakli nima deb ataladi?
-*Shakllanish
-Tarbiya
-Ta’lim
-O’rganish
-
-139.Tarbiyalanuvchini psixikasi va jismoniy taraqqiyotida bosqichmabosqich vaqonuniy o’zgarishlarning sodir bo’lishi nima deb ataladi?
-*Rivojlanish
-Odat
-Bilim
-Ko’nikma
-
-140.Jamiyatda o’z o’rniga ega, ijtimoiy ahamiyatga ega maqsad yo’lida bir yoki bir nechta kishini o’z orqasidan ergashtira oladi – bu …
-*Shaxs
-Inson
-Yetakchi
-Arbob
-
-141.Barqaror, takrorlanuvchi, invariantli tavsifga ega narsahodisa va jarayonlarning ichki mavjud aloqalari nima deb ataladi?
-*Qonun
-Tamoyil
-Odob
-Axloq
-
-142.Ta’lim jarayonining tarkibiy qismlari orasidagi ob’ektiv, mavjud, barqaror, takrorlanuvchi aloqadorlik – bu ...
-*Qonuniyat
-Metod
-Shakl
-Vosita
-
-143.O’qitish maqsadini amalga oshirish bo’yicha pedagogning tartiblangan faoliyati nima deb ataladi?
-*O’rgatish
-O’rgatish
-O’qitish
-Ta’lim
-
-144.Anglash, mashq qilish, va egallangan tajribalar asosida xulqatvor va faoliyatning yangi shakllarini egallash jarayoni  ...
-*O’rganish
-Bilim
-Ko’nikma
-Malaka
-
-145.Qo’yilgan maqsadga erishishga yo’naltirilgan pedagog bilan talabalarning tartiblangan o’zaro harakati nima deb ataladi?
-*O’qitish
-Maqsad
-Natija
-Metod
-
-146.Ma’lum bir fanni nazariy o’zlashtirishni aks ettiradigan inson g’oyalari yig’indisi  ... bu
-*Bilim
-Odat
-Ko’nikma
-Malaka
-
-147.Egallangan bilimlarning aniq xattiharakatdagi ifodasi, o’zlashtirilgan bilimlarni amaliyotga qo’llash usullarini egallash jarayoni qanday ataladi?
-*Ko’nikma
-Bilim
-Malaka
-Axloq
-
-148.Avtomatlashgan, biror bir usul bilan bexato bajarish,  ko’nikmaning takomillashgan darajasi – bu …
-* Malaka
-Bilim
-Ko’nikma
-Ta’lim
-
-149.O’qitish jarayonida egallanishi lozim bo’lgan ilmiy bilim, amaliy ko’nikma va malakalar yig’indisi nima deb ataladi?
-*Ta’lim mazmuni
-Ta’lim metodi
-Didaktik vositalar
-Natija
-
-150.O’quv jarayonining tashqi ifodasi, uning ichki mohiyati, mantig’i, mazmuni uchun qobiq – bu …
-*Ta’limni tashkil etish shakli
-Usul
-Uslub
-Maqsad
+
+40.  Insonni xarakatga undovchi sabablar bu:
+* Motivlar
+Kayfiyat
+Imkoniyatlar
+Xarakatlar
+
+41.  Shaxsning aktivligining manbai nima?
+* Uning turli tuman extiyojlari 
+Shartli va shartsiz reflekslar
+Jinsiy mayl
+Tabiiy kuchlar, ya’ni kuyosh nuri,elektron magnit tulkinlar xar xil kimyoviy reaksiyalar
+
+42.  Psixologiyada ijtimoiy norma nimani anglatadi?
+* Jamiyatning o’z a’zolari xul atvoriga, ko’pchilik tomonidan e’tirof etilgan harakatlarga nisbatan talablardir 
+Shaxsning jamiyat tomonidan qo’yilgan talablarni bajarishi 
+Shaxsning jamiyatdagi biron bir vaziyatdagi bajarishi lozim bo’lgan xatti harakatlari
+Shaxsning ko’pchilikning fikriga qarshi borishi
+
+43.  Ijtimoiy sanksiya – bu …. i
+* Normalarning shaxs xulqida namoyon bo’lishini nazorat qiluvchi jazo va rag’batlantirish mexanizmlar
+Shaxsning ijtimoiy normalarni bajarishi
+Jamoat tomonidan shaxsga qo’yiladigan talablar 
+Shaxsning ijtimoiy muhit ta’sirida vujudga kelgan xatti harakatlari
+
+44.  Psixologiyada refleksiya deb nimaga aytiladi?
+* Aynan o’ziga o’xshash odamlar obrazi orqali o’zi to’g’risidagi obrazni shakllantirishdir  
+Shaxsning o’zini o’rab turgan kishilardan ta’sirlanishi  
+Shaxsning ma’lum bir vaqtda bajarishi lozim bo’lgan xatti harakatlari  
+Shaxsning ijtimoiy muhit ta’sirida vujudga kelgan xatti harakatlari
+
+45.  Psixodiagnostika nima?
+* Shaxsni psixologik xususiyatlarini uning psixik nuqsonlarini va bu nuqsonlarning sabablarini maxsus psixologik metodlar yordamida o’rganish, aniqlash;
+Shaxs kamoloti va intelektual taraqqiyoti jarayonida vujudga kelishi mumkin bo’lgan psixologik buzilish nuqsonlarni oldini olish;
+Shaxsning ma’naviy shakllanishini ta’minlovchi shart sharoitlar yaratish;
+Shaxs guruh bilan uning psixologik masalalar bo’yicha saviyasini oshirishga qaratilgan tadbirlar
+
+46.  Individuallik – bu?
+* Individning o’zgachaligi, o’ziga xosligi;     
+Shaxsning taraqqiy etishi;
+Individ va shaxs o’rtasidagi tafovut;
+Shaxsni hayvonlardan farqlovchi xususiyat
+
+47.  Tugma yo’l bilan, tayyor xolda beriladigan, tirik mavjudotlarning tashki olamga muvofiklashuvini ta’minlaydigan, kat’iy ketma ketlik asosida boglangan xarakatlar kanday xarakatlar deyiladi?
+* Instinktlar 
+Tropizmlar
+Intellektual (akliy) xarakatlar 
+Kunikmalar
+
+48.  «MEN» obraziga to’g’ri tarif berilgan qatorni toping
+* Shaxsning o’zi, o’z xulq atvori xususiyatlari, jamiyatdagi mavqyeini tasavvur qilishidan hosil bo’lgan obrazi
+Shaxsning o’zining barcha xususiyatlarini adekvat bilishi
+Shaxsning o’z ichki psixologik xususiyatlarini anglashi
+Har bir insonning o’z xulq atvorini jamiyat talablariga mosligini tan oldirishga doir harakatlari, o’z «men»ini ideallashtirishi
+
+49.  Shaxslarning o’z o’ziga bahosi necha xil ko’rinishda bo’ladi?
+* 3
+2
+4
+5
+
+50.  Test metodi fanga kim tomonidan kiritilgan?
+* 1905 yil psixolog A.Bine va G.Simonl ar 
+1920 yilda V.Shtern
+1937 yilda ingliz psixologi D.Veksler
+1943 yil Amerika psixologi G.Markey
+
+51.  Bosh miya necha qismdan iborat?
+* 4
+3
+2
+5
+
+52. …deb nomlanuvchi testlar ham borki, testning asl maqsadi tekshiriluvchiga sir bo’ladi. Nuqtalar o’rniga mosini toping.
+* Proyektiv test
+Test sinov
+Sosiometrik test
+Blis test
+
+
+53.  .”Agar pedagogika odamni har jihatdan tarbiyalamoqchi bo’lsa ,u oldin usha odamni ham har jihatdan bilib olishi kerak” ushbu fikr kimniki
+* Ushinskiy 
+Pifagor 
+Ploton
+Arastu 
+
+54.  Kalta o’simtalar sertarmoq bo’lib ular…………….deb ataladi?
+* Dendret 
+Akson    
+Neyrit
+Snaps
+
+55. ”O’z  o’zingni bil” qaysi buyuk allomaning fikri?
+* Suqrot  
+Pifagor
+Ploton
+Arastu
+
+56.  Shaxs komolatidagi barcha xususiyatlar tug’ma xarakterga ega deb etirof etuvchi yo’nalish
+* Nativizm 
+Emperizm
+Bixovarizm
+Fredizm
+
+57.  Psixologiya ta’limoti qachon va qayerda paydo bo’lgan?
+* Ikki yarim mig yil avval Gresiyada
+170 yil avval Amerikada
+XVI asrning oxirlarida Rossiyada paydo bo’lgan
+XVIII asrning oxiri va XX asrning boshlari Angliyada
+
+58.  Freyd ta’limotiga ko’ra Id (U) nimani anglatadi?
+* Psixik energiya ning o’ziga xos zahira joyi bo’lib, undagi jarayonlar inson tomonidan anglanmasada ongli hayotga ularning ta’siri katta
+Tashqi olam bilan bog’langan, uning ta’sirlariga beriluvchan shaxs xususiyatlarini o’zida mujassam etadi
+Mavjud ijtimoiy tasavvurlar va xulqiy odatlar
+Shaxsning o’zining barcha xususiyatlarini adekvat bilishi
+
+59.  Odam bosh miya katta yarim sharlari po’stlog’i o’rtacha qancha neyronlardan tashkil topgan?
+* 14 15 mlrd
+11 12 mlrd
+14 15 mln.
+11 12 mln
+
+60.  Interiorizasiya  ..
+* Faoliyat va uni tashkil etuvchi predmetli harakat aynan nimalarga yo’naltirilganligi
+Aqliy va jismoniy harakatlar mujassamligi
+Ijodiy uyg’onish paytida amalga oshiriladigan mavhum fikrlash faoliyati
+Ichki psixik faoliyatning tashqi amaliy faoliyatdan kelib chiqishi, tashqi harakatlarning ichki harakatlarga, tushunchalarga aylanish jarayoni
+
+61.  Sosiometriya metodiga kim asos solgan?
+* J.moreno
+Ch.sherrington
+A.luriya
+V.shtern
+
+62.  Testlar metodi turlari..
+* Test so’rov, test topshiriq, proyektiv test, sosiometrik test
+Tashqi, ichki, erkin, standartlashtirilgan
+Sosiometrik, proyektiv test, texnik, og’zaki
+Tashqi, erkin, mantiqiy, test so’rov
+
+63.  Odam organzmining har qanday sharoitida ham tashqi  muhit o’zgarishlari va tasurotlarga moslashishi – bu…..
+* Adaptatsiya hodisasi 
+Sensibilizasya hodisasi.
+Kompensatorlik hodisasi.
+Illyuziya hodisasi
+64.  Shaxsni o’rab turgan kishilarning o’rinli va asosli baholari mahsuli qanday ataladi?
+* Realistik  baho
+O’z o’ziga nisbatan baho
+O’z o’ziga bahoning past bo’lishi
+O’z o’ziga bahoning yuqori bo’lishi
+
+65.  O’z o’zini kuzatish metodiga nechanchi yildan boshlab tanqidiy ko’z bilan qaray boshlangan?
+* 19 asrning 2 chi yarmidan boshlab
+20 asrning boshlarida
+20 asrning 2 chi yarmida
+18 asrning oxirlari
+
+66.  Tabiiy eksperiment metodining tashqi kuzatish metodidan farqi nimada?
+* Tekshiruvchi kishi tekshiriladigan psixik hodisalarning zarur bo’lgan maxsus yo’l bilan vujudga keltiradi
+Ularning farqi biri eksperiment biri kuzatish metodi bo’lganligi uchun
+Bir biridan farqi yo’q
+To’g’ri javob a va b.
+
+67.  Tabiiy eksperiment metodi nechanchi asrdan boshlab psixologiyada keng yo’lga qo’yilgan?
+* 20 asrda
+19 asrda
+18 asrda
+17 asrda
+
+68.  Tadqiqotchi ham tekshiriladigan ham tekshiruvchi ob’ektga bo’linib qolishi qaysi metodning eng muhim kamchiligi ekanligini ko’rsatadi?
+* O’z o’zini kuzatish
+Kuzatish metodi
+Suhbat metodi
+Biografik metod
+
+69.  Konformizm nima?
+* Shaxsning guruh yoki ko’pchilikning ta’siriga berilishini tushuntiruvchi hodisa
+Shaxsning mustaqil qaror qabul qilishi
+Shaxsning guruh ta’siriga berilmasligi
+Shaxsning o’z fikriga qat’iy turishini tushuntiruvchi hodisa
+
+70.  Proprioreseptiv sezgilarni toping
+* Muskul harakat, statik sezgilar
+Teri, ta’m bilish, hid bilish
+Eshitish, ko’rish, teri sezgilari
+Organik sezgilar, teri sezgilari
+
+71.  Temperamentning fiziologik asosini nima tashkil qiladi?
+* Nerv tizimi
+Organizmdagi suyuqlikning holati.
+Reflekslar
+Xarakat kuchi
+
+72.  Kichik guruhlarning a’zolari soni nechtagacha bo’lishi mumkin?
+* 3 tadan 30 40 gacha 
+2 tadan 18 20 gacha 
+2 tadan 24 gacha   
+2 tadan muloqot qilish imkoni bo’lganicha
+
+73.  Qanday guruhlarda shaxs uning ma’qullashiga muhtoj bo’lmaydi, lekin o’z harakatlarini yo’lga solishda unga asoslanadi?
+* Normativ guruhlar
+Negativ guruhlar
+Referent guruhlar
+Qiyoslash guruhlari
+
+74.  O’z o’ziga bahoning past bo’lishining sababi?
+* Shaxsga nisbatan talablarning o’ta ortiqligi
+Turli xil e’tirozlarning doimiy tarzda bildirilishi
+Muomala jarayonidagi muvaffaqiyatsizliklar.
+Barcha javoblar to’g’ri
+
+75.  Suhbat metodi shaxsning individual xususiyatlarining asosan qaysi tomonlarini tekshirishda qo’llaniladi?
+* Tekshirishda shaxsning hayoti va faoliyatidagi maxsus voqealar,qahramonliklar
+Biron shaxs bilan suhbat jarayonida
+Shaxsning ijodi davomida
+Guruh guruh bo’lib suhbatda bo’lish
+
+76.  Tabiiy eksperiment metodini birinchi bo’lib rus psixologi … vujudga keltirdi?
+* Lazurskiy
+M.davletshin
+Sechenov
+Pavlov
+
+77.  Kuzatish va eksperement metodidagi kamchiliklarni yo’qotish uchun psixologiyada yaratilgan metod
+* Tabiiy eksperiment metodi
+Biografiya metodi
+Suhbat metodi
+O’z o’zini kuzatish metodi
+
+78.  Bu metodning ahamiyatini tamomila inkor qilish odamning yuksak darajadagi bilish qobiliyatiga, ijodiy qobiliyatiga, ongiga ishonmaslik demakdir. Bu ta’rif qaysi metod haqida bormoqda?
+* O’z o’zini kuzatish
+Ichki kuzatish
+Tashqi kuzatish
+So’rash va suhbat metodi
+
+79.  Qaysi qatorda psixik jarayonlar to‘g‘ri ko‘rsatilgan?
+* Sezgilar, idrok, xotira, tafakkur, xayol, nutq, diqqat;
+Idrok, e’tiqodlilik, yo‘nalishlar;
+Xotira, idrok, apatiya, ish uslubi;
+Ijodiy ruhlanish, xotira, idrok, diqqat.
+
+80.  Psixologiyaning asosiy metodlari qaysi qatorda to‘liq ko‘rsatilgan?
+* Kuzatish, matematik, test, psixik jarayonlar;
+So‘roq, proektiv test, standartlashtirilgan;
+Kuzatish, so‘roq, test, eksperiment, modellashtirish;
+Modellashtirish, sotsiometrik test, so‘roq, psixologik holatlar.

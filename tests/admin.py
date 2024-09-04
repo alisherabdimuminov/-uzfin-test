@@ -1,10 +1,12 @@
 from django.contrib import admin
 
 from .models import Test, Question, Specialist
+from .actions import print_selected_tests
 
 
 @admin.register(Test)
 class TestModelAdmin(admin.ModelAdmin):
+    actions = [print_selected_tests]
     list_display = ["name", "user", ]
 
 
