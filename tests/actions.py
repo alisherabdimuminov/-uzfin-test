@@ -4,6 +4,20 @@ from django.db.models.query import QuerySet
 from django.contrib.admin import ModelAdmin
 from django.http import HttpRequest, HttpResponse
 
+class PDF(FPDF):
+    def header(self):
+        # Rendering logo:
+        self.image("logo.png", 5, 5, 20)
+        self.set_font("helvetica", "B", 15)
+        self.cell(80)
+        self.cell(30, 10, "O'zbekiston-Finlandiya pedagogika instituti test markazi.", align="L")
+        self.ln(20)
+
+    def footer(self):
+        self.set_y(-15)
+        self.set_font("helvetica", "I", 8)
+        self.cell(0, 10, f"Platform powered by Ali", align="C")
+
 
 @admin.action(description="Print selected tests")
 def print_selected_tests(modeladmin: ModelAdmin, request: HttpRequest, queryset: QuerySet):
@@ -16,7 +30,7 @@ def print_selected_tests(modeladmin: ModelAdmin, request: HttpRequest, queryset:
         i += 1
     TABLE = [th] + td
 
-    pdf = FPDF(orientation="landscape")
+    pdf = PDF(orientation="landscape")
     pdf.add_page()
     pdf.set_font("Times", size=16)
     with pdf.table(col_widths=(5, 25, 30, 10, 10, 20), text_align=("CENTER", "LEFT", "LEFT", "CENTER", "CENTER", "LEFT")) as table:
