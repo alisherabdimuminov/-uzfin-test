@@ -19,7 +19,7 @@ def print_selected_tests(modeladmin: ModelAdmin, request: HttpRequest, queryset:
     pdf = FPDF(orientation="landscape")
     pdf.add_page()
     pdf.set_font("Times", size=16)
-    with pdf.table(col_widths=(5, 25, 30, 10, 10, 20)) as table:
+    with pdf.table(col_widths=(5, 25, 30, 10, 10, 20), text_align=("CENTER", "LEFT", "LEFT", "CENTER", "CENTER", "LEFT")) as table:
         for data_row in TABLE:
             row = table.row()
             for datum in data_row:
