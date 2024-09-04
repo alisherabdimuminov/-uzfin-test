@@ -1,4 +1,4 @@
-from fpdf import FPDF
+from fpdf import FPDF, FontFace
 from django.contrib import admin
 from django.db.models.query import QuerySet
 from django.contrib.admin import ModelAdmin
@@ -7,6 +7,7 @@ from django.http import HttpRequest, HttpResponse
 
 @admin.action(description="Print selected tests")
 def print_selected_tests(modeladmin: ModelAdmin, request: HttpRequest, queryset: QuerySet):
+    queryset = queryset.order_by("-percentage")
     th = tuple(["No", "Talabgarnining F.I", "Mutaxasislik", "To'plagan bali", "To'g'ri javoblar", "Texnik nosozlik sababli qo'shilgan ball", ])
     td = []
     i = 1
