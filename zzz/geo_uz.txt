@@ -1,1192 +1,299 @@
-1. Yer havo qobig‘i (atmosfera) ning tuzilishi?
+Yer havo qobig‘i (atmosfera) ning tuzilishi?
 * Troposfera, stratosfera, mezosfera, termosfera, ekzosfera 
 Tashqi mantiya, ichki mantiya, suv bug‘lari.
 Havo massalari, fronlar, tsiklon va antitsiklonlar
 Har xil qatlamlardan tuzilgan
 
-2.Ozon qatlamining qalinligi qancha?
+Ozon qatlamining qalinligi qancha?
 *2-3 mm	
 2-3 sm	
 4-5 mm	
 4-5 sm
 
-3. Atmosferaning Yer uchun muhim ahamiyati nimadan iborat?	
+Atmosferaning Yer uchun muhim ahamiyati nimadan iborat?	
 * Yerning ”himoya” qobig‘i bo‘lib, barcha jonzotlarni zararli kosmik nurlardan himoya qiladi, yer yuzasida issiqlik va namlikni tartibga solib turadi
 Yerning havo qobig‘i bo‘lib, namlik tarqalishini tartibga soladi 
 iqlim shakllanishida asosiy rol o‘ynaydi, o‘simlik va hayvonot olamiga qulay muhit yaratadi
 insonning yashashi va faoliyat yuritishi uchun zaruriy barcha shart-sharoitlarni muhayyo qiladi
 
-4. Atmosfera qanday gazlardan tashkil topgan?
+Atmosfera qanday gazlardan tashkil topgan?
 * azot, kislorod, inert gazlar va boshqalar
 kislorod, metan, inert gazlar va boshqalar
 kislorod, oltingugurt oksidi, inert gazlar va boshqalar
 azot, kislorod, freon va boshqalar
 
-5. Tropopauza qatlami qaysi qatlamlar orasida shakllangan?
+Tropopauza qatlami qaysi qatlamlar orasida shakllangan?
 * troposfera va stratosfera	
 stratosfera va mezosfera
 ekzosfera va termosfea	
 stratosfera va ionosfera
 
-6.Havo bosimi qaysi asbobda o‘lchanadi?
+Havo bosimi qaysi asbobda o‘lchanadi?
 *barometr	
 termometr	
 flyuger	
 psixrometr
 
-7. Atmosferaning Yer uchun muhim ahamiyati nimadan iborat?
+Atmosferaning Yer uchun muhim ahamiyati nimadan iborat?
 * Yerning ”himoya” qobig‘i bo‘lib, barcha jonzotlarni zararli kosmik nurlardan himoya qiladi, yer yuzasida issiqlik va namlikni tartibga solib turadi
 Yerning havo qobig‘i bo‘lib, namlik tarqalishini tartibga soladi 
 iqlim shakllanishida asosiy rol o‘ynaydi, o‘simlik va hayvonot olamiga qulay muhit yaratadi
 insonning yashashi va faoliyat yuritishi uchun zaruriy barcha shart-sharoitlarni muhayyo qiladi
 
-8. Qaysi qatlam troposferadan yuqorida joylashgan, yuqori chegarasi 40-50 km balandda, quyi qismida harorat -45°C dan -75°C gacha pasayadi.?
+Qaysi qatlam troposferadan yuqorida joylashgan, yuqori chegarasi 40-50 km balandda, quyi qismida harorat -45°C dan -75°C gacha pasayadi.?
 * stratosfera		
 ionosfera 	
 mezosfera	
 termosfera
 
-9.  Yer yuzasidan o‘rtacha balandligi 10-11 km, ekvatorial o‘lkalarda 16-17 km, qutubiy o‘lkalarda 8-9 km bo‘lgan qatlamni belgilang.
+Yer yuzasidan o‘rtacha balandligi 10-11 km, ekvatorial o‘lkalarda 16-17 km, qutubiy o‘lkalarda 8-9 km bo‘lgan qatlamni belgilang.
 * Troposfera                        
 Atmosfera
 Strotosfera                          
 Stratopauza
 
-10. Qaysi qatlamda havo zichligi kam bo’lganligidan Quyosh nurlari tarqalmaydi va osmon qora rangda ko‘rinadi unda yulduz hamda sayyoralar miltirab turadi..
+Qaysi qatlamda havo zichligi kam bo’lganligidan Quyosh nurlari tarqalmaydi va osmon qora rangda ko‘rinadi unda yulduz hamda sayyoralar miltirab turadi..
 * ionosfera		
 Stratosfera
 mezosfera	
 termosfera
 
-11.Quyoshdan kelayotgan nurning necha foizi havo qobig‘idan Yer yuzasiga o‘tib, uzun to‘lqinli nurga aylanadi.
+Quyoshdan kelayotgan nurning necha foizi havo qobig‘idan Yer yuzasiga o‘tib, uzun to‘lqinli nurga aylanadi.
 * 70%			
 100%
 30%			
 50%
 
-12.Materiklarning ekvatorial zonalarida nimaning hisobiga quyoshdan keladigan yillik energiya miqdori 50 % ga kamayadi.
+Materiklarning ekvatorial zonalarida nimaning hisobiga quyoshdan keladigan yillik energiya miqdori 50 % ga kamayadi.
 * qalin bulutlilikning bo‘lishi			
 yog`inning ko`pligi
 quyosh tik tushmaganligi uchun		
 qish bo`lganligi uchun
 
-13.Quyosh radiatsiyasining havodagi chang, bug` va boshqa omillar ta`sirida atmosferada tarqalib, hamma tomonga yo‘nalgan nurlarga nima deyiladi.
+Quyosh radiatsiyasining havodagi chang, bug` va boshqa omillar ta`sirida atmosferada tarqalib, hamma tomonga yo‘nalgan nurlarga nima deyiladi.
 * tarqoq radiasiya			
 to`g`ri radiasiya
 yalpi radiasiya			
 radiatsiya
 
-14.Izoterma nima.
+Izoterma nima.
 * harorati bir xil bo`lgan nuqtalarni tutashtiruvchi chiziq
 harorati turli xil bo`lgan nuqtalarni tutashtiruvchi chiziq
 yalpi radiasiyani umumiy miqdori
 to`gri radiatsiyani umumiy miqdori
 
-15.Nima uchun Quyosh nuri Yerning yuzasiga turli geografik kengliklarda turlicha burchak ostida tushadi
+Nima uchun Quyosh nuri Yerning yuzasiga turli geografik kengliklarda turlicha burchak ostida tushadi
 * Yerning og`ib turishi evaziga
 quruqlik va suvlikning notekis taqsimlanishi evaziga
 yalpi radiasiyani ko`pligi evaziga
 quyoshning uzoqligi evaziga
 
-16.Quyoshdan yerga keladigan radiatsiyaning necha foizini yorug‘lik nuri tashkil etadi.
+Quyoshdan yerga keladigan radiatsiyaning necha foizini yorug‘lik nuri tashkil etadi.
 * 48%			
 71%		
 7%			
 82%
 
-17.Quyoshdan yerga keladigan radiatsiyaning necha foizini infraqizil nur tashkil etadi.
+Quyoshdan yerga keladigan radiatsiyaning necha foizini infraqizil nur tashkil etadi.
 * 45%			
 71%		
 62%		
 7%
 
-18.Albedo miqdori eng kam bo‘lgan yuzani aniqlang?
+Albedo miqdori eng kam bo‘lgan yuzani aniqlang?
 * qora tuproq			
 toza qor
 suv yuzasi, quyosh balandligi 900 bo‘lganda	
 yashil barg
 
-19.Albedo miqdori eng katta bo‘lgan yuzasini aniqlang.
+Albedo miqdori eng katta bo‘lgan yuzasini aniqlang.
 * Yangi yoqqan qor  
 Sariq barg		
 Quyosh nurlari tik tushayotgan suv yuzasi
 Qora tuproq
 
-20.Geografik qobiqning amalda yagona issiqlik manbaidir
+Geografik qobiqning amalda yagona issiqlik manbaidir
 * Quyosh			
 yoqilg`i turlari
 Yer yadrosi			
 Yerning ichki issiqligi
 
-21. Troposfera havosining harorati, namligi, shamollari va boshqa xususiyatlariga ko‘ra bir-birlaridan farq qiladigan katta qismlari nima deyiladi?
+Troposfera havosining harorati, namligi, shamollari va boshqa xususiyatlariga ko‘ra bir-birlaridan farq qiladigan katta qismlari nima deyiladi?
 * havo massalari
 yuqori va past bosimli mintaqa 
 sayyoraviy shamollar
 iqlim mintaqasi va tiplari
 
-22. Havo massalarini bir-biridan ajratib turadigan shartli chiziq nima deyiladi?
+Havo massalarini bir-biridan ajratib turadigan shartli chiziq nima deyiladi?
 * havo fronti	
 front chizig‘i
 izoterma		
 izochiziq
 
-23.Atmosfera sirkulatsiyasini vujudga keltuvchi asosiy omilni belgilang.
+Atmosfera sirkulatsiyasini vujudga keltuvchi asosiy omilni belgilang.
 * issiqlikni notekis taqsimlanishi
 yer yuzasini relefi 
 shamollarni notekis taqsimlanishi
 tog`lar va tekisliklar
 
-24.Atmosferaning yer yuzasiga bo‘lgan bosimi va uning taqsimlanishi nima deyiladi.
+Atmosferaning yer yuzasiga bo‘lgan bosimi va uning taqsimlanishi nima deyiladi.
 * barik maydon	
 barik relef
 shamol		
 albedo
 
-25.Atmosfera bosimining yer yuzasi yaqinida taqsimlanishi nima bilan ko‘rsatiladi.
+Atmosfera bosimining yer yuzasi yaqinida taqsimlanishi nima bilan ko‘rsatiladi.
 * izobaralar		
 izotermalar
 izogietalar		
 izochiziq
 
-26.Siklondan biror tomonga cho‘zilib ketadigan past bosimli polosaga nima deyiladi.
+Siklondan biror tomonga cho‘zilib ketadigan past bosimli polosaga nima deyiladi.
 * bosim soyligi	
 bosim oblasti
 bosim mintaqasi	
 bosim maksimumi
 
-27.Bosimning past bosim tomonga qarab har 100 km da mb hisobida kamayishiga nima deb ataladi.
+Bosimning past bosim tomonga qarab har 100 km da mb hisobida kamayishiga nima deb ataladi.
 * barik gradiyent		
 barik relef
 barik maydon		
 albedo
 
-28.Havoning fizik xossalari belgilang.
+Havoning fizik xossalari belgilang.
 * namligi, harorati, bosimi, tiniqligi
 kuchli yoki kuchsizligi
 past yoki balandligi
 changli, g`uborli, sovuqligi
 
-29.Yer yuzasida iqlim hosil qiluvchi asosan necha havo massalari mavjud.
+Yer yuzasida iqlim hosil qiluvchi asosan necha havo massalari mavjud.
 *4 xil		
 7 xil
 2 xil			
 3 xil
 
-30.Shimoliy va janubiy yarim sharlarda qish bilan yozning almashinishi frontlar Yozda va qishda qaysi kenglikkacha surilib boradi.
+Shimoliy va janubiy yarim sharlarda qish bilan yozning almashinishi frontlar Yozda va qishda qaysi kenglikkacha surilib boradi.
 * Yozda 50° sh.k. va qishda 30° sh.k.
 Yozda 30° sh.k. va qishda 40° sh.k.
 Yozda 60° sh.k. va qishda 20° sh.k.
 Yozda 40° sh.k. va qishda 80° sh.k.
 
-31.Atmosferaning bosimi past (markazida eng past) havo, markaz atrofida soat strelkasi harakati yo‘nalishiga teskari (janubiy yarim sharda soat strelkasi harakati yo‘nalishida) harakat qiladigan va o‘ziga xos ob-havoga ega bo‘lgan holatiga nima deyiladi?
+Atmosferaning bosimi past (markazida eng past) havo, markaz atrofida soat strelkasi harakati yo‘nalishiga teskari (janubiy yarim sharda soat strelkasi harakati yo‘nalishida) harakat qiladigan va o‘ziga xos ob-havoga ega bo‘lgan holatiga nima deyiladi?
 *Siklon
 Antisiklon
 barik relef
 barik maydon	
 
-32. Atmosfera harakatlarining asosiy markazlari qaysi javobda to’g’ri ko’rsatilgan?
+Atmosfera harakatlarining asosiy markazlari qaysi javobda to’g’ri ko’rsatilgan?
 * Ekvatorial depressiya, Azor maksimumi, Gavayi maksimumi, Janubiy Atlantika maksimumi, Janubiy Tinch okean maksimumi, Janubiy Hind okean maksimumlari, Islandiya minimum, Aleut minimumlari, Janubiy o‘rtacha kengliklar minimumlari, Osiyo maksimumi, Arktika yuqori bosim mintaqasi, Antarktika maksimumi.
 Azor maksimumi, Gavayi maksimumi, Janubiy Atlantika maksimumi, Janubiy Tinch okean maksimumi, Janubiy Hind okean minimum, Islandiya minimum, Gudzon minimumlari, Janubiy o‘rtacha kengliklar minimumlari, Osiyo minimum, Arktika yuqori bosim mintaqasi, Antarktika minimum  
 Gavayi maksimumi, Shimoliy Atlantika maksimumi, Janubiy Tinch okean maksimumi, Janubiy Hind okean minimum, Islandiya minimum, Patagoniya minimumlari, Janubiy o‘rtacha kengliklar minimumlari, Arktika yuqori bosim mintaqasi, Antarktika minimum, Azor maksimumi, Osiyo maksimumi,    
 Janubiy Tinch okean maksimumi, Janubiy Hind okean minimum, Islandiya minimum, Samali minimumlari, Janubiy o‘rtacha kengliklar minimumlari, Arktika yuqori bosim mintaqasi, Antarktika minimum, Saxalin maksimumi, Osiyo maksimumi,  Gavayi maksimumi, Shimoliy Atlantika maksimumi 
 
-33. Sayyoraviy shamollarni toping?
+Sayyoraviy shamollarni toping?
 * Passat, g‘arbiy shamollar
 Garmsel, antitsiklon, briz 
 Passat, Samum, bora
 Bekobod, Afg‘on shamollari
 
-34. Mahalliy shamollarni belgilang. 
+Mahalliy shamollarni belgilang. 
 * Sirokko, samum
 Passat, musson
 G‘arbiy, shimoliy-sharqiy 
 Fyon, musson
 
-35. Briz frantsuzcha brise  nima degani?
+Briz frantsuzcha brise  nima degani?
 * shabada		
 Shtil		
 dovul			
 shamol
 
-36. Bir yilda o‘z yo‘nalishini o‘zgartiradigan shamollarga qanday shamollar deyiladi?
+Bir yilda o‘z yo‘nalishini o‘zgartiradigan shamollarga qanday shamollar deyiladi?
 * musson	
 Briz		
 passat		
 mahalliy shamollar
 
-37. Shamollar qanday hosil bo‘ladi? 
+Shamollar qanday hosil bo‘ladi? 
 * Havoning bosimdagi farqi sababli hosil bo‘ladigan oqimi 
 Havoning gorizontal oqimi sababli 
 Havoning dengizdan quruqlikka harakati
 Yerning aylanishi sababli hosil bo‘ladigan havo oqimi
 
-38. Bir kecha-kunduzda o‘z yo‘nalishini ikki marta o‘zgartirib turadigan shamolni aniqlang?
+Bir kecha-kunduzda o‘z yo‘nalishini ikki marta o‘zgartirib turadigan shamolni aniqlang?
 * briz 			
 musson
 passat		
 g‘arbiy shamollar
 
-39.Tog`larning turli yonbah`rilarida bosimning farqlanishidan vujudga keladigan va tog`lani oshib o`tadigan shamol turini belgilang.
+Tog`larning turli yonbah`rilarida bosimning farqlanishidan vujudga keladigan va tog`lani oshib o`tadigan shamol turini belgilang.
 *fyon			
 briz
 musson		
 samum
 
-40.Shamol yo‘nalishini belgilash uchun necha tomonli shamol guli qabul qilingan
+Shamol yo‘nalishini belgilash uchun necha tomonli shamol guli qabul qilingan
 *16		
 8
 12		
 24
 
-41.Ko‘proq yilning sovuq davrida past tog‘ dovonlaridan oshib o‘tadigan juda qattiq va sovuq shamolni belgilang.
+Ko‘proq yilning sovuq davrida past tog‘ dovonlaridan oshib o‘tadigan juda qattiq va sovuq shamolni belgilang.
 *bora		
 briz
 musson	
 samum
 
-42.Cho`l mintaqalaridagi qum tepalari – dyuna, gryada, barxan kabi rel`ef shakllarini vujudga keltiradigan omilni belgilang.
+Cho`l mintaqalaridagi qum tepalari – dyuna, gryada, barxan kabi rel`ef shakllarini vujudga keltiradigan omilni belgilang.
 *shamol		
 oqar suvlar
 inson			
 atmosfera yog`inlar
 
-43.Tinch va sokin ob-havo sharoitida kechasi yer betidagi redmetlar sovib, ular yuzasida havo nami kondensatsiyalanishi natijasida vujudga keladigan yog`in turini belgilang.
+Tinch va sokin ob-havo sharoitida kechasi yer betidagi redmetlar sovib, ular yuzasida havo nami kondensatsiyalanishi natijasida vujudga keladigan yog`in turini belgilang.
 *shudring		
 do`l		
 yomg`ir		
 qor
 
-44.Ma’lum bir hajmdagi, ko‘pincha 1 m kub havodagi suv bug‘lari massasiga nima deyiladi.
+Ma’lum bir hajmdagi, ko‘pincha 1 m kub havodagi suv bug‘lari massasiga nima deyiladi.
 *mutlaq namlik		
 nisbiy namlik
 bug`lanish			
 bug`lanuvchanlik
 
-45.Mutlaq namlikning sutkalik o‘zgarishi nimaning sutkalik o‘zgarishi bilan bir me’yorda bo‘ladi.
+Mutlaq namlikning sutkalik o‘zgarishi nimaning sutkalik o‘zgarishi bilan bir me’yorda bo‘ladi.
 *harorat		
 bosim		
 yog`in			
 atmosfera
 
-46.Havoning namga faktik to‘yinganligining (% hisobida) shu haroratda mumkin bo‘lgan to‘yinishiga nisbati nima deyiladi.
+Havoning namga faktik to‘yinganligining (% hisobida) shu haroratda mumkin bo‘lgan to‘yinishiga nisbati nima deyiladi.
 *nisbiy namlik		
 mutlaq namlik
 bug`lanish			
 bug`lanuvchanlik
 
-47.Atmosferadagi namning kondensatsiyalanish jarayoni deganda nimani tushunasiz.
+Atmosferadagi namning kondensatsiyalanish jarayoni deganda nimani tushunasiz.
 *suv bug`ining suv tomchilariga aylanishi
 suv tomchilarining suv bug`iga aylanishi
 suv tomchilarining muzga aylanishi
 suv buglarining tuman ko`rinishi jarayoni
 
-48.Osmon gumbazining bulutlar bilan qorlanganlik darajasiga nima deyiladi.
+Osmon gumbazining bulutlar bilan qorlanganlik darajasiga nima deyiladi.
 * bulutlilik		
 bulut
 tuman			
 tumanlik
 
-49.Patsimon bulutlar odatda yer yuzasidan necha km balandda bo`ladi.
+Patsimon bulutlar odatda yer yuzasidan necha km balandda bo`ladi.
 *6 km		
 15 km	
 1 km		
 2 km
 
-50.Arid zona deganda odatda qanday hududlar tushuniladi.
+Arid zona deganda odatda qanday hududlar tushuniladi.
 *qurg‘oqchil o‘lkalar		
 namgarchil o‘lkalar
 tog`li o`lkalar		
 tekislik hududlar
-
-51.Sokin sovuq havoda daraxt shox-shabbasi, elektr, telefon simlari va boshqa shu kabi ingichka rredmetlarga qo`nadigan yengil oq kristallardan iborat yog`in turini belgilang.
-* bulduruq		
-do`l		
-shudring		
-qor
-
-52.Bulutlilikni hisoblash uchun necha ballik tizimda aniqlanadi.
-*10			
-20		
-50			
-12
-
-53. Ob-havo nima?
-* Troposferaning biror joydagi, biror vaqtdagi holati
-Havo bosimi, shamollar, havo namligi
-Shamol, oftob, tuman, bulut, yog‘in
-Atalganlarning hammasi
-
-54. Iqlim - nima?
-* Ob-havoning ko‘p yillik rejimi 		
-Ob-havoning ko‘p yillik o‘zgarib turishi
-Ob-havoning bir necha kunda o‘zgarib turishi	
-Ob-havoning fasl davomida o‘zgarishi
-
-55. Harorati bir xil bo‘lgan nuqtalarni tutashtiruvchi chiziqlar nima deb ataladi?
-* Izotermalar		
-Parallellar     
-Gorizontallar			
-Izobarlar
-
-56. Kondensatsiya nima? 
-suvning suyuq holatdan muz holatga o‘tishi	
-*havodagi namning bug‘ holatdan suyuq holatga o‘tishi
-havodagi namning bug‘ holatdan qattiq holatga o‘tishi
-to‘yingan namlik
-
-57. Agar havo harorati 20°C bo‘lsa, 1 m3 havo o‘zida qancha suv bug‘ini tutib tura oladi?
-* 17 gr		
-9gr		
-5 gr	
-30 gr
-
-58. Quyidagi ma’lumotlar asosida sutkalik o‘rtacha haroratni aniqlang. *40, *6°, -10°, -4°.
-*  *8°C		
-*6°C		
--4°C		
--2°C
-
-59. Meteorologik stansiyalarda ob-havoni aniqlashda odatda necha marotaba o`lchash ishlari olib boriladi.
-* 8 marta		
-12 marta
-16 marta		
-4 marta
-
-60.Atmosfera jarayonlarining ma’lum bir joydagi va muayyan vaqtdagi holatiga nima deyiladi.
-*ob-havo		
-iqlim
-harorat		
-iqlim mintaqasi
-
-61.Iqlimshunos olimlarning aniqlashicha, iqlimda necha yillik tebranishlar mavjud.
-* 11 va 22 yillik		
-10 va 15 yillik
-55 va 65 yillik		
-2 va 5 yillik
-
-62.Biror hududni iqlimini belgilashda necha yillik kuzatishlar hisobga olinadi.
-* ko‘pincha 35 yoki 100 yil		
-ko‘pincha 155 yoki 250 yil
-ko‘pincha 5 yoki 10 yil		
-ko‘pincha 200 yoki 500 yil
-
-63. Quyidagi ta’rif qaysi iqlim mintaqasi uchun xos: «havo harorati yil bo‘yi *25 *28C, yog‘in miqdori 1000-3000 mm, fasllar bir-biridan farq qilmaydi, yil bo‘yi yog‘in bir xilda taqsimlangan».
-* ekvatorial 		
-subtropik
-Subekvotorial	
-Tropic
-
-64. Kontinental iqlimning asosiy xususiyati?
-* Yozi issiq, qishi sovuq, yog‘in kam
-Qishi iliq, yozi issiq, yog‘in ko‘p
-Yog‘in kam, qishi iliq, yoz salqin
-Shamol ko‘p bo‘ladi, qish sernam, yoz issiq
-
-65. Dengiz iqlimining asosiy xususiyati nima?
-* Yozi salqin, qishi iliq, yog‘in ko‘p yog‘adi 
-Joyning dengizga yaqin joylashgani
-Yozi issiq, qishi sovuq, yog‘in ko‘p yog‘adi
-Yozi salqin, qishi iliq, yog‘in kam yog‘adi
-
-66. Quyidagi qaysi iqlim mintaqasida yil bo‘yi bir xil havo massasi hukmron bo‘ladi?
-* Arktika (Antraktida)   		
-Subtropik
-Subekvatorial		
-Qutbyoni
-
-67.Sektorlik (azonalik) qanday hosil bo`ladi?
-* okeandan materik ichkarisi tomon namlik va yog‘in miqdori o`zgarib borishi natijasida
-pastdan yuqori tomon namlik va yog‘in miqdori o`zgarib borishi natijasida
-okeandan materik ichkarisi tomon tuproqning o`zgarib borishi natijasida
-yer shrida quruqlikning notekis tarqalishi natijasida
-
-68.Yer yuzasida issiqlik va namlikning notekis taqisimlanishi natijasida qanday qonuniyat sodir bo’ladi?
-* zonallik		
-barerlik
-gravitatsiya		
-gradiyent
-
-69.Yer yuzasidan yuqoriga ko’tarilgan sari issiqlik va namlikning notekis taqisimlanishi natijasida qanday qonuniyat hosil bo`ladi.
-* balandlik mintaqalanishi		
-barerlik	
-gravitatsiya		
-gradiyent
-
-70.Yer sayyorasida Quyosh nuri va issiqligi notekis taqsimlanishing asosiy sababini ayting.
-*yerning sharsimonligi
-quruqlik va suvlikning notekis taqsimlanishi		
-quyosh nurlarini tik tushishi
-namlikni notekis taqsimlanishi	
-    
-71.O’rta Osiyo hududi mo’tadil iqlimining qaysi tipi ta`sirida.
-*kontinental		
-dengiz
-musson		
-balandlik
-
-72.Mo’tadil musson iqlimi tipida yog‘inlarning asosan 85-95% i qaysi faslga to`g`ri keladi.
-*yozga		
-kuzga		
-bahorga		
-qishga
-
-73.Iqlim xaritalarida bir xil miqdorda yog‘in yog‘adigan joylarni tutashtiruvchi chiziqlar nima? 
-*Izogiyeta
-Izoterma
-Izobora
-Izobata
-
-74.Biosferadagi organizmlar nechta katta guruhga bo‘linadi?
-* 2 	
-3		
-4		
-5
-
-75.Parazitizm nima?
-* boshqa organizmlar hisobiga yashash 
-o‘lgan organizmlar hisobiga yashash
-boshqa organizmlarda o‘tirib qolgan chirindi va chang zarralari bilan kun ko‘ruvchi organizmlar
-bir-biriga dushman bo‘lib yashavchi organizmlar
-
-76. Organizmlarga ta’sir ko‘rsatuvchi barcha omillar nima deyliadi?
-* ekologik omillar 		
-abiogen omillar
-antropogen omillar		
-biogen omillar
-
-77. Biosfera atamasini birinchi bo‘lib qo‘llagan olim kim?
-*Eduard Zyuss			
-M.V.Lomonosov
-V.Vernadskiy			
-V.V.Dokuchayev 
-
-78. “Biosfera” ta’limotini yaratgan olimni aniqlang.
-* V.Vernadskiy 			
-Ch.Darvin	
-J.Lamark				
-Gekkel
-
-79.  Ekologik omillar qanday guruhlarga ajratiladi? 
-* biogen, abiogen va antropogen	
-abiotik va biotik
-abiogen va antropogen
-abiogen, antropogen va jonsiz
-
-80. Adaptatsiya nima?
-* organizmlarning noqulay muhit sharoitlariga moslashish qobiliyati 
-organizmlarning muhit sharoitlarini o‘zlashtirish qobiliyati
-organizmlarning qulay muhit sharoitlariga ko‘nikish qobiliyati
-organizmlarning noqulay muhit sharoitlarini o‘zgartirish qobiliyati
-
-81. Noosfera to‘g‘risidagi ta’limotning mohiyati nimaga asoslanadi?
-* tabiatga ta’sirni kuchaytirish
-tabiiy resurslarni qayta tiklash
-yer resurslarini tejash
-tabiatdan oqilona faoydalanish
-
-82. “Hayot qobig‘i” nima deb ataladi?
-*biosfera 	
-atmosfera		
-litosfera		
-noosfera
-
-83. Yerning “kislorod fabrikasi”ni aniqlang.
-* o‘simliklar 	
-hayvonlar	
-mikroorganizmlar	
-tuproq qatlami
-
-84. Hozirda hisob-kitoblarga ko‘ra okeanda qancha o‘simlik turi mavjud
-* 10000 yaqin
-15000 yaqin
-20000 yaqin
-30000 yaqin
-
-85. Hozirda hisob-kitoblarga ko‘ra okeanda qancha hayvon turi mavjud
-* 160000 yaqin
-150000 yaqin
-200000 yaqin
-300000 yaqin
-
-86.Plankton so`zining lug`aviy ma`nosini toping.
-* yunonchasiga – “muallaq suzuvchi”
-yunonchasiga – “semiz”
-yunonchasiga – “bahaybat”
-yunonchasiga – “tez suzuvchi”
-
-87.Okean tubida yashovchi “bentos” ning lug`aviy ma`nosini toping.
-* yunonchasiga “chuqurda yashovchi”
-yunonchasiga – “semiz”
-yunonchasiga – “bahaybat”
-yunonchasiga – “tez suzuvchi”
-
-88. O‘simliklarni hayvonlar yordamida tarqaladishiga nima deyiladi.
-*zooxor
-avtoxor
-alloxor
-antropoxor
-
-89.O‘simliklarni suv yordamida tarqaladishiga nima deyiladi.
-*gidrooxor
-avtoxor
-alloxor
-antropoxor
-
-90.Quyidagilardan qaysi biri nekton hisoblanadi. 
-* baliq
-chigirtka
-oqqush
-chumoli
-
-91. Sernam joylar – botqoqlik, zax o‘tloqlar va o‘rmonlar, qayirda qanday  o‘simliklar keng tarqalgan?
-*  Gidrofitlar 	
-Kserofitlar
-Mezofitlar		
-Psammofitlar
-
-92. Qanday o‘simliklar Yer sharida eng ko‘p tarqalgan?
-*  Gidrofitlar 	
-Kserofitlar
-Mezofitlar		
-Psammofitlar
-
-93. Bentos nima? 
-*dengiz tubida yashovchi organizmlar
-mustaqil harakat qiluvchi suv organizmlar
-mikroskopik organizmlar 
-
-94.Areal deganda nimani tushunasiz.
-* Har bir o’simlik yoki hayvonlarning Yer yuzida egallagan maydoni
-Har bir o’simlik yoki hayvonlarning Yer yuzida tarqaladigan yo`nalishlari
-Har bir o’simlik yoki hayvonlarning markazlari
-Har bir o’simlik yoki hayvonlarning turlari
-
-95.Agar areal doirasida uni ayrim qismlariga bo’ladigan o’tib bo’lmaydigan to’siq bo’lsa qanday areal hisoblanadi.
-uzulgan areal			
-* uzluksiz areal
-to`siqsiz areal			
-so`roqsiz areal
-
-96.Endemik areal deb nimaga aytiladi.
-* maydoni katta bo’lmagan joyni o’z ichiga oladigan oblastga
-organizim turlarini daryo vodiysi bo’ylab va dengizni sayyoz qirg’oqlari bo’ylab  lenta shaklida joylanishiga
-quruqlikni katta qismini yoki dunyo okeaning katta qismini o’z ichiga oladigan arealga
-Yer sharini to`liq egallagan arealga
-
-97.Yer sharinig floristik va zoogeografik jihatdan taqsimlaydigan taksonomik birliklarni belgilang.
-* oblast, podoblast, provinsiya, okrug va uchastka
-oblast, maydon, provinsiya, okrug va birlik
-oblast, podoblast, qator, areal va uchastka
-oblast, qator, provinsiya, areal va uchastka
-
-98.Yer sharida nechta floristik oblastlari ajratiladi.
-*6 ta		
-8 ta		
-2 ta		
-12 ta
-
-99.Qaysi floristik oblast Hindo-Afrika, Maleziya, Yangi Zelandiya, Gavaya va Madagaskar podoblastlariga bo’linadi.
-* Poleotropik			
-Golarktik
-Neotropik			
-Avstraliya
-
-100.Antarktik floristik oblasti nechta podoblastlarga bo’linadi.
-*3 ta			
-5 ta		
-6 ta			
-2 ta
-
-101.Yer sharida nechta quruqlik faunistik oblasti mavjud.
-*7 ta			
-4 ta		
-12ta 			
-2 ta
-
-102.Quruqlik faunistik oblastining  paleogey dunyosiga qaysi oblastlar kiradi.
-* Hindomalay va Efiopiya		
-Avstraliya, Polineziya va Yangi Zellandiya
-Gollaktik va Hindomalay		
-Neotropik va Antropik 
-
-103.Arktika, Kanada, Sanor, Yevropa-Sibir, O’rtayer dengizi, Markaziy Osiyo va Manchjuriya-Xitoy podoblastlari qaysi qaysi faunistik oblastga kiradi.
-* Gollaktik			
-Paleotropik
-Neotropik			
-Avstraliya
-
-104.Avstraliya oblasti qanday podoblastlarga bo’linadi?
-*Yangi golland (Haqiqiy Avstraliya) va papuass(Yangi Gvineya) 
-Yevropa – Uzoq Sharq, O’rta yer dengiz
-Gviana-Braziliya va Chili-patagoniya 
-Janubi-g’arbiy Avstraliya, Shimoli-sharqiy Avstraliya 
-
-105. Landshaft so‘zi qaysi tildan olingan?
-* nemis 	
-ingliz	
-yunon	
-lotin
-
-106. Geografik terminshunoslikda landshaft iborasi necha xil mazmunda tushuniladi?
-* 3		
-4		
-5		
-6
-
-107. Quyidagi olimlardan qaysi biri regional tushuncha tarafdori?
-* L.S.Berg			
-F.N.Milkov
-N.A.Gvozdeskiy	
-Sh.S.Zokirov
-
-108. Landshaft morfologik qismlarining eng kichigini belgilang?
-* fatsiya		
-urochishe		
-joy		
-component
-
-109. Landshaftlar qanday hududiy qismlardan tuzilgan?
-*Tabiiy (landshaft) komponentlaridan tuzilgan
-Urochishe, fatsiya va joylardan tuzilgan 
-Rayon, viloyatlardan tuzilgan.
-Tog‘, daryo, o‘simlik, tuproq va boshqalardan tuzilgan
-
-110. Landshaftlar taraqqiyot darajasiga qarab qanday turga bo‘linadi?
-* qoldiq (relikt), hozirgi zamon landshafti, yangi
-yangi va eski
-buzilgan va madaniy 
-o‘zgargan va o’zgarmagan
-
-111. Antropogen landshaftlar necha  xil bo‘ladi?
-* 2		
-3		
-4		
-5
-
-112. Sekin o‘zgaruvchi komponentlarni aniqlang?
-* tog‘ jinslari, relef va iqlim		
-tuproq, suvlar, relef
-o‘simlik va hayvonot olami		
-iqlim, suvlar, relef
-
-113. Nisbatan tez o‘zgaruvchi komponentlarni aniqlang?
-* tuproq, suvlar, o‘simlik va hayvonot olami
-tuproq, suvlar, relef, o‘simlik va hayvonot olami
-o‘simlik va hayvonot olami
-iqlim, suvlar, relef, o‘simlik va hayvonot olami
-
-114. Landshaftlarning morfologik tuzilishi haqidagi ta’limotni ilmiy asoslab bergan olimni aniqlang?
-* N.A.Solnsev			 
-L.S.Berg
-N.A.Gvozdeskiy		
-F.N.Milkov
-
-115. Tabiiy geografik jarayonlar, komponentlar, geosistemalarning ekvatordan qutblarga tomon qonuniy ravishda almashinib borishiga nima deyiladi.
-* kenglik zonallik		
-sektorlik
-barerlik		
-provinsiallik
-
-116.Landshaft zonalarini nomlari asosan nimalarning nomidan kelib chiqmagan
-*o`simliklar		
-hayvonlar
-tog`lar		
-dengizlar
-
-117.Zonallik qonuniyatini asoschisi kim?
-*V.Dokuchayev		
-A.Leontev
-A.Matkarimov		
-L.Gerasimov
-
-118.Geografik qobiqdagi zonallik qonuniyatiga mos kelmaydigan hodisalarni taqoza etadigan qonunlarga nima deyiladi.
-*azonallik		
-skulptura
-o`simliklar		
-tabiat zonalari
-
-119.Azonallikni  asosiy energiya manbai nima.
-* yerning ishki energiyasi
-quyosh energiyasi	
-shamol energiyasi
-suv energiyasi	
-
-120.Zonallikni  asosiy energiya manbai nima.
-*quyosh energiyasi
-yerning ishki energiyasi
-shamol energiyasi
-suv energiyasi
-
-121.Barer so`zining lug`aviy ma`nosini toping?
-*to`siq			
-aralash
-almashinish		
-ko`tarilish
-
-122.V.L.Komarov 1921-yilda okeanlardan materik ishkarisiga borgan sari o‘simliklar, hayvonot dunyosi va tuproqlarning o‘zgarib borishini nima deb atagan. 
-* meridional zonallik		
-zonallik
-azonallik		
-spektrlik
-
-123. Zonallikning necha xil spektrlari ajratiladi.
-*dengiz va kontinental
-kenglik va balandlik
-quruq va sovuq
-issiq va sovuq
-
-124.Sektorlik atamasini fanga kim kiritgan.
-* A.I.Yanputnin		
-S.V.Sochava
-V.L.Komarov		
-L.S.Berg
-
-125.Geografik zonallikning davriy qonunini kimlar ishlab chiqishdi
-* A.A. Grigorev va M.L.Budiko		
-L.Leontev va A.Grigorev
-S.Kalesnik va V.Obruchev			
-L.Karelin va S.Samsonov
-
-126.Shimoliy yarimsharda 5—8° va janubiy yarimsharda 4—11° kenglikkacha davom etadigan mintaqani belgilang.
-*ekvatorial			
-subekvatorial
-tropik		
-subtropic
-
-127.Subekvatorial mintaqada nechta  tabiat zonasi shakllangan.
-* 2 ta			
-3 ta		
-4 ta			
-6 ta
-
-128.Tropik siyrak, quruq o‘rmonlar va savannalar zonasida qanday tuproqlar tarqalgan.
-* jigarrang — qizil, qizilqo‘ng‘ir va bo‘z-jigarrang
-qizil, qizilqo‘ng‘ir va qora-jigarrang
-jigarrang, qizilqo‘ng‘ir va bo‘z
-qizil, qora va bo‘z-jigarrang
-
-129.Shimoliy Amerikaning markaziy va Meksika bo‘yi tekisliklarining g‘arbiy qismlari, janubiy Amerikada Braziliya yassi tog‘ligining janubida, sharqiy Pampada, ikki daryo oralig‘ida, Afrikaning janubi-sharqida, Sharqiy Avstraliya togiarining g‘arbiy tog‘ oldi qismlarini qanday tabiat zonasi egallaydi.
-* o‘rmon-dasht zonasi		
-nam ekvatorial zonasi
-savannalar zonasi			
-dasht zonasi
-
-130.Qaysi mintaqa tabiat zonalari shimoliy yarim sharning 40°—65° kengliklarida, janubiy yarim sharning 42°—48° kengliklari oralig‘ida tarqalgan.
-*mo`tadil		
-tropik
-subtropik	
-subarktik
-
-131.Qaysi tabiat zonasi Yevrosiyoning va Shimoliy Amerikaning shimoliy hududlarida rivojlangan. Yoz salqin va qisqa, qish qattiq va uzoq davom etadi (7—9 oy).
-*tundra		
-o`rmon–dasht		
-dasht			
-chalacho`l
-
-132.Tyanshan tog‘ tizimining shimoliy yonbag‘rida V.M.Chupaxin glyasial-nival  landshaft mintaqasini necha metrdan o`tkazgan. ajratgan.
-* 3500-3700 m		
-2700-2900 m		
-1300-2900 m		
-800-1100 m
-
-133.Qaysi tabiat zonasi materiklarning ichki qismlarida, Shimoliy Amerikada va Osiyoning g‘arbiy qismida katta maydonini egallaydi.
-*subtropik dasht			
-subtropik o`rmon
-sernam o`rmon			
-dasht
-
-134.Qaysi tabiat zonasi Hindiston yarim orolining g‘arbiy qismi, Afrikaning Gviana qirg‘oqlari, Braziliyaning sharqiy qirg‘oqlari, Markaziy Amerika va Madagaskar orolining sharqiy qismlarida tarqalgan.
-* nam tropik o‘rmonlar		
-tropik chala cho‘llar
-quruq tropik cho‘llar		
-savannalar 
-
-135. Litosfera yuza qavatlarining suv, havo va tirik organizmlar ta’sirida o‘zgarishidan shakllanadigan va genetik jihatdan o‘zaro bog‘liq gorizontlardan tashkil topgan tabiiy tuzilmaga nima deyiladi?
-* tuproq 		
-chirindi
-nuragan jinslar		
-tog‘ jinsi
-
-136. Kimning ta’biri bilan aytganda tuproq tabiatning biokos jismidir.
-* V.I.Vernadskiy 		
-V.V.Dokuchayev
-M.V. Lomonosov		
-M.A.Glazovskaya
-
-137. Tuproq geografiyasi fanining asoschilari to’g’ri berilgn javobni toping? 
-* V.V.Dokuchayev, Sibirtsev, Glinka, Neustruyev, Koseovich 
-Dimo, A.N.Razonov, Glinka, B.V.Gorbunov
-Genurov, B.V.Gorbunov, N.V.Kimberg 
-V.I.Vernadskiy, V.V.Dokuchayev
-
-138. Maxsus tuproq georafiyasi nimalarni o‘rganadi?
-* tuproq rayonlashtirish masalalarini o‘rganadi va ma’lum hududdagi tuproqlarni ta’riflash hamda xaritalarini tuzish bilan shug‘ullanadi  
-tuproq paydo bo‘lish omillarini o‘rganadi, ularning turli tiplariga ta’rif beradi 
-geografik joylanishining umumiy hamda xususiy qonuniyatlarini aniqlaydi
-A va C javoblar to‘g‘ri
-
-139. Umumiy tuproq geografiyasi nimalarni o‘rganadi?
-* tuproq rayonlashtirish masalalarini o‘rganadi va ma’lum hududdagi tuproqlarni ta’riflash hamda xaritalarini tuzish bilan shug‘ullanadi  
-tuproq paydo bo‘lish omillarini o‘rganadi, ularning turli tiplariga ta’rif beradi  
-geografik joylanishining umumiy hamda xususiy qonuniyatlarini aniqlaydi
-B va C javoblar to‘g‘ri
-
-140. Tuproq paydo bo‘lish jarayonida moddalarning biologik doirada aylanishini aniqlang? 
-* tuproq  hosil  qilishida  organik  va  mineral  moddalarning  aylanishi 
-makro va mikroyelementlar	
-biofil elementlar  
-geologik davrda quruqlik  bilan  suv  havzasi  o‘rtasidagi  kimyoviy  moddalar  harakati   
-
-141. Katta  geologik  aylanish jarayonini aniqlang?
-* geologik davrda quruqlik  bilan  suv  havzasi  o‘rtasidagi  kimyoviy  moddalar  harakati   
-organik moddalar harakati  	
-mineral moddalar harakati
-tuproq  hosil  qilishida  organik  va  mineral  moddalarning  aylanishi
-
-142. Tuproq paydo bo‘lgandan hozirgacha o‘tgan vaqtga nima deyiladi.
-*tuproqning mutloq yoshi		
-tuproqning nisbiy yoshi
-tuproq qatlamlarining yoshi		
-tuproq vaqti
-
-143.Tuproq hosil qiluvchi jinsga nima deyiladi.
-* tuproq ona jinsi		
-tuproqning yoshi
-tuproqning mexanik tarkibi	
-tuproqning eritmasi
-
-144.Tuproqlar tarkibi asosan necha qismdan iborat.
-* 3		
-5
-7		
-8
-
-145. Eri ko‘lidan Niagara sharsharasini aylanib o‘tish uchun AQSH va Kanada chegarasida Uellend kanali qachon qurilgan.
-* 1829 yil		
-1991 yil	
-1845 yil		
-1939 yil
-
-146.Tuproqshunoslik fanining asoschisi toping.
-* V.V.Dokuchaev		
-A. Gumboldt
-CH. Darvin			
-A.Nikolaev
-
-147.Tabiiy geografiyaning nazariy asosini tashkil etuvchi geosistemalar yoki tabiiy-huddudiy komplekslar haqidagi tasavvurlarning shakllanishiga qaysi fanning muvaffaqiyatli rivojlanishi sabab bo‘ldi.
-* landshaftshunoslik		
-kartografiya
-biogeografiya		
-geologiya
-
-148.Nuqtalar o‘rniga zaruriy jumlani qo‘ying.………………yer yuzasi tabiatining bir-biridan farq qiladigan qismlariga aytiladi.
-* tabiiy-hududiy kompleks	
-okruglar
-qo‘riqxona				
-galogenlar
-
-149.Tabiiy-hududiy komplekslar qanday katta-kichiklikdagi  komplekslarga bo‘lib o‘rganiladi.
-* sayyoraviy, regional va lokal		
-kata, o‘rtacha, kichik
-yirik, o‘rta, mayda				
-quruqlik, suvlik, tog‘lik
-
-150.Erning litosfera (er po‘sti), gidrosfera, atmosfera va biosfera o‘zaro tutashgan hamda bir-biriga ta’sir etishidan vujudga kelgan tashqi qatlamini belgilang.
-* geografik qobiq		
-materik
-landshaft			
-urochisha
-
-151.Geografik qobiqning bir butunligini nima ta’minlaydi.
-* moda va energiya almashinuvi		
-insonning mavjudligi
-suvning majudligi			
-tuproqning hosil bo‘lishi
-
-152.Volga daryosi suvining kamayishi natijasida daryo quyiladigan joyida Kaspiy dengizining suv sathi ham so‘nggi 30-40 yil mobaynida deyarli necha metrga pasaydi.
-* 3 m ga		
-pasaymadi		
-10 m ga		
-8 m ga
-
-153.Tabiatda suvning agregat holati necha xil bo‘ladi.
-* 3 xil		
-1 xil		
-2 xil		
-5 xil
-
-154.Geografik qobiqda ro`y beradigan barcha jarayon va harakatlarning energiya manbalarini ko‘rsating.
-*erning ichki va Quyosh energiyasi		
-neft, gaz. ko‘mir
-Quyosh va shamol energiyasi			
-Qalqish va shamol energiyasi
-
-155.Geografik qobiqda organik hayotning energiya manbaini belgilang.
-* Quyosh energiyasi		
-erning ichki energiyasi
-shamol energiyasi		 
-qalqish energiyasi
-
-156.Atmosfera sirkulyasiyasining asosiy geografik ahamiyatini belgilang.
-* Er sharining bir joyidan ikkinchi joyiga nam va issiqlik olib boradi
-insonlarga energiya ishlab chiqaradi
-tog‘ jinslarini emiradi
-Er sharining bir joyidan ikkinchi joyiga organik olib boradi
-
-157.Geografik qobiqda suvning katta aylanma harakati qanday shaklda kechadi.
-* gidrosfera-atmosfera-litosfera-gidrosfera
-gidrosfera-litosfera-gidrosfera
-litosfera-atmosfera-litosfera-gidrosfera
-atmosfera-litosfera-gidrosfera-atmosfera
-
-158.M.I.Lvovich ma’lumotlariga ko‘ra okeanlar, dengizlar, daryolar, ko‘llar, muzliklar, qor qoplami hamda tuproq va o‘simliklar yuzasidan yiliga qancha miqdorda suv bug‘lanadi.
-* 525 100 ming km3		
-375 100 ming km3
-102 100 ming km3		
-755 100 ming km3
-
-159.Yer sharidagi jami bug‘lanishning necha foizi okean yuzasiga to‘g‘ri keladi. 
-* 86,0%		
-60,0%		
-96,0%		
-46,0%
-
-160.Yer osti suvlarining qayta tiklanishi uchun taxminan necha yil davom etadi
-*5000 yil		
-3000 yil		
-2000 yil		
-1000 yil
-
-161.Butun gidrosferada o‘rtacha har necha yilda suvi yangilanadi.
-* 2800 yil		
-1800 yil		
-5000 yil		
-7000 yil
-
-162.Akademik V.I. Vernadskiy Quyosh energiyasini kimyoviy energiyaga aylantiruvchi bosh omil sifatida nimani aytadi.
-* tirik organizmlar		
-Quyosh energiyasi
-magmatizm				
-metamorfizm
-
-163.Tirik organizmlar tarkibida qanchadan ortiq kimyoviy elementni uchratishimiz mumkin.
-* 80	
-30		
-15		
-25
-
-164.Tabiiy resurslar insonning ta’sir etish xarakteriga qarab qanday turlarga bo‘linadi.
-* tugaydigan va tugamaydigan			
-paydo bo‘ladigan va bo‘lmaydigan
-ochiq va yopiq					
-qashshoq va boy
-
-165.Tugaydigan resurslar o‘z navbatida qanday turlarga ajratiladi.
-* qaytadan tiklanmaydigan va tiklanadigan
-oxrigigacha tugaydigan va tugamaydigan
-ochiq va yopiq
-neft va organic
-
-166.Qaytadan tiklanmaydigan tabiiy resurslarni belgilang.
-*neft, toshko‘mir			
-gaz, tuproq
-toshko‘mir, o‘simlik			
-neft, hayvonot dunyosi
-
-167.Tuproqning chirindi qavatining bir santimetri hosil bo‘lishi uchun taxminan necha yil vaqt talab qilinadi.
-* 300–600 yil			
-30-40 yil 
-1000 yildan ko‘p		
-10-15 yil
-
-168.Tugamaydigan tabiiy resurslarni belgilang.
-* iqlim, suv			
-gaz, tuproq
-toshko‘mir, o‘simlik		
-neft, hayvonot dunyosi
-
-169.Kosmik resurslarni belgilang.
-* quyosh radiatsiyasi va qalqish energiyasi		
-iqlim va suv
-kosmik changlar va bug‘				
-radiatsiya va tuproq	
-    
-171.Nima sababdan insonning tabiatga bo‘lgan ta’sirining chuqurlashib va masshtabi kengayib ketdi.
-* fan-texnika inqilobi ro‘y berishi
-insonlarning ko‘payib ketishi
-barcha moddalarning topilishi
-davlatlarning payo bo‘lishi
-
-172.Qaysi tabiiy resurslarni muhofaza qilishning asosiy yo‘llari– ulardan rejali va ilmiy asosda oqilona foydalanish hamda keng miqyosda takroriy ishlab chiqarishni amalga oshirishdan iborat.
-* tiklanmaydigan			
-tugamaydigan
-tiklanadigan			
-rangli metallar
-
-173.Afrikadagi Oldova darasidan topilgan odamlar yasagan mehnat qurollarining yoshi taxminan necha yilga teng.
-* 3-3,5 mln		
-1-1,5 mln
-20-35 mln		
-7-8 mln
-
-174.Hozirgi ongli odamning paydo bo‘lishi tahminan necha yil ilgari ro‘y bergan.
-* 100 ming yil		
-10 000 ming yil
-1 mln yil		
-50 ming yil
-
-175.Quyidagilardan irqiy belgilarni ko‘rsating.
-*soch, ko‘z, lab		
-fikr, teri rangi, dudoq
-teri rangi, tish, ko‘z	
-oyoq, qo‘l, ko‘z
-
-176.Yevropoid va mongoloid irqlari oralig‘idagi irqlarni belgilang.
-* yapon, polineziya		
-efiop, sudan
-sudan, janubiy hind		
-janubiy mongoloid, sudan
-
-177.Yer yuzi aholisining qancha qismi dengizdan  200 km gacha bo‘lgan hududlarda yashaydi
-* yarmi		
-uchdan bir qismi
-to‘rtdan bir qismi		
-o‘ndan bir qismi
-
-178.Eramiz boshlarida dunyo aholisi qancha kishini tashkil etgan.
-* 200 mln		
-300 mln
-1 mlrd		
-2 mlrd
-
-179.BMT ma’lumoti bo‘yicha, aholi o‘sishi hozirgi sur’atlarda borsa 2050 yilga borib necha kishiga yetadi.
-* 9 mlrd		
-8 mlrd
-11 mlrd		
-12 mlrd
-
-180.Jahon er fondining necha foiz yerida haydalib dehqonchilik qilinadi
-* 11% dan ortiqroq		
-23%
-33% dan ortiqroq		
-18% dan ortiqroq
-
-181.Yerdagi jami chuchuk suvning necha foizi muzliklarda to‘plangan.
-*68,7%		
-32,4%
-16,5%		
-98%
-
-182.Jahon er fondining 23%ini qanday erlar egallab yotadi.
-* o‘tloq va yaylovlar		
-obikor erlar
-aholi punktlari		
-sanoatlashgan hududlar
-
-183.Tadqiq qilinayotgan obyektni kelgusidagi holati haqidagi ma’lumotlarni olish yoki bashoratni ishlab chiqish jarayoniga nima deyiladi.
-* bashoratlashtirish			
-bashorat
-geografik bashorat			
-tahlil qilish
-
-184.Tadqiq qilinayotgan obyektning kelajakdagi holati haqida ilmiy asoslangan xulosa ishlab chiqish yoki bashoratlashtirish natijasiga nima deyiladi.
-* bashorat			
-geografik bashorat
-tahlil qilish		
-bashoratlashtirish
-
-185.Tabiiy muhit va hududiy ishlab chiqarish tizimlarining o'zgarishidagi xususiyatlarni ilmiy asoslangan holda oldindan ko‘ra bilishga nima deyiladi.
-* geografik bashorat			
-tahlil qilish
-geografik bashorat		
-bashoratlashtirish
-
-186.Bashorat obyektlarining miqyosiga ko'ra qanday turlarga bo`linadi.
-* mahalliy, sayyoraviy, mintaqaviy		
-katta, o`rta, mayda
-mayda, ulkan, keng			
-o`rta, o`rtacha, global
-
-187. Lisichkin V.A. bashorat ishlab chiqishni to'la davrini necha bosqichga bo'ladi.
-*3		
-4		
-5		
-6
-
-188.Uzoq  muddatli bashoratlar qancha muddatga tuziladi.
-* 1-yildan 5-yilgacha			
-5-yildan 15-yilgacha
-1 oydan bir yilgacha		
-15-yil va undan ko'proq
-
-189.Bashoratlashtirishning qaysi usulida ma’lum bir tizimning boiajak faoliyati boshqa tizimning faoliyatiga qarab aniqlanadi.
-* Tizimlararo tahlil		
-Geografik baholash
-Landshaft indikatsiyasi	
-Paleogeografik
-
-190.Bashoratlashtirishning qaysi usulida tabiiy muhit holatining o'zgarishini tabiat tarkiblari o'rtasidagi fazoviy — vaqt korrelyatsion aloqalariga asoslangan.
-* Landshaft indikatsiyasi		
-Tizimlararo tahlil
-Geografik baholash			
-Paleogeografik
-
-191.Bashoratlashtirishning qaysi usulida hodisa va jarayonlar haqida ma’lumotlarni tahlil qilish va ular asosida obyektni bo'lajak holati bashorat qilinadi.		
-* statistic				
-tizimlararo tahlil
-geografik baholash		
-paleogeografik
-
-192. Operativ  muddatli bashoratlar qancha muddatga tuziladi.
-* 1-oygacha				
-5-yildan 15-yilgacha
-1 oydan bir yilgacha			
-15-yil va undan ko'proq
-
-193.Monitoring tushunchasining lug`aviy ma’nosini toping.
-* kuzatish, nazorat qilish		
-kutish, ajratish
-qarash, qarashlar tizimi		
-topish, intilish
-
-194.“Monitoring” termini birinchi marotaba BMTning nechanchi yilgi konferensiyasida ishlatilgan.
-* 1972 yil			
-1976 yil
-1974 yil			
-1982 yil
-
-195.BMT atrof-muhitni muhofaza qilish bo‘yicha 1972 yilgi konferensiyasi qaysi shaharda bo`lib o`tgan.
-* Stokgolm			
-Xelsinki
-Nevada			 
-Moskva
-
-196.“Monitoring” termini birinchi marotaba 1972-yili BMT atrof-muhitni muhofaza qilish bo‘yicha Stokgolm konferensiyasida kim tomonidan kiritildi
-* R.Menn		
-H.Merlin
-K.Adam		
-F.Smit
-
-197.Monitoringning asosiy maqsadini belgilang.
-* tabiiy muhitning inson faoliyati ta’sirida o‘zgarishini kuzatish, olingan ma’lumotlar asosida baholash va tegishli boshqaruv apparatini ishga solish
-dunyo miqyosida bo‘ladigan o‘zgarishlarning aholi soni va faoliyatiga ta’sirini baholash
-turli xatarli kasalliklarni tarqatuvchi manbalarni aniqlash
-inson salomatligi uchun zararli bo‘lgan chiqindi va moddalar bo‘yicha kuzatish olib borish
-
-198.Monitoring tashkil qilishning bioekologik, geoekologik va biosfera bosqichlari kim tomonidan ajratilgan.
-* I.P.Gerasimov			
-H.Merlin
-K.Adam				
-F.Smit
-
-199.Monitoringning qaysi  bosqichida yoki pog‘onasida atrof-muhitning ifloslanishi uning inson salomatligiga ta’siri nuqtayi nazaridan kuzatiladi.
-* bioekologik			
-geoekologik
-biosfera			
-atrof-muhit
-
-200.Monitoring qaysi bosqichining asosiy vazifasi atrof-muhitni dunyo miqyosida kuzatishdan iborat.
-*biosfera			
-bioekologik
-geoekologik			
-pog`onali

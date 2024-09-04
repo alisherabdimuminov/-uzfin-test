@@ -1,858 +1,299 @@
-1. Qaysi og‘zaki bayonqilish metodi nisbatan qisqa hajmdagi o‘quv materialini o‘rganishda qo‘llaniladi
+Qaysi og‘zaki bayonqilish metodi nisbatan qisqa hajmdagi o‘quv materialini o‘rganishda qo‘llaniladi
 * Hikoya va tushuntirish
 Ma’ruza
 Suhbat va hikoya
 Ma’ruza va tushuntirish
 
-2. Didaktika nima haqida bahs yuritadi?
+Didaktika nima haqida bahs yuritadi?
 * Ta’lim jarayonining ilmiy, nazariy, uslubiy va amaliy asoslarini, ya’ni ta’lim, bilim berish, o’qitish nazariyasi haqida baxs yuritadi
 Ta’lim jarayoni haqida baxs yuritadi
 Ta’limtarbiya haqida baxs yuritadi
 Maktab ta’limi haqida bahs yuritadi
 
-3. Darsda o‘qituvchining e’tibori bir necha o‘quvchiga qaratilsa, bu vaqtda qolgan o‘quvchilar mustaqil ishlasalar, ta’limning bunday shakli qanday ataladi
+Darsda o‘qituvchining e’tibori bir necha o‘quvchiga qaratilsa, bu vaqtda qolgan o‘quvchilar mustaqil ishlasalar, ta’limning bunday shakli qanday ataladi
 * Individualguruhli
 Individual
 Ommaviy
 Guruhiy
 
-4. Sinf dars tizimining asoschisini aniqlang
+Sinf dars tizimining asoschisini aniqlang
 * Ya.A.Komenskiy
 Suqrot
 Ibn Sino
 Abdulla Avloniy
 
-5. Ta’lim jarayonining meyoriy hujjatlari …
+Ta’lim jarayonining meyoriy hujjatlari …
 * DTS, o`quv reja, o`quv dastur, darslik
 Darslik, qo`llanma, ta’lim usullari, ish reja
 O`quv reja, dastur, KTMD
 O`quv dastur, “Ta`lim to`g`risida”gi qonun, DTS, darslik
 
-6. Didaktikaning asosiy kategoriyalarini ko`rsating
+Didaktikaning asosiy kategoriyalarini ko`rsating
 * Dars, bilim, ko`nikma, malaka, dars o`tish, ilm, metod, rivojlantirish
 bilim, ko`nikma, malaka, tarbiyalash, rag`batlantirish
 Dars, bilim, ko`nikma, jarayon, muqobillik, samaradorlik
 dars o`tish, ilm, metod, jarayon, boshqarish, tuzulish
 
-7. Mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga quyidagilardan qaysi biri kiradi
+Mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga quyidagilardan qaysi biri kiradi
 * Ijtimoiy ahamiyatli mehnatning o‘quvchilarning qiziqishlari bilan birga qo‘shib olib borilishi
 Tumanlardagi ishlab chiqarish sharoitari
 Ta’lim muasasasidagi an’analar
 Ta’lim muasasasining moddiy bazasi
 
-8. O‘zida uyda va maktabda o‘zo‘ziga xizmat, maktab ta’tili vaqtida daladagi yozgi ishlar, maktab qurilishi jamoasidagi ishlar qaysi mehnat turiga taalluqli
+O‘zida uyda va maktabda o‘zo‘ziga xizmat, maktab ta’tili vaqtida daladagi yozgi ishlar, maktab qurilishi jamoasidagi ishlar qaysi mehnat turiga taalluqli
 * Ijtimoiy foydali
 O‘quv
 Ishlab chiqarish
 Kundalik
 
-9. Didaktikaning so’zmaso’z tarjimasi nima?
+Didaktikaning so’zmaso’z tarjimasi nima?
 *Didaktika grekcha so’z bo’lib «o’qitish» «o’rgatuvchi» degan ma’nolarni anglatadi
 O’qitish nazariyasi demakdir
 Didaktika grekcha so’z bo’lib, o’qitish demakdir
 Didaktika grekcha so’z bo’lib  «o’rgatuvchi» degan ma’nolarni anglatadi
 
-10. Ko‘pchilik tadqiqotchilarning fikricha, jamoaning shakllanishi nechta bosqichda amalga oshiriladi
+Ko‘pchilik tadqiqotchilarning fikricha, jamoaning shakllanishi nechta bosqichda amalga oshiriladi
 * To‘rt
 Besh
 Ikki
 Uch
-11. Dars, praktikum, seminar, amaliy mashg‘ulot va  konsultatsiyalar – bu:
+
+Dars, praktikum, seminar, amaliy mashg‘ulot va  konsultatsiyalar – bu:
 * Ta’limni tashkil etish shakllari
 Ta’lim usullari
 Ta’lim qonuniyatlari va tamoyillari
 Ta’lim vositalari
 
-12. Bilim nima?
+Bilim nima?
 * Bilimodamlarning ijtimoiy tarixiy amaliyot jarayonida to’plagan umumlashgan tajribasidir
 Bilimo’quvchilar tomonidan o’zlashtirilgan ko’nikma va malakalar yig’indisidir
 Bilim amaliyotdan sizga idrok, tasavvur va tafakkur asosida hosil bo’lib, yana amaliyotga qaytib boradigan majmuadir
 Bilim buta’lim demakdir
 
-13. Ko’nikma nima?
+Ko’nikma nima?
 * O’quvchilarning olgan bilimlariga asoslanib bajaradigan xattixarakatlar yig’indisi
 Ko’nikma bu bilimlar asosida hosil bo’ladigan xattixarakatlar yig’indisidir
 Ko’nikma bu malaka asosida hosil bo’ladi
 Ko’nikma bu to’plangan tajribadir
 
-14. Qadim zamonlardan mavjud bo‘lgan o‘qitishning eng qadimgi shakli – bu:
+Qadim zamonlardan mavjud bo‘lgan o‘qitishning eng qadimgi shakli – bu:
 * Individual
 Sinfdars
 Ma’ruzaseminar
 Laboratoriya
 
-15.Quyidagilardan qaysilari ma’ruzaseminar tizimining asosiy shakllariga kiradi? 1) laboratoriya;  2) ma’ruza; 3) fan to‘garaklari; 4) seminar; 5) amaliy; 6) olimpiada
+Quyidagilardan qaysilari ma’ruzaseminar tizimining asosiy shakllariga kiradi? 1) laboratoriya;  2) ma’ruza; 3) fan to‘garaklari; 4) seminar; 5) amaliy; 6) olimpiada
 *1,2,4,5
 1,2,4,6
 1,2,4, 5, 6
 2,3,4,5,6
 
-16.O‘qitishning individual tizimiga O‘rta Osiyolik qaysi mutafakkir qarshi chiqqan
+O‘qitishning individual tizimiga O‘rta Osiyolik qaysi mutafakkir qarshi chiqqan
 * Abu Ali ibn Sino
 Abu Rayxon Beruniy
 Al Xorazmiy
 Abu Nasr Forobiy
 
-17.Qaysi qatorda rag‘batlantirish va motivatsiyalash metodlari to‘g‘ri berilgan
+Qaysi qatorda rag‘batlantirish va motivatsiyalash metodlari to‘g‘ri berilgan
 * Mukofotlash, tanbeh, musobaqa
 Mashq, musobaqa, nasihat
 Hikoya , tushuntirish, tanbeh
 Namuna, o‘rgatish, ma’ruza
 
-18. Qaysi javobda tarbiya jarayonining xususiyatlari to`g`ri ko`rsatilgan?
+Qaysi javobda tarbiya jarayonining xususiyatlari to`g`ri ko`rsatilgan?
 *Aniq maqsadga yo`naltirilgan, ko`p qirrali, uzoq muddatli, yaxlit tizimli, ikki tomonlama aloqa, qaramaqarshiliklardan iborat jarayon
 Ma’lum maqsadga qaratilgan jarayon
 Ma’lum muddat davom etuvchi, o`quvchini bilim va malakalar bilan qurollantiruvchi jarayon
 Aniq maqsadga yo`naltirilgan, qisqa muddatli jarayon
 
-19.Qaysi asarda dehqonlarga nisbatan: “O‘zing bular bilan aralashgin, qo‘shilgin, tilda yaxshi so‘zla, yuzungni ochiq tut”deya ta’rif berilgan
+Qaysi asarda dehqonlarga nisbatan: “O‘zing bular bilan aralashgin, qo‘shilgin, tilda yaxshi so‘zla, yuzungni ochiq tut”deya ta’rif berilgan
 *Qutadg‘u bilig
 Hayrat ulabror
 Mahbub ulqulub
 Hibat ulhaqoyiq
 
-20.Mehnat tarbiyasi mazmunida aks etuvchi xo‘jalikiqtisodiy omillarni aniqlang. 1)maktablarning imkoniyatlari; 2)o‘quvchilarning yosh xususiyatlari; 3)maktablarning moddiy bazasi; 4)o‘qituvchi kadrlar; 5)ishlab chiqarish sharoitlari; 6)maktablardagi an’analar
+Mehnat tarbiyasi mazmunida aks etuvchi xo‘jalikiqtisodiy omillarni aniqlang. 1)maktablarning imkoniyatlari; 2)o‘quvchilarning yosh xususiyatlari; 3)maktablarning moddiy bazasi; 4)o‘qituvchi kadrlar; 5)ishlab chiqarish sharoitlari; 6)maktablardagi an’analar
 *1,3,4,5,6
 1,2,4, 5, 6
 2,3,4,5,6
 3,4,5,6,
 
-21.Kadrlarga bo`lgan ehtiyojni, shuningdek, ularning tayyorgarlik sifati va saviyasiga nisbatan qo`yiladigan talablarni belgilash, kadrlar tayyorlash tizimini moliya va moddiy texnik jihatdan ta’minlash vazifasi kadrlar tayyorlash milliy modelining qaysa tarkibiy qismi tomonidan amalga oshiriladi?
+Kadrlarga bo`lgan ehtiyojni, shuningdek, ularning tayyorgarlik sifati va saviyasiga nisbatan qo`yiladigan talablarni belgilash, kadrlar tayyorlash tizimini moliya va moddiy texnik jihatdan ta’minlash vazifasi kadrlar tayyorlash milliy modelining qaysa tarkibiy qismi tomonidan amalga oshiriladi?
 * Ishlab chiqarish
 Davlat va jamiyat
 Uzluksiz ta’lim
 Fan
 
-22.Ta’limni tashkil etishning noan’anaviy shakillari qaysi javobda ko`rsatilgan?
+Ta’limni tashkil etishning noan’anaviy shakillari qaysi javobda ko`rsatilgan?
 * Konferensiya, mushoira, munozara , debat,
 Seminar, ma’ruza, munozara
 Labaratoriya mashg`uloti, Seminar
 Seminar, ma’ruza, munozara, labaratoriya mashg`uloti
 
-23. Hamkorlikda o`qitish modeli, modellashtirish, o`rganishning tadqiqot modeli – bular nima deb ataladi?
+Hamkorlikda o`qitish modeli, modellashtirish, o`rganishning tadqiqot modeli – bular nima deb ataladi?
 * O`qitishning noan’anaviy shakli
 O`qitishning ananaviy shakli
 Ta’lim metodlar
 Dars samaradorligini oshiruvchi vositalar
 
-24.Mehnat tarbiyasini tashkil etish shakllarini aniqlang. 1)muammoli; 2)hasharlar uyushtirish; 3)izlanuvchantadqiqotli; 4)mehnat bayrami; 5)konstruktorlash;  6)ko‘kalamzorlashtirish; 7)maktab binosoni ta’mirlash
+Mehnat tarbiyasini tashkil etish shakllarini aniqlang. 1)muammoli; 2)hasharlar uyushtirish; 3)izlanuvchantadqiqotli; 4)mehnat bayrami; 5)konstruktorlash;  6)ko‘kalamzorlashtirish; 7)maktab binosoni ta’mirlash
 *2,4,6,7
 1,2,4,5,7
 1,2,4,6
 1,3,5,6,7
 
-25.Qaysi mehnat turi o‘quvchilarning moddiy boyliklar yaratishdagi ishtiroki, bu jarayonda ularning ishlab chiqarish munosabatlariga kirishishlarini ko‘zda tutadi
+Qaysi mehnat turi o‘quvchilarning moddiy boyliklar yaratishdagi ishtiroki, bu jarayonda ularning ishlab chiqarish munosabatlariga kirishishlarini ko‘zda tutadi
 * Ishlab chiqarish
 O‘quv
 Ijtimoiy foydali
 O‘zo‘ziga xizmat
 
-26. …o‘quvchiga u yoki bu kasbning ijtimoiyiqtisodiy, psixofiziologik o‘ziga xosliklari haqida aniqlangan  bilimlarni berish maqsadida amalga oshiriladi.
+…o‘quvchiga u yoki bu kasbning ijtimoiyiqtisodiy, psixofiziologik o‘ziga xosliklari haqida aniqlangan  bilimlarni berish maqsadida amalga oshiriladi.
 * Kasbiy bilim
 Kasbiy diagnostika
 Kasbiy konsultatsiya
 Kasb tanlash
 
-27.Quyidagilarning qaysi biri mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga kirmaydi?
+Quyidagilarning qaysi biri mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga kirmaydi?
 * Mehnat faoliyatining majburiy emasligi
 Mehnat faoliyatining hammabopligi va qo‘ldan kela olishi
 Bolalar mehnatining o‘quvtarbiyaviy vazifalar bilan bog‘lig‘ligi
 Ijtimoiy ahamiyatli mehnatni o‘quvchilarning qiziqishlari bilan birga qo‘shib olib borilishi
 
-28.Darsga qo`yilgan talablar qaysilar?
+Darsga qo`yilgan talablar qaysilar?
 * Tarbiyaviy, didaktik, tashkiliy
 Bilim berish, nazorat qilish, amaliyot
 Tashkil etish, maqsad, yakunlash
 O`qitish, yozdirish, bajarish
 
-29.Mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga quyidagilardan qaysi biri kiradi
+Mehnat tarbiyasini tashkil etishning pedagogik shartsharoitlariga quyidagilardan qaysi biri kiradi
 * Ijtimoiy ahamiyatli mehnatning o‘quvchilarning qiziqishlari bilan birga qo‘shib olib borilishi
 Tumanlardagi ishlab chiqarish sharoitari
 Ta’lim muasasasidagi an’analar
 Ta’lim muasasasining moddiy bazasi
 
-30.O‘zida uyda va maktabda o‘zo‘ziga xizmat, maktab kanikuli vaqtida daladagi yozgi  ishlar, maktab qurilishi jamoasidagi  ishlar qaysi mehnat  turiga taalluqli?
+O‘zida uyda va maktabda o‘zo‘ziga xizmat, maktab kanikuli vaqtida daladagi yozgi  ishlar, maktab qurilishi jamoasidagi  ishlar qaysi mehnat  turiga taalluqli?
 * Ijtimoiy foydali
 O‘quv
 Ishlab chiqarish
 Kundalik
 
-31.Quyidagilardan qaysilari jazolash metodlariga kiradi
+Quyidagilardan qaysilari jazolash metodlariga kiradi
 * Tanbeh berish, uyaltirish, ogohlantirish
 O‘zo‘zini baholash, uyaltirish, musobaqa
 Mashq , pedagogik talab, xayfsan berish
 Ma’ruza, o‘git, etik suhbat
 
-32.Kerakli so’zni topib qo‘ying. ... bu aniq xattiharakat bilan u yoki bu kishilarning ongi va his tuyg‘usiga ta’sir ko‘rsatish
+Kerakli so’zni topib qo‘ying. ... bu aniq xattiharakat bilan u yoki bu kishilarning ongi va his tuyg‘usiga ta’sir ko‘rsatish
 * O‘rgatish
 Mashq
 Namuna
 Topshiriq
 
-33.Texnik vositalardan foydalanib kinofilm, diofilmlarni namoyish qilish qaysi ko`rgazmalilikka kiradi?
+Texnik vositalardan foydalanib kinofilm, diofilmlarni namoyish qilish qaysi ko`rgazmalilikka kiradi?
 * demonstratsiya
 Illustratsiya
 Amaliy
 Mustaqil ish
 
-34. Tizimlilik didaktik kategiriya sifatida kim tomonidan asoslab berilgan?
+Tizimlilik didaktik kategiriya sifatida kim tomonidan asoslab berilgan?
 *Komenskiy
 Platon
 Makarenko
 Beruniy
 
-35.Tarbiya vositalari – bu tarbiya usullari…
+Tarbiya vositalari – bu tarbiya usullari…
 *Yig‘indisi
 Yo‘li
 Maqsadi
 Mazmuni
 
-36.Faoliyatni tashkil etish va xulqatvorni shakllantirish metodlarini toping
+Faoliyatni tashkil etish va xulqatvorni shakllantirish metodlarini toping
 * O‘rgatish, pedagogik talab, tarbiyalovchi vaziyat
 O‘rgatish, pedagogik talab, tarbiyalovchi vaziyat
 Hikoya, tushuntirish, ma’ruza
 Ogohlantirish, etik suhbat, hikoya
 
-37.Aniqlash va o‘lchash nima deb ataladi?
+Aniqlash va o‘lchash nima deb ataladi?
 * Tekshirish
 Baholash
 Hisobga olish
 Nazorat
 
-38.O‘qitishning muayyan bir davrda o‘quvchilar va o‘qituvchi faoliyatini umumlashtirib xulosalash nima deb ataladi?
+O‘qitishning muayyan bir davrda o‘quvchilar va o‘qituvchi faoliyatini umumlashtirib xulosalash nima deb ataladi?
 * Hisobga olish
 Nazorat qilish
 Tekshirish
 Baholash
 
-39.Aniq jarayonlarni raqamlar tizimi yordamida modellashtirish nima deb ataladi?
+Aniq jarayonlarni raqamlar tizimi yordamida modellashtirish nima deb ataladi?
 * Shkalalash
 Test
 Reyting
 Baholash
 
-40.Dogmatik ta’lim o‘rniga qanday ta’lim turi qo‘llanila boshlandi?
+Dogmatik ta’lim o‘rniga qanday ta’lim turi qo‘llanila boshlandi?
 * Tushuntiruvchinamoyishli ta’lim
 Muammoli ta’lim
 Dasturlashgan ta’lim
 Masofaviy o‘qitish
 
-41.Ta’lim metodlarining asosiy funktsiyalarini ko‘rsating
+Ta’lim metodlarining asosiy funktsiyalarini ko‘rsating
 * Motivatsiyali, rivojlantiruvchi, ta’limiy, tashkiliy
 Rivojlantiruvchi, axboriy, kommunikativ
 Bashorat qilish, rivojlantiruvchi, ta’limiy, tashkiliy
 Tarbiyaviy, rivojlantiruvchi, kommunikativ, tashkiliy
 
-42.Kimlar ahamiyati bo‘yicha ta’lim metodlarini klassifikatsiya qilgan
+Kimlar ahamiyati bo‘yicha ta’lim metodlarini klassifikatsiya qilgan
 * M.A.Danilov, B.P.Esipov
 I.YA.Lerner, M.N.Skatkin
 E.YA.Golant, N.M.Verzilin
 M.A.Danilov, M.N.Skatkin
 
-43. Malaka nima?
+Malaka nima?
 *Malaka bilan bir xil ongli xattixarakatlarning ko’p marta takrorlanishi asosida hosil bo’ladigan avtomatik jarayondir
 Malaka bu to’plangan tajribadir
 Malaka bilan bir xil xattiharakatlarning ko’p marta takrorlanishi asosida
 Malaka butajribadir
 
-44. Ta’lim jarayonida bilish faoliyatining bosqichlarini ko‘rsating
+Ta’lim jarayonida bilish faoliyatining bosqichlarini ko‘rsating
 * Idrok qilish, fahmlab(anglab olish), mustahkamlash, ko‘nikma ,malakalarni hosil bo‘lishi, ularni amaliyotda qo‘llash
 Maqsad, vazifa, mazmun, metod, shakl, natija
 O‘qitish, o‘qish, yangi bilim , ko‘nikma , malakalarni egallsh, amaliyotda qo‘llash, tekshirish, nazorat qilish
 Idrok qilish, o‘qish, amaliyotda qo‘llash, tekshirish
 
-45.O‘quv ishini tashkil etishning shakllaridan hozirgi maktablar tajribasida qo‘llanilayotganlari qaysi guruhda berilgan
+O‘quv ishini tashkil etishning shakllaridan hozirgi maktablar tajribasida qo‘llanilayotganlari qaysi guruhda berilgan
 * Dars, praktikumlar, seminarlar, laborotoriya mashg‘ulotlari, konsultatsiyalar, uy vazifalari, fakultativ mashg‘ulotlar
 Laboratoriya, brigada, repititorlik, belllankaster usuli, hikoya, tushuntirish
 Dars, tushuntirish, mashg‘ulotlari, konsultatsiyalar, uy vazifalari, fakultativ mashg‘ulotlar
 Amaliy mashg‘ulot, seminar, laborotoriya, ma’ruza, muammoli, dasturlashgan, kompyuterlashgan ta’lim
 
-
-
-46. O‘qitish jarayoni nima?
+O‘qitish jarayoni nima?
 *Bu ikki yoqlama boshqariladigan maqsadga muvofiq amalga oshiriladigan pedagogik jarayon
 Bu – bilim,ko‘nikma, malaka hosil qilish jarayoni
 O‘quvchilarning mustaqil ishlarini boshqarishda o‘qituvchilarning rahbarligi
 O‘qituvchining tartiblangan faoliyati
 
-47. Qaysi so‘z metod tushunchasining mohiyatini ochib beradi
+Qaysi so‘z metod tushunchasining mohiyatini ochib beradi
 * Maqsadga erishish usuli
 Uslubiylik
 Tadqiq etish
 Birgalikdagi faoliyat
 
-48.Darslik nima?
+Darslik nima?
 * Darslik muayyan o’quv predmeti mazmunini o’quv dasturida ko’rsatilgan hajmda, didaktik talablarga muvofiq ravishda batafsil bayon qilib beradigan o’quv kitobi sanaladi
 O’quv predmetidir
 O’quv qo’llanmasi
 Dars jarayoning asosiy o’quv quroli
 
-49.Ta’limning ilmiy bo`lishi, ta’limdagi onglilik va faol harakatda bo`lish, ta’lim jarayononing ko`rsatmali bo`lishi – bular nima deb ataladi?
+Ta’limning ilmiy bo`lishi, ta’limdagi onglilik va faol harakatda bo`lish, ta’lim jarayononing ko`rsatmali bo`lishi – bular nima deb ataladi?
 * Ta’lim prinsplari
 Ta’lim metodlari
 Ta’lim vositalari
 Ta’limni tashkil etish shakllari
 
-50.Inson ongini aks ettiruvchi barcha ijobiy, ruhiy, intellectual fazilatlar majmuasi bu …
+Inson ongini aks ettiruvchi barcha ijobiy, ruhiy, intellectual fazilatlar majmuasi bu …
 * Ma’naviyat
 Madaniyat
 Ma’rifat
 Adolat
-
-51.Reja tuzish, ularni bayon etish...  Bu erda gap metod haqida borayaptimi yoki usul haqidami
-* Usul
-Shakl
-Metod
-Metod va usul
-52. Amaliy metod qanday bosqichlardan iborat bo‘ladi?
-* O‘qituvchining tushuntirishi, ko‘rsatish, proba,bajariladigan ishlar, nazorat
-Tushuntirish, suhbat ko‘rsatib berish
-O‘qituvchining tushuntirishi, takrorlash, bajariladigan ishlar, nazorat
-Harakatlarni bajarish, muvaffaqqqiyat natijalarini hisobga olish, takrorlash
-
-53.Ta’limning amaliy metodlarini ko‘rsating
-* Mashq, laboratoriya, amaliy, didaktik o‘yinlar
-Ma’ruza, laboratoriya, munozara, tushuntirish
-Demonstratsiya, illyustratsiya, kitob bilan ishlash
-Hikoya,   tushuntirish, mashq, amaliy
-
-54.Illyustrativ metoddan foydalanishning tarbiyaviy ahamiyati nimadan iborat?
-*Ko‘rish va eshitish madaniyatini shakllantirish
-O‘rganilayotgan materialni dastlabki idrok etish
-Analizatorlar faoliyatini faollashtirish
-Estetik didni shakllantirish
-
-55.Sinf deb nimaga aytiladi?
-*Yoshi va bilimi jihatidan bir xil bo’lgan muayyan o’quvchilar guruhiga aytiladi
-Bir guruh o’quvchilar yig’indisiga aytiladi
-Bir sinf o’quvchilar jamoasiga aytiladi
-O’quvchi boshchiligidagi jamoaga aytiladi
-
-56.Quyidagi metodlardan qaysi biri bilimlarni berish, nazorat qilish, mustahkamlash, umumlashtirish, tizimlashtirishga xizmat qiladi
-*Videometod
-Demonstratsiya
-Illyustratsiya
-Mashqlar
-
-57.Pedagogikaning ilmiytadqiqot metodlarini tanlang.
-*Suhbat, test, eksperiment, kuzatish
-Mashq, lobarotoriya, suhbat, sotsiologik metod
-Ma’ruza, tushuntirish, kuzatish,  illyustratsiya
-Hikoya, maktab hujjatlarini o‘rganish, anketa, test
-
-58.Pedagogikaning qaysi sohasi shaxsi va faoliyatida nuqsoni bor bolalarni o‘qitish va tarbiyalash bilan shug‘ullanadi?
-*Korrektsion pedagogika
-Maktab pedagogikasi
-Xalq pedagogikasi
-Kasbiy pedagogika
-
-59.…  bu ta’limtarbiya natijasida olingan va tizimlashtirilgan bilim, hosil qilingan ko‘nikma va malakalar hamda shakllangan dunyoqarashlar majmuidir
-*Ma’lumot
-O‘qish
-Rivojlanish
-Tarbiya
-
-60.Ilmiy pedagogika nechanchi asrda paydo bo‘ldi?
-*XVII asrda
-XVI asrda
-XVIII asrda
-XIX asrda
-
-61.Pedagogikaning obekti – bu...
-*Bola, inson
-Tarbiya jarayoni
-Pedagogik faoliyat
-Pedagogik aksiologiya
-
-62.Dars deb nimaga aytiladi?
-*Dars o’quv ishlarining asosiy tashkiliy shakli hisoblanadi
-O’quvchilar bilan olib boriladigan mashg’ulot
-Ta’limtarbiya bilan shug’ullanish ishlariga aytiladi
-Ta’limtarbiya bilan shug’ullanish ishlariga aytiladi
-
-63.… – yuqori malakali mutaxassislar tayyorlovchi va ulardan foydalanuvchi, ilg‘or pedagigik va axborot texnologiyalarini ishlab chiquvchi
-*Fan
-Ishlab chiqarish
-Uzluksiz ta’lim
-Davlat va jamiyat
-
-64.…– malakali raqobatbardosh kadrlar tayyorlashning asosi bo‘lib, ta’limning barcha turlarini, davlat ta’lim standartlarini, kadrlar tayyorlash tuzilmasi va uning faoliyat ko‘rsatish mohiyatini o‘z ichiga oladi
-*Uzluksiz ta’lim
-Fan
-Davlat va jamiyat
-Ishlab chiqarish
-
-65.Zamonaviy o’qituvchi qiyofasidagi fazilatlar soni darslikda nechta etib ko’rsatilgan?
-*10 ta
-5 ta
-8 ta
-7 ta
-
-66.Didaktik jarayon kechadigan barcha sharoitlarni oydinlashtirish, uning natijalarini belgilash deganda nima tushuniladi?
-*Tashxis
-Nazorat qilish
-Baholash
-Tekshirish
-
-67.Ta’lim oluvchining bilim ko‘nikma va malakalari darajasini aniqlash, o‘lchash va baholash deganda nima tushuniladi?
-*Nazorat
-Tekshirish
-Hisobga olish
-Baholash
-
-68.Pedagogika va ta’lim tarixida ta’limni tashkil etishning nechta asosiy tizimi o‘rin olgan?
-*Uchta
-To‘rtta
-Beshta
-Ikkita
-
-69.Qaysi ta’lim tizimi yaratilgandan buyon amaliy o‘zgarishga uchramagan?
-*Ma’ruzaseminar
-Yakka
-Sinfdars
-Individual guruhli
-
-70.“Osondan qiyinga qarab borish”, “Ma’lumdan noma’lumga qarab borish”, “Soddadan murakkabga qarab borish” kabi tushunchalar qaysi ta’lim tamoyillariga tegishli?
-*O‘quvchilarga mos bo‘lish
-Ko‘rgazmalilik
-Tushunarlilik
-Ilmiylik
-
-71.Qaysi ta’lim tamoyilini Ya.A.Komenskiy didaktikaning oltin qoidasi deb atagan
-*Ko‘rsatmalilik
-Tabiat bilan uyg‘unligi
-Ilmiylik
-Tushunarlilik
-
-72.Ta’limning ko‘rgazmali metodlarini ko‘rsating?
-*Demonstratsiya, illyustartsiya
-Ma’ruza, hikoya, suhbat
-Lobarotoriya, mashq, tushuntirish
-Mashqlar, amaliy ishlar, didaktik o‘yinlar
-
-73.Bilish faoliyati bo‘yicha tasnif qilinuvchi ta’lim metodlaridan qaysi biri kam vaqt sarflab, katta hajmdagi bilimni berishni ta’minlay oladi?
-*Reproduktiv
-Qisman izlanish
-Tadqiqot
-Muammoli
-
-74.O‘qituvchining darsga tayyorlanishida qanday bosqichlar ko‘zga tashlanadi?
-*Tashxislash, bashoratlash, loyihalashtirish
-Tashxislash,loyihalash, tizimlashtirish
-Tashxislash, mustahkamlash, tushunish
-Loyihalash, tushunish, bashoratlash
-
-75.Ta’lim mazmunini belgilovchi me’yoriy hujjatlarni belgilang
-*DTS, o‘quv rejasi, o‘quv dasturi
-DTS, o‘quv dasturi,  sinf jurnali
-O‘quv rejasi, dars jadvali, DTS
-Darslik, o‘quv qo‘llanma, metodik qo‘llanma
-
-76.Avtomatlashgan, o‘rganib qolingan, muayyan usul bilan bexato bajariladigan harakat nima deb ataladi?
-*Malaka
-Ko‘nikma
-Qobiliyat
-Bilim
-
-77.Qaysi olim tabiatda hayot bahordan boshlangani kabi ta’lim olish jarayoni uchun eng qulay davr bolalik ekanligini ta’kidlagan?
-*Ya.A.Komenskiy
-Abdulla Avloniy
-Disterverg
-Gerbart
-
-78.Qaysi ta’lim tizimi garchi 350 yil avval asoslangan bo‘lsada, bugungi kunda ham keng ko‘lamda qo‘llanilmoqda
-*Sinfdars
-Ma’ruzaseminar
-Individual
-Jamoaviy
-
-79.Kerakli so‘zni topib qo‘ying. Tarbiya metodlari – bu tarbiya …amalga oshirish. Nuqtalar o’rnini to’ldiring.
-*Maqsadi, yo‘li
-Yig‘indisi, usuli
-Aniq, qism,
-Usuli, qismi
-
-80.Quyidagi metodlardan qaysilari ongni shakllantirish metodlariga kiradi: 1)hikoya;   2)pedagoigk talab;   3)etik suhbat;  4)mashq; 5)tushuntirish
-*1,3,5
-1,3,4
-1,2,5
-1,2,4
-
-81.Mashq, o‘rgatish, tarbiyaviy vaziyat tarbiyaning qaysi metodlariga kiradi?
-*Faoliyatni tashkil etish
-Ongni shakllantirish
-Rag‘batlantirish
-Nazorat
-
-82.Quyidagilardanqaysi biri yuqori darajada uyushgan jamoa hisoblanadi?
-*O‘quvchilar jamoasi
-Ishlab chiqarish jamoasi
-Zavod jamoasi
-O‘qituvchilar jamoasi
-
-83.Bolalar jamoasi shakllanishining qaysi bosqichida jamoa faoli butun jamoafa nisbatan talab qo‘yadi
-*II bosqichda
-I bosqichda
-IV bosqichda
-III bosqich
-
-84.Vatanparvarlik tarbiyasida… o‘rganish bo‘yicha ishlarni tashkil etish muhim rol o‘ynaydi?
-*Davlat ramzlarini
-Davlat hujjatlarini
-Badiiy adabiyotlarni
-Qonun va qarorlarni
-
-85.Tarbiyachi o‘zi xohlagan sifatlarni tarbiyalanuvchilar ongiga singdirish uchun ularning ruhiyatiga ma’lum maqsadga ko‘ra tizimli ta’sir ko‘rsatishiga nima deb aytiladi?
-*Tarbiya
-
-Ta’lim
-Rivojlanish
-Ma’lumot
-
-86. Estetika so‘zining ma’nosi nima?
-*Go‘zallikni his qilaman
-Xulqatvor
-Donolikni sevaman
-O‘qitaman
-
-87.Estetik tarbiyaning asosiy vositalarini aniqlang?
-*Tabiat, mehnat, badiiy adabiyot
-Konkurslar, viktorinalar, seminarlar
-To‘garaklar, ijodiy birlashmalar, maktab bayramlari
-Kitob, rasm, maket
-
-88.Shaxsning tabiat, jamiyat va sana’tdagi maqsad tarzida idrok etadigan, takomillashgan go‘zallik borasidagi bahosining aks etishi nima deb ataladi?
-*Estetik ideal
-Estetik qiziqish
-Estetik baho
-Estetik mulohaza
-
-89.Quyidagilardan qaysi biri estetik tarbiyaning vazifasi bo‘la olmaydi?
-*Chiroyli so‘z, modaga ishqibozlikni shakllantirish
-Estetik didni, go‘zallikni baholash qobiliyatini tarbiyalash
-San’atdagi, atrofimizdagi go‘zallikni his qila olish
-O‘quvchilarda estetik ongni tarkib toptirish
-
-90.Estetikaning asosiy tushunchalarini aniqlang. 1)estetik histuyg‘u; 2)estetik tamoyil; 3)estetik did;  4)estetik norma; 5)estetik mulohaza; 6)estetik ideal
-*1,3,5,6
-1,2,5,6
-1,2,3,4
-1,4,5,6
-
-91.Estetika tushunchasini fanga kim kiritgan?
-*Baumgarten
-K.D.Ushinskiy
-V. Suxomlinskiy
-Forobiy
-
-92.Shaxsning aniq bir estetik hodisaga munosabatini bildiruvchi aqliy harakati nima deb ataladi?
-*Estetik mulohaza
-Estetik ehtiyoj
-Estetik ong
-Estetik did
-
-93.Qachondan boshlab estetika bilimlar sohasiga aylangan?
-*XVIII asrdan
-XII asrdan
-XIV asrdan
-XIII asrdan
-
-94.Estetik axborotlar oqimi, estetik  va axloqiy normalar yig‘indisi orqali shakllanadigan va shxsning buyum , hodisalarga estetik baho berishida yaqqol namoyon bo‘ladigan hodisa nima deb ataladi?
-*Estetik did
-Estetik ehtiyoj
-Estetik ideal
-Estetik mulohaza
-
-95.Shaxsning voqelikni estetik jihatdan bilib olishga undovchi subektiv omillar nima deb ataladi?
-*Estetik ehtiyoj
-Estetik ong
-Estetik mulohaza
-Estetik did
-
-96.“Estetika ” deb atalgan birinchi asar muallifi kim?
-*Baumgarten
-Aristotel
-Navoiy
-Desterverg
-
-97.Quyidagilar orasidan estetik tarbiyaning vazifasiga kiradiganini aniqlang?
-*Insonni voqelikka estetik munosabatini shakllantirish
-Axloqiy sifatlarni shakllantirish
-Modaga ishqibozlikni shakllantirish
-Tejamkor fuqaroni shkllantirish
-
-98.Ijtimoiy voqelik, tabiat, san’at bilan bevosita muloqot jarayonida – nazariyalar, qarashlar, badiiy ta’ilm va tarbiya natijasida shakllanadigan xususiyat nima deb ataladi?
-*Estetik ong
-Estetik mulohaza
-Estetik did
-Estetik ideal
-
-99.Shaxsning estetik faoliyatiga, voqelik va san’at asarlarini estetik jihatdan o‘zlashtirishga kirishishi nima deb ataladi?
-*Estetik qiziqish
-Estetik did
-Estetik ong
-Estetik baho
-
-100.O‘quvchilarning jismoniy madaniyatini tarbiyalashning asosiy vositalariga nimalar kiradi?
-*Jismoniy mashqlar, tabiiy va gigienik omillar
-Jismoniy jazo, jismoniy ta’sir, tabiiy va sun’iy omillar
-Gimnastika, o‘yin, turizm, sport
-Quyosh, suv, havo, uyqu
-
-108.Bo‘sh vaqtni foydali va maroqli mashg‘ulotlar bilan to‘ldirish jismoniy tarbiyaning qaysi vazifasiga kiradi
-*Umummadaniy
-Rivojlantiruvchi
-Sog‘lomlashtiruvchi
-Tarbiyaviy
-
-109.Jismoniy tarbiyaning ta’limiy vazifasiga nimalar kiradi
-*Odamlarni jismoniy tarbiyaning nazariyasi va tarixi bilan tanishtirish
-Insoniy axloqiy sifatlarni shakllantirish
-Odamlarning sog‘lig‘ini mustahkamlash, organizmning shakl va funktsiyalarini uyg‘un rivojlantirish
-Insonlarni jismoniy mashqlarga qiziqishini oshirish
-
-110.Quyidagi jismoniy tarbiyaning vositalaridan qaysi biri bolaning jismoniy quvvatini, baquvvat tana, qo‘llarni, ishonchliko‘zlarni, zehnlilikni, topqirlikni , tashabbuskorlikni rivojlantiradi
-*O‘yin
-Turizm
-Gimnastika
-Sayohat
-
-111.Jismoniy mashqlarga nimalar kiradi
-*Gimnastika, o‘yin, turizm, sport
-Uyqu, dam olish, ovqatlanish
-Quyosh, havo, suv
-Yugurish, sakrash, suzish, konkida uchish
-
-112.Kichik maktab yoshidagi o‘quvchilarda qanday o‘yin turlari asosiy hisoblanadi
-*Ochiq havodagi
-Sport
-Milliy
-Tabiiy
-
-113.Jismoniy tarbiyaning pedagogik shartsharoitlariga nimalar kiradi: 1)sinf tayyorgarlik darajasi; 2)ta’lim muassasasining o‘ziga xosligi; 3)tabiiy(iqlimiy) sharoitlar;  4)tizimli tashkil etish
-*2,3,4
-1,2,4
-1,2,3,4
-1,2,3
-
-114.Jismoniy tarbiya sohasiga taalluqli hodisalarni ta’riflashda foydalaniladigan asosiy tushunchalarni aniqlang. 1)jismoniy ta’sir;   2)jismoniy tamoyil;  3)jismoniy mehnat;   4)jismoniy kamolot;  5)jismoniy ideal;   6)jismoniy madaniyat
-*1,3,4,6
-1,2,4,6
-2,3,4,5
-1,2,5,6
-
-115.B.T.Lixachev jismoniy madaniyatning vazifalarini qay tariqa tasnif etadi
-*Rivojlantiruvchi, tarbiyaviy, ta’limiy, sog‘lomlashtiruvchi, umummadaniy
-Motivatsiyali, rivojlantiruvchi, tibbiy, tizimli
-Tashkiliy, nazorat, tarbiyaviy, sog‘lomlashtiruvchi, ta’limiy
-Ta’limiy, tarbiyaviy, bashorat qilish, sog‘lomlashtiruvchi
-
-116.“Badanning salomat va quvvatli bo‘lmog‘i insonga eng kerakli narsadir. Chunki o‘qimoq, o‘qitmoq, o‘rganmoq va o‘rgatmoq uchun insonga kuchlik, kasalsiz vujud kerakdir…………”  Ushbu
-*Abdulla Avloniyga
-Alisher Navoiyga
-Alpomishga
-Sh.A.Amonashviliga
-
-117.Quyidagi qaysi tushuncha jismoniy tarbiya samaradorliga ko‘rsatkichi bo‘la oladi
-*Jismoniy kamolot
-Jismoniy madaniyat
-Jismoniy ta’sir
-Jismoniy jazo
-
-118.Kim axloqiy va estetik sifatlarni shakllantirishni ham jismoniy tarbiyaning vazifalariga kiritadi?
-*I.P.Podlasiy
-B.T.Lixachev
-A.Q.Munavvarov
-V.A.Slastyonin
-
-119.Jismoniy tarbiya vazifalari va qonuniyatlariga bog‘liq holda maxsus tashkil etilgan va ongli
-*Jismoniy mashqlar
-Jismoniy vositalar
-Tabiiy omillar
-Gigiyenik omillar
-
-120.Gimnastikaning qanday turlari mavjud
-*Gigienik, badiiy, ishlab chiqarish, tibbiy
-Asosiy, sportga oid, o‘yin, axloqiy , badiiy
-Ko‘ngilochar, tibbiy, ishlab chiqarish, turizm
-Oddiy, murakkab, ko‘p bosqichli
-
-121.Quyidagi qaysi so‘z “axloq” so‘zi bilan sinonim bo‘la oladi
-*Etika
-Odat
-Estetika
-E’tiqod
-
-122.Turkiy guliston yoxud axloq”  asarining muallifi kim
-*A.Avloniy
-Fitrat
-Hamza
-Forobiy
-
-123.Axloq tushunchalari umumiy xarakterga ega, ular alohida munosabatlarni emas, hamma sohasidagi munosabatlarni qamrab oladi. Bunday tushunchalar nima deb ataladi
-*Axloqiy kategoriya
-Axloqiy normalar
-Axloqiy tamoyillar
-Axloqiy ideal
-
-124.Axloqiy tarbiya jarayonini mazmunining  o‘ziga xosligi nimadan iborat
-*Odamlarning ijtimoiy hayotlarining hamma tomonlarini qamrab olishida
-Jismoniy kuchni talab qilishida
-Ijtimoiy ahamiyatli faoliyat ekanligida
-O‘zo‘ziga ishonchni tarkib toptirishda
-
-125.Axloqiy mezonga muvofiq, maktabgacha yoshdagi bolaning nimani bilishi talab etiladi
-*Ular O‘zbekistonda yashayotganligini bilishi
-Vatanni ulug‘lovchi madhiyani bilishi
-Rasm chiza olishi, she’rlar, qo‘shiqlar yozishi
-O‘z Vatanining fuqarosi ekanligini bilishi
-
-126.Ezgulik, tartiblilik, haqqoniylik, rostgo‘ylik, adolatlilik, mehnatsevarlik, jamoaviylik kabi sifat va xususiyatlarni o‘zida birlashtirgan shaxs tavsifi nima deb ataladi
-*Axloqiy tamoyillar
-Axloq
-Axloqiylik
-Axloqiy norma
-
-127.Hayotda qoida sifatida qabul qilingan talablardan kishilar o‘zlariga odamlar orasidan namuna tanlaydi. Bu qanday tushuncha bilan ataladi
-*Axloqiy ideal
-Axloqiy norma
-Axloqiylik
-Axloq kategoriyalar
-
-128.Pedagogikaning asosiy tushunchalari (kategoriyalari) qaysi javobda to’g’ri ko’rsatilgan?
-*Tarbiya,  ta’lim, ma’lumot
-rsiyat, muhit, tarbiya
-Bilim, ko’nikma, malaka
-O’qitish, o’qish, o’rganish
-
-129.O’zbekiston Respublikasining “Ta’lim to’g’risidagi” Qonunida tarbiyaning maqsadi qanday ifodalangan?
-*Har tomonlama yetuk mustaqil fikrlovchi shaxsni shakllantirish
-Ishbilarmon kishini tarbiyalash
-Savodga o’rgatish
-Hunarga o’rgatish
-
-130.O’quvchilarda bilim, ko’nikma va malakalarni shakllantirish jarayoni nima deb ataladi?
-*Ta’lim
-Tarbiya
-O’rgatish
-O’rganish
-
-131.Ta’limtarbiya natijasida egallangan bilim, ko’nikma va malakalar majmui – bu...
-*Ma’lumot
-Bilim
-Odat
-Qobiliyat
-
-132.Tarbiyalanuvchilar ongi, xulqatvori va histuyg’usiga maqsadga muvofiq ta’sir etish nima deb ataladi?
-*Tarbiya
-Qoida
-Tamoyil
-Qonuniyat
-
-133.Qaysi javobda kuzatish metodining turlari to’g’ri ko’rsatilgan?
-*Bevosita va bilvosita
-Asoslovchi va ta’kidlovchi
-Ochiq va yopiq
-Analiz va sintez
-
-134.Uzluksiz ta’lim jarayonining ob’ekti, sub’ekti, iste’molchisi va amalga oshiruvchisi – bu...
-*Shaxs
-Fan
-Davlat
-Jamiyat
-
-135.Aniq mutaxassislik bo’yicha bakalavriat negizida kamida ikki yil davom etadigan ta’lim turi qanday ataladi?
-*Magistratura
-Oliy ta’lim
-Akademik litsey
-Maktab
-
-136.Davlat ta’lim standartlarini bajarish O’zbekiston Respublikasining barcha ta’lim muassasalari uchun ...
-*Majburiy
-Ochiq
-Ixtiyoriy
-Erkin
-
-137.Qaysi ta’lim turi bola shaxsini sog’lom va yetuk, maktabda o’qishga tayyorlangan tarzda shakllantirish maqsadini ko’zlaydi?
-*Maktabgacha ta’lim
-Oliy ta’lim
-Akademik litsey
-Kollej
-
-138.Hayotiy faoliyat jarayoni va maxsus tarbiyaviy xattiharakatlar ta’sirida  inson rivojlanishini muhim shakli nima deb ataladi?
-*Shakllanish
-Tarbiya
-Ta’lim
-O’rganish
-
-139.Tarbiyalanuvchini psixikasi va jismoniy taraqqiyotida bosqichmabosqich vaqonuniy o’zgarishlarning sodir bo’lishi nima deb ataladi?
-*Rivojlanish
-Odat
-Bilim
-Ko’nikma
-
-
-140.Jamiyatda o’z o’rniga ega, ijtimoiy ahamiyatga ega maqsad yo’lida bir yoki bir nechta kishini o’z orqasidan ergashtira oladi – bu …
-*Shaxs
-Inson
-Yetakchi
-Arbob
-141.Barqaror, takrorlanuvchi, invariantli tavsifga ega narsahodisa va jarayonlarning ichki mavjud aloqalari nima deb ataladi?
-*Qonun
-Tamoyil
-Odob
-Axloq
-
-142.Ta’lim jarayonining tarkibiy qismlari orasidagi ob’ektiv, mavjud, barqaror, takrorlanuvchi aloqadorlik – bu ...
-*Qonuniyat
-Metod
-Shakl
-Vosita
-
-143.O’qitish maqsadini amalga oshirish bo’yicha pedagogning tartiblangan faoliyati nima deb ataladi?
-*O’rgatish
-O’rgatish
-O’qitish
-Ta’lim
-
-144.Anglash, mashq qilish, va egallangan tajribalar asosida xulqatvor va faoliyatning yangi shakllarini egallash jarayoni  ...
-*O’rganish
-Bilim
-Ko’nikma
-Malaka
-
-145.Qo’yilgan maqsadga erishishga yo’naltirilgan pedagog bilan talabalarning tartiblangan o’zaro harakati nima deb ataladi?
-*O’qitish
-Maqsad
-Natija
-Metod
-
-146.Ma’lum bir fanni nazariy o’zlashtirishni aks ettiradigan inson g’oyalari yig’indisi  ... bu
-*Bilim
-Odat
-Ko’nikma
-Malaka
-
-147.Egallangan bilimlarning aniq xattiharakatdagi ifodasi, o’zlashtirilgan bilimlarni amaliyotga qo’llash usullarini egallash jarayoni qanday ataladi?
-*Ko’nikma
-Bilim
-Malaka
-Axloq
-
-148.Avtomatlashgan, biror bir usul bilan bexato bajarish,  ko’nikmaning takomillashgan darajasi – bu …
-* Malaka
-Bilim
-Ko’nikma
-Ta’lim
-
-149.O’qitish jarayonida egallanishi lozim bo’lgan ilmiy bilim, amaliy ko’nikma va malakalar yig’indisi nima deb ataladi?
-*Ta’lim mazmuni
-Ta’lim metodi
-Didaktik vositalar
-Natija
-
-150.O’quv jarayonining tashqi ifodasi, uning ichki mohiyati, mantig’i, mazmuni uchun qobiq – bu …
-*Ta’limni tashkil etish shakli
-Usul
-Uslub
-Maqsad
