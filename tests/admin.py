@@ -12,7 +12,7 @@ class TestModelAdmin(admin.ModelAdmin):
 class QuestionModelAdmin(admin.ModelAdmin):
     list_display = ["content", "correct", ]
     list_filter = ["specialist"]
-    search_fields = ["content", "answer_a", "answer_b", "answer_c", "asnwer_d"]
+    search_fields = ["content", "answer_a", "answer_b", "answer_c", "answer_d"]
 
 
 @admin.register(Specialist)
