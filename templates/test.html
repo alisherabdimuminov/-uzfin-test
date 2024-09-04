@@ -34,7 +34,7 @@
         {% if test.is_ended %}
         <div class="container text-center fs-1">
             <br> <br> <br>
-            {{ test.percentage }}
+            {{ test.percentage }}%
         </div>
         {% else %}
         <form action="{% url 'check' test.pk %}" method="post">
