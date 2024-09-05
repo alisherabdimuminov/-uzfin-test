@@ -60,7 +60,7 @@ def templ(file: str, correct: str = "*", spec: int = 1):
         print()
 
 
-templ("pis_uzb", "*", 17)
+templ("tab", "*", 33)
 
 def cu(url: str = "https://test.uzfi.uz/create/user/"):
     with open("users.txt", "r") as f:

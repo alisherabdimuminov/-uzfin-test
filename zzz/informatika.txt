@@ -28,11 +28,6 @@ Xalqaro aloqa tarmog’i;
 Kompyuterni
 Lokal tarmoqni
 
-Webbrauzerning asosiy vazifalari qaysilar ?
-* Websahifani xotiraga yuklash va ko’rish,saqlash,chiqarish; Websahifani xotiraga yuklash va ko’rish,chiqarish Websahifani saqlash,chiqaris   We sahifada ishlash
-Websahifa bu... yagona adresga ega bo’lgan, (brauzera yordamida) ochish va ko’rish imkoniyatiga ega bo’lgan xujjatdir tarmoqqa ulangan kompyuterda, kliyentga belgilangan umumiy vazifalarni bajarish uchun foydalaniluvchi sahifadir
-kliyentserver arxitekturasi asosidagi, keng tarqalgan Internetning axborot xizmati to’g’ri javob ko’rsatilmagan
-
 Word wide web nechanchi yillarda yaratilgan? 
 * 19921993 
 19951996 

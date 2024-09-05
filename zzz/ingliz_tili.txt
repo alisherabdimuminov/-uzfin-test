@@ -215,6 +215,7 @@ They needn't have bought that book, means:
 *They didn't have to buy that book.
 They didn't buy that book.
 They bought that book.
+They buy new book
 
 Choose the correct sentence:
 *The man who wants to see you is outside.

@@ -7,7 +7,8 @@ from .actions import print_selected_tests
 @admin.register(Test)
 class TestModelAdmin(admin.ModelAdmin):
     actions = [print_selected_tests]
-    list_display = ["name", "user", ]
+    list_display = ["name", "user", "spec", "percentage", ]
+    list_filter = ["spec", ]
 
 
 @admin.register(Question)
