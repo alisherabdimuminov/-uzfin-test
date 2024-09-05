@@ -6,11 +6,11 @@ from .actions import print_selected_tests
 
 
 @admin.register(Test)
-class TestModelAdmin(admin.ModelAdmin, NumericFilterModelAdmin):
+class TestModelAdmin(NumericFilterModelAdmin):
     actions = [print_selected_tests]
     list_display = ["name", "user", "spec", "percentage", ]
     list_filter = (
-        ('percentage', RangeNumericFilter)
+        ('percentage', RangeNumericFilter),
     )
 
 
