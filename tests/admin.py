@@ -1,17 +1,13 @@
 from django.contrib import admin
-from admin_numeric_filter.admin import NumericFilterModelAdmin, RangeNumericFilter
 
 from .models import Test, Question, Specialist
 from .actions import print_selected_tests
 
 
 @admin.register(Test)
-class TestModelAdmin(NumericFilterModelAdmin):
+class TestModelAdmin(admin.ModelAdmin):
     actions = [print_selected_tests]
-    list_display = ["name", "user", "spec", "percentage", ]
-    list_filter = (
-        ('percentage', RangeNumericFilter),
-    )
+    list_display = ["name", "user", ]
 
 
 @admin.register(Question)

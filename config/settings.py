@@ -21,6 +21,7 @@ INSTALLED_APPS = [
     # extra apps
     'ckeditor',
     'ckeditor_uploader',
+    'admin_numeric_filter',
 
     # local apps
     'users',
