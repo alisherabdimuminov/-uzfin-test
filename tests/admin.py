@@ -1,7 +1,7 @@
 from django.contrib import admin
 
-from .models import Test, Question, Specialist
-from .actions import print_selected_tests
+from .models import Test, Question, Specialist, Result
+from .actions import print_selected_tests, print_test_questions, print_test_answers_as_pdf, print_test_answers_as_text
 
 
 @admin.register(Test)
@@ -21,3 +21,9 @@ class QuestionModelAdmin(admin.ModelAdmin):
 @admin.register(Specialist)
 class SpecialistsModelAdmin(admin.ModelAdmin):
     list_display = ["name", "lang", ]
+
+
+@admin.register(Result)
+class ResultModelAdmin(admin.ModelAdmin):
+    list_display = ["test", ]
+    actions = [print_test_questions, print_test_answers_as_pdf, print_test_answers_as_text]

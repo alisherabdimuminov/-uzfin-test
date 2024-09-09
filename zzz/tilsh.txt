@@ -1,306 +1,311 @@
-"Oʻzbek adabiyoti tarixi" ilmi
-*"Adabiyotshunoslik" ilmining asosiy tarkibiy qismlaridan biri.  
-"Adabiyotshunoslik" ilmining qoʻshimcha tarkibiy qismlaridan biri.
-"Adabiyot nazariyasi" ilmining tarkibiy qismlaridan biri.
-"Adabiyotshunoslik"ni ham qamrab oluvchi adabiyot haqidagi ilmdir.
+Sintagmatik munosabatda zarur belgi:
+*hodisaviylik
+imkoniyatlilik
+voqelanganlik
+xususiylashganlik
 
-Oʻzbek adabiyoti tarixining uchta asosiy bosqichini toʻgʻri tartibda aniqlang.
-*Oʻzbek mumtoz adabiyoti, milliy uygʻonish davri oʻzbek adabiyoti, yangi oʻzbek adabiyoti
-Oʻzbek adabiyoti tarixi, hozirgi zamon oʻzbek adabiyoti, istiqlol davri oʻzbek adabiyoti
-Islomgacha boʻlgan davr adabiyoti, islom ta`siridagi davr adabiyoti, yangi oʻzbek adabiyoti
-Oʻzbek mumtoz adabiyoti, XX asr adabiyoti, mustaqillik davri adabiyoti
+Morfologik paradigma nima?
+*morfologik kategoriya
+nokategorialshakllar
+so’zning morfologik shakllari
+so’z turkumlari
 
-Oʻzbek adabiyoti tarixini davrlashtirish boʻyicha ilk izlanishlar muallifini belgilang.
-*Abdurauf Fitrat
-Sadriddin Ayniy
-Abdurahmon Sa`diy
-Olim Sharafuddinov
+Tovush hosil qilishda ishtirok etadigan nutq a’zolarining jamiga?
+*nutq apparati deyiladi
+nutq formulasi deyiladi
+faol nutq a’zolari deyiladi
+nutq artikulyatsiyasi deyiladi
 
-Uch qismdan iborat "Oʻzbek adabiyoti tarixi" darslik kitoblarining mualliflarini toʻgʻri tartibda belgilang.
-*N.Mallayev, V.Abdullayev, R.Vohidov.
-Gʻ.Karimov, N.Mallayev, V.Abdullayev
-B.Valixoʻjayev, R.Orzibekov, R.Vohidov.
-N.Mallayev, V.Abdullayev, Gʻ.Karimov.
+Allamorf berilgan qatorni aniqlang.
+*chiqqan
+oynadek
+qishlog‘im
+tilagingiz
 
-1976-1980 yillarda nashr ettirilgan "Oʻzbek adabiyoti tarixi" akademnashr darslik kitobi necha tomdan iborat?
+Emfatik urg‘uga ega gaplar qatorini belgilang.
+*Senga ka-a-a-atta tort keltirdim.
+Men, aytaman.
+Masalan, Sarvar ham keldi.
+Men kinoga bordim.
+
+Undoshlarning oppozitiv belgisi
+*artikulyatsiya o‘rni
+ovoz va shovqin darajasi
+yumshoq|qattiqlik
+artikulyatsiya o‘rni, ovoz va shovqin darajasi
+
+Leksema va qo‘shimchani farqlovchi belgi
+*mustaqil shakl, nomustaqil shakl
+paradigma tashkil etish-etmaslik
+Barqarorli, beqarorlik
+miqdoran cheksizlik-cheklanganlik
+
+Qaysi leksemalar leksik (lug‘aviy) ma’noga ega?
+*mustaqil leksemalar
+yordamchi leksemalar
+undov va taqlidlar
+mustaqil, undov va taqlidlar
+
+So’z boyligi, asosiy lug’at tarkibi, ularning ma’no turlari, so’z ma’nolarining ifodalanish yo’llarini o’rganuvchi bo’lim tilshunoslikning qaysi bo’limi hisoblanadi?
+*leksikologiya
+leksikografiya
+orfografiya
+orfoepiya
+
+So‘z atayotgan predmet nima deb yuritiladi?
+*denotat
+referent
+signifikat
+tushuncha
+
+Polisemantik leksema ma’nolarini farqlovchi omil
+*sinonimik va antonimik qator
+uyadoshlik va graduonimik qator
+variantdoshlik va omonimik qator
+ko‘chish usuli
+
+Bir predmetdagi tashqi belgining boshqa bir predmetdagi xuddi shunday belgiga  o‘xshashligiga ko‘ra so‘z ma‘nosining ko‘chimi qanday nomlanadi?
+*metafora
+metonimiya
+sinekdoxa
+vazifadoshlik
+
+Soyaga qarab to‘n bichma maqolidagi to‘n bichmoq iborasining ma’nosi qaysi qatorda to‘g‘ri izohlangan?
+*Baho bermoq
+Andaza olmoq
+rag‘batlantirmaslik
+xato ish qilmoq
+
+Nutq zanjiridagi eng yirik fonetik birlik nima?
+*takt
+bo‘g‘in
+fraza
+tovush
+
+Paronim leksemalarni toping
+*otalik – otaliq
+shabada – shabboda
+vafo – jafo
+ko‘ylak – ko‘ynak
+
+[qo‘y] va [qo‘chqor] leksemalari lisoniy ziddiyatning qay turini tashkil etadi?
+*privativ ziddiyat
+gradual ziddiyat
+ekvivolent ziddiyat
+muntazam ziddiyat
+
+O‘zaro sinonim bo‘lmagan leksemalardan hosil bo‘lgan juft leksemani toping.
+*kuch–quvvat
+o‘y–xayol
+or–nomus
+ur–yiqit
+
+Ikki yoki undan ortiq leksemaning shakliy munosabati va talaffuziga ko‘ra o‘zaro birlik hosil qilishi qaysi hodisalar uchun xos?
+*omonimlar uchun xos
+sinonimlar uchun xos
+antonimlar va ko‘p ma’nolilik uchun xos
+paronimlar uchun xos
+
+Ma‘lum soha guruhlari tomonidan qo‘llanib, boshqalar uchun sir tutiladigan so‘zlarga nima deyiladi?
+*Argo
+Jargon
+Varvarizm
+Termin
+
+Hududiy nuqtayi nazardan chegeralangan leksika birligi nima?
+*dialektizm
+arxaizm
+istorizm
+neologizm
+
+Kinoyaviy ma’noi fodalovchi leksema yozuvda qanday beriladi?
+*so‘z qo‘shtirnoqqa olinadi
+so‘z qavs ichida izohlanadi
+so‘z bosh harf bilanyoziladi
+so‘z ostiga chizib qo‘yiladi
+
+Ko‘p ma’noli leksemalarni toping.
+*tomir, yoqa
+men, sen
+besh, o‘n
+ota, ona
+
+Xato bilimdonlikdan bilimsizlik afzal. Ushbu gapdagi bilimdonlikdan so’zidagi  so’z yasovchi qo’shimchalar  miqdorini aniqlang?
 *3
+2
+1
 4
-5
-6
+3
 
-"Mumtoz" soʻzini qanday tushunasiz?
-*Namuna, ajralib turadigan
-Eski, qadimiy
-Tarbiyaviy, didaktik
-Qimmatbaho, bebaho
+Qo’shma  fe’lni aniqlang.
+*olib chiqdi
+quvonib ketdi
+o’qib chiqdi
+chiza oldi
 
-Oʻzbek adabiyoti tarixining qaysi davrida didaktika-pand nasihat ruhi ustunlik qiladi?
-*Qoraxoniylar davri adabiyotida
-Islomgacha boʻlgan davr adabiyotida
-Mugʻullar hukmronligi davri adabiyotida
-Temuriylar davri adabiyotida
+Zamonaviy bilimga ega, odobli, ilmli, barkamol va shijoatli farzandlar bizning kelajagimizdir.
+*So‘z yasovchi qo‘shimchalar miqdorini aniqlang.
+7 ta
+4 ta
+6 ta
+5 ta
 
-Adabiyot tarixini oʻrganishda qimmatli manba hisoblangan shoirlar haqida muxtasar ma`lumot beruvchi asarlar qanday nomlanadi?
-*Tazkira  
-Risola
-Manoqib
-Debochа
+Quyidagi iboralardan qaysilar shakldoshlik xususiyatiga ega?
+1. Ko‘z ilg‘amas, 2. O‘pkasi to‘lmoq, 3. Boshiga ko‘tarmoq, 4. Jon kuydirmoq, 5. Ko‘z yummoq.
+*1, 3, 5
+3, 5
+1, 2, 4
+1, 2, 3, 5
 
-Turkiy xalqlar madaniyatida tub burilish yasagan tarixiy hodisani belgilang
-*Markaziy Osiyoning arab xalifaligi tarkibiga qoʻshilishi
-Mo‘gʻullar istilosi
-Temuriylar davlatining shakllanishi
-Xonliklarning yuzaga kelishi.
+Partonimik qatorni aniqlang.
+*kompyuter, klaviatura, sichqoncha
+sabab, oqibat, vaj
+lola, atirgul, rayhon
+bоla, o‘spirin, yigit
 
-"Toʻmaris", "Shiroq", "Zariadr va Odatida", "Zarina va Striangey" afsonalarining  barchasiga  xos boʻlgan jihatni toping:1. Ishq-muhabbat mavzusi,  2. Ogʻzaki tarzda yetib kelgan,  3. Vatanparvarlik  mavzusi   4. Yunon tarixchilarining asarlari orqali yetib kelgan,   5. Eron va Turon munosabatlari
-*3,4     
-1,4
-2,3
-4,5
+Qaysi gaplar juftligida omograflar ishtirok etgan?
+*Hunarli er xor boʻlmas, doʻst-dushmanga zor boʻlmas. – Mazkur kursda nazariy va amaliyot xor ijrochiligi va uning tahlili o‘tiladi.
+O‘g‘lingiz yotavermasdan, tursin, ishlarni qilsin. – Tursun hammaga yaxshilik qilishdan charchamaydigan, jumard yigit edi.
+Hech boʻlmaganidan koʻra, kech boʻlgani yaxshi. – Bir qoshiq qonidan kech bu bechoraning.
+Daho – kuchli zehn va iste’dod. Daha – shaharning ma’muriy bo‘linishi.
 
-She`riy parchaning   vaznini belgilang: Uzik meni qumitti, Sagʻinch manga  yumitti, Koʻnglum angar emitti, Yuzim maning  sargʻayur.
-*Barmoq, 4+3=7 
-Barmoq, 3+4 =7
-Aruz, hazaj bahri
-Aruz, ramal bahri
+Onaxon bir zum to‘xtab, chorasizlikdan qiynalayotgan nabirasiga mehribonlik bilan dalda berdi.
+Ushbu gapda qatnashgan yasama so‘zlar haqidagi to‘g‘ri fikrni aniqlang.
+*Gapda sifatdan yasalgan sodda yasama fe’l qatnashgan.
+Gapda otdan yasalgan sodda yasama sifat qatnashgan.
+Gapda ravishdan yasalgan sodda yasama fe’l qatnashgan.
+Gapda fe’ldan yasalgan sodda yasama ot qatnashgan.
 
-She’rning qofiyalanish  tartibi va qofiyalarini belgilang:. Uzik meni qumitti, Sagʻinch manga  yumitti, Koʻnglum angar emitti, Yuzim maning  sargʻayur.
-*a.a.a.b-qumitti, yumitti, emitti
-a.a.a.b- qumitti, yumitti, sargʻayur
-a.b.a.b-qumitti, emitti
-a.a.b.a- qumitti, yumitti, emitti
+Giponimik qatorni aniqlang.
+*lola, atirgul, rayhon
+kompyuter, klaviatura, sichqoncha
+sabab, oqibat, vaj
+bоla, o‘spirin, yigit
 
-Uygʻur yozuvida bitilgan va bizgacha yozma tarzda etib kelgan qadimiy afsonani toping:
-*"Oltin yoruq"
-"Oʻgʻuznoma"
-"Zariadr va Odatida"
-"Gershaspnoma"
+Qaysi gapda sintaktik shakl yasovchi qo‘shimcha bilan omonimlik hosil qiluvchi so‘z yasovchi qo‘shimcha vositasida yasalgan faoliyat-jarayon oti qatnashgan?
+*Yolqin akam traktor terimidan bo‘shagandan keyin hovlining kamchiliklarini tuzatadi.
+Shofyorlik kursini bitirib, konda ishlashni boshladim.
+Otabek bo‘lajak kuyovining bachkana qiliqlariga ichida bir g‘ijinib qo‘ydi.
+Bu uchrashuv “Qizingiz yozdi” she’riy to‘plami bosilguncha bo‘lib o‘tgan edi.
 
-Tarixchi Juvayniy va rumin sayyohi Nikolos Melesko qaysi tarixiy-adabiy yodgorliklar haqida xabar bergan?
-*Qadimgi afsonalar
-"Avesto" kitobi
-Oʻrxun -Enasoy yodgorliklari
-Qadimgi qoʻshiqlar
+Qaysi javobda olmashlashish hodisasi kuzatilgan?
+*Biri kitob o‘qiydi, biri shaxmat o‘ynaydi.
+Vaqt allamahal bo‘lib qolgan edi.
+Negadir taftishchining ovozi menga yoqmadi.
+Ot nima uchundir o‘rnidan jilmasdi.
 
-Al-Muqtado kim?
-*"Devonu lugʻotit turk" asari bagʻishlangan hukmdor
-Buxoro tarixini yozgan  tarixchi
-Muhaddis
-Qadimgi  afsonalarni  yozib qoldirgan tarixchi
+Nuqtalar o‘rniga kerakli jumlani qo‘ying.
+Yasovchi affiksning bir turkumga xos bo‘lgan xilma-xil ma’noli so‘z yasash hodisasi … deyiladi.
+*affiksal polisemiya
+affiksal pleonazm
+affiksal omonimiya
+affiksal sinonimiya
 
-"Qish va Yoz munozarasi" tasvirlangan she`rlar qaysi asarda keltirilgan.
-*Mahmud Koshqariyning "Devonu lugʻatit turk"
-Ahmad Yugnakiyning "Hibat ul - haqoyiq"
-Yusuf Xos Hojibning "Qutadgʻu bilig",
-Abu Rayhon Beruniyning "Hindiston"
+Qaysi qatorda  ot va sifat  yasovchi  shakldosh qo’shimchalar berilgan?
+*sezgi, kunduzgi
+boyi, qishloqi
+Maqtanchoq,  qo’g’irchoq
+ko’chki,  tepki
 
-Boʻyi joʻyi Moʻliyon oyad hame, Yodi yori mehrubon oyad hame… deb boshlanuvchi mashhur qasida muallifi:
-*Roʻdakiy  
-Firdavsiy
-Nosir Xusrav
-Umar Xayyom
+Qaysi qatorda so’zning  ma’noli qismlari odatdagi tartibda joylashmagan?
+*o’chirg’ichlarni
+uzumzorgacha
+kitobxonlardan
+tepaliklarda
 
-Fors-tojik tilida  yozilgan  ilk tazkira muallifini belgilang
-*As-Saolibiy
-Muhammad Avfiy
-Davlatshoh  Samarqandiy
-Alisher Navoiy
+Qaysi bandda tub so’z berilgan?
+*badarg’a
+bahaybat
+badavlat
+barqaror
 
-"Al adab al- mufrad":
-*Al-Buxoriyning  odob-axloq haqidagi asari  
-At-Termiziyning  hadislar  toʻplami
-Shoirlar haqidagi  tazkira
-Al-Buxoriyning  hadislar toʻplami
+Fe’llarning zamon, mayl va shaxs-son qo`shimchalari ..... shakllari deyiladi?
+*munosabat
+vazifa
+nisbat
+funksional
 
-Musulmon kishi bir  teshikdan ikki marta chaqtirmaydi degan hadisning  ma`nosi:
-*Musulmon  bir xatoni  ikkinchi marta takrorlamaydi 
-Musulmon birovning  haqiga xiyonat qilmaydi
-Musulmon bir joyga  ikki marta bormaydi
-Musulmon  birovga ozor bermaydi
+Qaysi qatordagi fe’l birgalik nisbatdagi fe’lga mansub ekanligini aniqlang.
+*tayinlashmoq
+ommalashmoq
+hazillashmoq
+go‘zallashmoq
 
-She`rning muallifini toping: Shu oddiy koʻz bilan boqmagil, balki, Bilim koʻzi bilan boqqil jahonga. Jahon daryo erur, yaxshi otingla, Kema yasab oʻtgin nari qirgʻoqqa.
-*Rudakiy
-Firdavsiy
-Nosir Xusrav
-Sa`diy
+Fe’l  asosli otni toping.
+*ochqich
+yaxshilik
+sharshara
+paxtazor
 
-Unsuriy, Farruxiy va Asjadiy kabi mashhur shoirlar tomonidan imtihon qilingan va bu imtihondan muvaffaqiyatli oʻtgan shoirni toping:
-*Rudakiy
-Firdavsiy
-Nosir Xusrav
-Sa`diy
+Qaysi qatorda “ng”tovushi ishtirok etgan so’zlar berilgan?
+*shudring, yanga, dengiz
+singil, menga, ko’ngil
+kongress, yengil, shtanga
+kenglik, ingramoq, tungi
 
-Ushbu hikmat muallifini aniqlang: Ki dono turo dushmani jon buvad,
-Beh az doʻst marde ki nodon buvad.
-*Firdavsiy
-Roʻdakiy
-Nosir Xusrav
-Sa`diy
+Qo‘shma fe’l ishtirok etgan gapni toping.
+*Bozordan u-bu narsa sotib olibdi.
+Ammam menga bir kulib qo‘ydi.
+Bu kitobni allaqachon o‘qib chiqqanman.
+U keyinchalik do‘sti bilan kelishib ketdi.
 
-Mashhur fors-tojik shoiri Roʻdakiy qanday nom bilan sharaflanadi?
-*Odam ush-shuaro
-Ustodi avval
-Malik ul-kalom
-Muallim us-soni
+Tub so‘zni belgilang.
+*so‘lim
+chiziq
+kesim
+qo‘nim
 
-Isfahon rasadxonasini boshqarib, falakiyot ilmiga oid tadqiqotlar olib borgan shoirni belgilang:
-*Nosir Xusrav  
-Umar Xayyom
-Ibn Sino
-As`adi Tusiy
-
-"Fors-tojik adabiyoti klassiklari" nomli risola muallifini toping:
-*Sh.Shomuhammedov.   
-J.Kamol   
-T.Jalolov
-N.Komilov
-
-"Zod ul-musofirin, "Vajhi din", "Safarnoma" kabi asarlar muallifini toping:
-*Nosir Xusrav
-Sobir Termiziy
-As`adi Tusiy
-Umar Xayyom
-
-"Qutudgʻu bilig" dostonining arab yozuvida koʻchirilgan nusxasi:
-*"Qohira",  "Namangan"
-"Qohira",  "Vena"
-"Namangan",  "Hirot"
-"Hirot" yoki "Vena"
-
-"Qutudgʻu  bilig" dostonining uygʻur yozuvida koʻchirilgan nusxasi:
-*"Hirot" yoki "Vena"    
-"Qohira"
-"Namangan"
-B va C
-
-Qozon universisteti talabasi Valizoda Muhammad Hoji Eshon Lolaresh uyida bir qoʻlyozma asar saqlanishi haqida  ma`lumot beradi. Bu:
-*"Qutadgʻu  bilig" dostonining  "Namangan" nusxasi
-"Muhabbatnoma" dostonining nusxasi
-"Qutadgʻu  bilig"ning  "Hirot" nusxasi
-"Hibat ul -haqoyiq"  dostonning  nusxasi
-
-"Qutadgʻu bilig" dostonining  oʻzbek  tilida  ilk  tanqidiy  nashri qachon va kim  tomonidan  amalga oshirilgan.
-*1971 - yilda Qayum  Karimov
-1971 - yilda Qozoqboy  Mahmudov
-1972 - yilda  Aziz Qayumov
-1970 – yilda Ergash Fozilov
-
-Yusuf Xos Hojibning  "Qutadgʻu bilig" dostoni boʻyicha  doktorlik dissertatsiyasini  yoqlagan olimni belgilang.
-*B.Toʻxliyev
-H.Boltaboyev
-N.Jumaxoʻjayev   
-A.Qayumov
-
-"Qutadgʻu bilig" dostoniga  tegishli  boʻlgan  nomlarini belgilang. 1. "Adabul  muluk"   2.  "Pandnomai  muluk"  3.  "Anisul qalb"  4.  "Shohnomai turkiy"   5.  "Padnomai turkiy" 6.  "Oinul mamlakat"    7. "Ziynatul  umaro".   8. "Nizomul
-*1, 2, 4, 6, 7
-1, 4, 5, 6, 7
-1, 2,  4, 5, 6
+Qaysi so‘zlar tarkibida bir tovushdan iborat so‘z yasovchilar mavjud?  1. kurak; 2. sanoqsiz; 3. sabotli;4. achchiq; 5. badavlat; 6. unumli 7. bo‘yoqsiz 8. qoraymoq.
+*1, 2, 4, 7, 8
 2, 3, 4, 7, 8
+3, 4, 5, 6, 8
+3, 4, 5, 6, 8
 
-"Qutadgʻu bilig" dostonidagi ushbu  bayt  bilan    boshlanuvchi bob  mazmuniga koʻra  qaysi  an`anaviy  qismga  tegishli: Oʻkush oʻgdi birla tuman ming sano, Ugʻan bir bayatqa  angar yoʻq fano…
-*Hamd  
-Na`t  
-Madhiya       
-Kitobning  yozilishi  sababi
+"Terimchilarga" so‘zi uchun yasovchi asos qaysi javobda to‘g‘ri ko‘rsatilgan?
+*terim
+terimchi
+ter
+terimchilar
 
-Ushbu  bayt "Qutagʻqu bilig" dostonning qaysi  bobi   xotimasida berilgan? Qiyamatda  koʻrgit toʻlunteg yuzin. Ilig  tutmachi qil ilaha oʻzin.
-*Na’t  
-Hamd
-Alqob	
-Madhiya
+Qaysi qatordagi so‘zlarda shakldoshlik (omonimlik) so‘z yasovchi bilan shakl yasovchi qo‘shimchalar doirasida kuzatiladi?
+*ekin, kiyin
+tinchi, sen-chi
+qo‘shin, bo‘yin
+chiqit, ko‘chat
 
-"Hibat ul-haqoyiq" dostonining tanqidiy matni necha baytdan iborat?
-*256
-254
-235
-258
+Qaysi so‘z -oq qo‘shimchasi bilan yasalgan?
+*qoloq
+shildiroq
+uzoq
+suvoq
 
-Oʻzbekistonda "Hibat ul-haqoyiq" dostonining toʻliq nashri ilk bora qaysi olim tomonidan amalga oshirilgan?
-*Q.Mahmudov
-Q.Karimov
-A.Qayumov
-B.Toʻxliyev
+-gach (-kach, -qach)---, ----a(-y)--- ----guncha--- ---(-kuncha--- qo‘shimchalari vazifasiga ko‘ra qanday qo‘shimcha?
+*lug’aviy shakl yasovchi
+so‘z yasovchi
+sintaktik shakli yasovchi
+sodda qo‘shimcha
 
-Ahmad Yugnakiyning "Hibat ul-haqoyiq" dostoni haqida" nomli monografiya muallifini aniqlang.
-*Q.Mahmudov
-B.Toʻxliev
-Q.Karimov
-B.Valixoʻjaev
+Men uning bu uyda qiynalib yashaganligini angladim.  Ushbu gapdagi yasama so‘zlar miqdorini aniqlang.
+*3 ta
+2 ta
+1 ta
+4 ta
 
-"Ilk badiiy doston" nomli monografiya muallifini aniqlang.
-*Q.Karimov
-B.Toʻxliev
-B.Valixoʻjaev
-Q.Mahmudov
+So‘z yasalish hodisasi qaysi so‘z turkumlariga xos?
+*ot, sifat, fe’l, ravish turkumlariga
+mustaqil so‘z turkumlariga
+faqat ot va fe’l turkumlariga
+barcha so‘z turkumlariga xos
 
-Navoiy bergan ma`lumotga koʻra Ahmad Yugankiy kimlar bilan birga oʻqigan?
-*Imom Yusuf va Imom Muhammad
-Imom Ahmad va Imom Yusuf
-Imom A`zam va Imom Muhammad
-Bunday ma`lumot yoʻq
+Bilan ko‘makchisi quyidagi qaysi ma’nolarni ifodalaydi?
+*1. Birgalik, hamkorlik; 2. Vosita; 3.Maqsad; 4. Ish-harakat tarzi,holati; 5. Payt; 6. O‘xshatish.
+1,2,4,5
+2,4,5,6
+2, 4,5
+1,2,3,5
 
-"Hibat ul-haqoyiq" dostonining dastlabki boblari qaysi she`riy shaklda yozilgan
-*Masnaviy
-Qasida
-Toʻrtlik
-Murabba
-
-Ahmad Yugnakiy VIII asrda yashagan degan yanglish fikrning yuzaga kelishiga nima sabab boʻlgan?
-*Yugnakiyning Imom A`zamdan dars olganligi haqidagi Navoiy ma`lumoti
-Dod Spohsolarbek ismli hukmdorning shu davrda yashab oʻtganligi
-Doston tilining oʻsha davrga xosligi
-"Hibat ul-haqoyiq" dostonida Imom A`zamning tilga olinishi
-
-Abdurazzoq Baxshi "Hibat ul-haqoyiq" dostonini qaysi yozuvda koʻchirgan?
-*Arab
-Arab va uygʻur yozuvlarida alohida
-Uygʻur
-Yarmini arab, yarmini uygʻur yozuvidа
-
-"Hibat ul-haqoyiq" dostoni muqaddimasida Siddiq, Foruq, Zinnurayn va Murtazo ismlari tilga olinadi. Bular kimlar?
-*Muhammad (a.s)  xalifalari
-Muhammad (a.s)ga nisbat berilgan ismlar
-Paygʻambarlar
-Paygʻambarning oila a`zolari
-
-1987-yilda boshlanib 2003-yilda nihoyasiga yetkazilgan Alisher Navoiyning Mukammal asarlar to‘plami necha tomdan iborat
-*20
-15
-10
-4
-
-"Majolis un-nafois"da qayd qilinganiga ko‘ra Navoiy aruz ilmini dastlab kimdan o‘rgangan?
-*Darvesh Mansur
-Xo‘ja Yusuf Burhon
-Abdurahmon Jomiy
-Fazlulloh Abulaysiy
-
-"Majolis un-nafois"da qayd qilinishicha Navoiyning musiqa ilmidagi birinchi ustozi kim?
-*Xo‘ja Yusuf Burhon
-Abdurahmon Jomiy
-Fazlulloh Abulaysiy
-Darvesh Mansur
-
-Alisher Navoiyning fiqh (islom huquqshunosligi) ilmidagi ustozini belgilang
-*Fazlulloh Abulaysiy
-Darvesh Mansur
-Xo‘ja Yusuf Burhon
-Abdurahmon Jomiy
-
-“Ilk devon”ning nomlanishi haqida to‘g‘ri fikrni belgilang
-*Devonni nashrga (faksimil) tayyorlagan H.Sulaymonov shunday nomlagan
-Alisher Navoiy dastlabki devoniga shunday nom bergan.
-Muxlislar tomonidan tuzilib, shunday nomlangan.
-Devonni ko‘chirgan kotib Sultonali Mashhadiy shunday nom bergan.
-
-Alisher Navoiyning g‘azalchilikdagi ustozlari haqidagi qit`asida qaysi  shoirlar tilga olingan?
-*Amir Xusrav, Hofiz Sheroziy, Jomiy
-Fariduddin Attor, Rumiy, Jomiy.
-Atoyi, Sakkokiy, Lutfiy.
-Nizomiy, Amir Xusrav, Jomiy.
-
-Navoiyning turkiy va forsiy  devonlarini  umumlashtirganda   lirikaning  necha xil janrida ijod qilgan bo‘ladi?
-*18
-20
-16
-14
+Qaysi so’zlar  grammatik ma’noga ega  emas?
+*barcha so’zlar grammatik ma’noga ega
+olmosh
+barcha yordamchi so’zlar
+modal taqlid  va undov so’zlar

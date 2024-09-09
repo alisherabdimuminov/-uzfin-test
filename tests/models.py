@@ -34,6 +34,9 @@ def langer(lang_code: str):
             return "Fransuzcha"
         case "de":
             return "Nemischa"
+        
+def json():
+    return {}
 
 
 class Specialist(models.Model):
@@ -72,3 +75,9 @@ class Test(models.Model):
 
     def __str__(self):
         return self.name
+    
+
+class Result(models.Model):
+    test = models.ForeignKey(Test, on_delete=models.CASCADE)
+    questions = models.ManyToManyField(Question, related_name="result_questions")
+    cases = models.JSONField(default=json, null=True, blank=True)
