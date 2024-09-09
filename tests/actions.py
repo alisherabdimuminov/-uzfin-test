@@ -92,7 +92,7 @@ def print_test_answers_as_text(modeladmin: ModelAdmin, request: HttpRequest, que
     for result in queryset:
         for i in result.cases:
             case = result.cases[i]
-            html += "{} - {} {} {}".format(
+            html += "{} - {} {} {}\n".format(
                 i,
                 case.get('correct'),
                 case.get('answer'),
