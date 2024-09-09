@@ -79,5 +79,5 @@ class Test(models.Model):
 
 class Result(models.Model):
     test = models.ForeignKey(Test, on_delete=models.CASCADE)
-    questions = models.ManyToManyField(Question, related_name="result_questions")
+    questions = models.ManyToManyField(Question, related_name="result_questions", null=True, blank=True)
     cases = models.JSONField(default=json, null=True, blank=True)
