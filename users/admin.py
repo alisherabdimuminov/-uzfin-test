@@ -17,7 +17,10 @@ class UserModelAdmin(UserAdmin):
     fieldsets = (
         ("Foydalanuvchini tahrirlash", {
             "fields": ("username", "first_name", "last_name", "state", "raw", )
-        }), 
+        }),
+        ("Ruxsatlar", {
+            "fields": ("is_superuser", "is_staff", "groups", "user_permissions", )
+        })
     )
     add_fieldsets = (
         ("Yangi foydalanuvchi qo'shish", {
